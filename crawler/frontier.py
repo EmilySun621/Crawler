@@ -24,6 +24,7 @@ class Frontier(object):
                 f"Found save file {self.config.save_file}, deleting it.")
             os.remove(self.config.save_file)
         # Load existing save file, or create one if it does not exist.
+        print("trying to open or create a saved_file")
         self.save = shelve.open(self.config.save_file)
         if restart:
             for url in self.config.seed_urls:
@@ -40,8 +41,10 @@ class Frontier(object):
         total_count = len(self.save)
         tbd_count = 0
         for url, completed in self.save.values():
+            print(is_valid(url))
             if not completed and is_valid(url):
                 self.to_be_downloaded.append(url)
+                print(url)
                 tbd_count += 1
         self.logger.info(
             f"Found {tbd_count} urls to be downloaded from {total_count} "
