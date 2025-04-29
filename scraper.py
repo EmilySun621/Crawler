@@ -2,7 +2,34 @@ import re
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import hashlib
 
+def get_fingerPrints(text, n=3):
+    words = text.lower().split()
+    if len(words) < n:
+        return set()
+
+    fingerprints = set()
+    for i in range(len(words) - n + 1):
+        ngram = " ".join(words[i:i+n])
+        h = hashlib.sha256(ngram.encode("utf-8")).hexdigest()
+        fingerprints.add(h[:16])
+    return fingerprints
+
+def is_near_duplicate(currentFP, seenFPs, threshold=0.9):
+    for prevFP in seenFPs:
+        if currentFP = prevFP:
+            return True
+        
+        inter = currentFP.intersection(prevFP)
+        union = currentFP.union(prevFP)
+        if len(union) == 0:
+            continue
+            similarity = len(inter) / len(union)
+        if similarity > threshold:
+            return True
+    return False
+        
 
 def scraper(url, resp):
     print(f"[SCRAPER] Crawling: {url} - Status: {resp.status}")
@@ -20,17 +47,25 @@ def extract_next_links(url, resp):
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
     if resp.status != 200 or resp.raw_response is None:
-        print("Falling to find new link in the html.")
+        print("Falling to find new link in this html.")
         return []
     soup = BeautifulSoup(resp.raw_response.content, "html.parser")
-    print("BeautifulSoup parsed the html")
+    text = soup.get_text(separator=" ",strip=True)
+    
+    
+    #Skip large file with tiny text 
+    if len(resp.raw_response.content) > 1_000_000 and len(text) < 500:
+        print(f"[SKIP] Large file with low content: {url}")
+        return []
     links = []
     for link_tag in soup.find_all('a'):
         href = link_tag.get('href')
-        if href:
+        #Don't select anchor, email link, and javascript behavior 
+        if href and not herf.startswith('#') and not href.startswith("mailto") and not href.startswith("javascript"):
             full_url = urljoin(url, href)
             links.append(full_url)
-    return links
+    # only maintain the unique links
+    return list(set(links))
 
 def is_valid(url):
     # Decide whether to crawl this url or not. 
