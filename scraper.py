@@ -2,34 +2,12 @@ import re
 from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
-import hashlib
+from detect_duplication import DuplicateDetector
+from html_cleaner import clean_html_text
+from crawler.database import DataBase as db
 
-def get_fingerPrints(text, n=3):
-    words = text.lower().split()
-    if len(words) < n:
-        return set()
 
-    fingerprints = set()
-    for i in range(len(words) - n + 1):
-        ngram = " ".join(words[i:i+n])
-        h = hashlib.sha256(ngram.encode("utf-8")).hexdigest()
-        fingerprints.add(h[:16])
-    return fingerprints
-
-def is_near_duplicate(currentFP, seenFPs, threshold=0.9):
-    for prevFP in seenFPs:
-        if currentFP = prevFP:
-            return True
-        
-        inter = currentFP.intersection(prevFP)
-        union = currentFP.union(prevFP)
-        if len(union) == 0:
-            continue
-            similarity = len(inter) / len(union)
-        if similarity > threshold:
-            return True
-    return False
-        
+detector = DuplicateDetector()
 
 def scraper(url, resp):
     print(f"[SCRAPER] Crawling: {url} - Status: {resp.status}")
@@ -47,11 +25,14 @@ def extract_next_links(url, resp):
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
     if resp.status != 200 or resp.raw_response is None:
-        print("Falling to find new link in this html.")
+        d.blacklistURL.add(url)
+        print(f"[BlackListing]: Falling to find new link in {url}.")
         return []
-    soup = BeautifulSoup(resp.raw_response.content, "html.parser")
-    text = soup.get_text(separator=" ",strip=True)
-    
+
+    text = clean_html_text(resp.raw_response.content) 
+
+    if detector.is_duplicate(text, url):
+        return []
     
     #Skip large file with tiny text 
     if len(resp.raw_response.content) > 1_000_000 and len(text) < 500:

@@ -4,18 +4,20 @@ from argparse import ArgumentParser
 from utils.server_registration import get_cache_server
 from utils.config import Config
 from crawler import Crawler
-
+from database import DataBase as db
 
 def main(config_file, restart):
     cparser = ConfigParser()
     cparser.read(config_file)
     config = Config(cparser)
-    print("there")
     config.cache_server = get_cache_server(config, restart)
-    print("here")
     crawler = Crawler(config, restart)
-    print("here")
+    # loading blacklist
+    db.load_blacklist()
     crawler.start()
+    # save blacklist
+    db.save_blacklist()
+
 
 
 if __name__ == "__main__":
