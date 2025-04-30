@@ -16,6 +16,7 @@ class DataBase:
     stop_words = set()
     start_time = 0
     # Load stop words once at startup
+    feature_buffer = []
 
     @staticmethod
     def start_timer():
@@ -27,7 +28,7 @@ class DataBase:
 
 
     @staticmethod
-    def load_stop_words(filepath="stop_words.txt"):
+    def load_stop_words(filepath="/home/qirans3/121/a2/spacetime-crawler4py/stop_words.txt"):
         try:
             with open(filepath, "r") as f:
                 DataBase.stop_words = set([line.strip() for line in f if line.strip()])
@@ -59,13 +60,14 @@ class DataBase:
             DataBase.word_counter[clean_word] += 1
 
     @staticmethod
-    def save_blacklist(filepath="blacklist.txt"):
+    def save_blacklist(filepath="/home/qirans3/121/a2/spacetime-crawler4py/blacklist.txt"):
         with open(filepath, "w") as f:
             for url, reason in DataBase.blacklistURL.items():
                 f.write(f"{reason}: {url}\n")
+                f.flush()
 
     @staticmethod
-    def load_blacklist(filepath="blacklist.txt"):
+    def load_blacklist(filepath="/home/qirans3/121/a2/spacetime-crawler4py/blacklist.txt"):
         try:
             with open(filepath, "r") as f:
                 for line in f:
@@ -90,7 +92,7 @@ class DataBase:
 
     @staticmethod
     def print_summary(seen_checksums=None, near_duplicates=None):
-        with open("crawl_stats.txt", "w") as f:
+        with open("/home/qirans3/121/a2/spacetime-crawler4py/crawl_stats.txt", "w") as f:
             f.write(f"🔹 TOTAL UNIQUE PAGES FOUND: {len(DataBase.unique_urls)}\n\n")
 
             f.write("🔹 SUBDOMAIN COUNTS:\n")
@@ -121,20 +123,15 @@ class DataBase:
                 for url, dupes in near_duplicates.items():
                     f.write(f"{url} ≈ {', '.join(dupes)}\n")
 
-            f.write("\n🔹 BLACKLISTED / TRAP URLS:\n")
             reason_counter = defaultdict(int)
-
             for url, reason in DataBase.blacklistURL.items():
                 reason_counter[reason] += 1
 
             f.write("\n🔹 BLACKLIST REASONS (counts):\n")
             for reason, count in sorted(reason_counter.items(), key=lambda x: x[1], reverse=True):
                 f.write(f"{reason}: {count}\n")
-            
-            f.write("\n🔹 BLACKLISTED / TRAP URLS:\n")
+            f.flush()
 
-            for url, reason in DataBase.blacklistURL.items():
-                f.write(f"{reason}: {url}\n")
 
     @staticmethod
     def reset():

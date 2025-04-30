@@ -6,14 +6,15 @@ from detect_duplication import DuplicateDetector
 from html_cleanup import *
 from database import DataBase
 from avoid_trap import *
-
+from url_info import *
+from url_info import flush_to_csv
 
 detector = DuplicateDetector()
 
 def scraper(url, resp):
     print(f"[SCRAPER] Crawling: {url} - Status: {resp.status}")
     links = extract_next_links(url, resp)
-    return [link for link in links if is_valid(link)]
+    return [link for link in links]
 
 def extract_next_links(url, resp):
     # Implementation required.
@@ -25,31 +26,54 @@ def extract_next_links(url, resp):
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
+
+    # Already in the blacklist
+    if url in DataBase.blacklistURL:
+        return []
+
+    if not is_valid(url) and resp.status == 200:
+        DataBase.blacklistURL[url] = "Not Valid Link"
+        DataBase.unique_urls.add(url)
+        return []
+    elif not is_valid(url):
+        DataBase.blacklistURL[url] = "Not Valid Link"
+        return []
+        
     if resp.status != 200:
         DataBase.blacklistURL[url] = f"Status = {resp.status}" 
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
         return []
 
     if resp.raw_response is None:
         DataBase.blacklistURL[url] = f"Actual Page Not Found" 
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
+        return []
+
+    if "do=" in url:
+        DataBase.blacklistURL[url] = "DokuWiki do= parameter trap"
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
         return []
 
     # extract text the html 
     text = clean_html_text(resp.raw_response.content) 
     
-    # detect if samples are too large or too small, 
-    if not filter_extreme_large_small_files(url,DataBase, text, resp, DataBase.lowerBound, DataBase.upperBound):
-        return []
-
-    # detect if url contain traps
-    if trap_identify(url,DataBase):
-        return []
-
     #detect if text is duplicate 
     if detector.is_duplicate(text, url):
+        return []
+    
+    # detect if samples are too large or too small, 
+    if not filter_extreme_large_small_files(url,DataBase, text, resp, DataBase.lowerBound, DataBase.upperBound):
+        DataBase.unique_urls.add(url)
+        return []
+
+    # detet if url contain traps
+    if trap_identify(url,DataBase):
+        DataBase.unique_urls.add(url)
         return []
 
     #detect if url contain low information
     if is_low_information_path(url,DataBase):
+        DataBase.unique_urls.add(url)
         return []
 
     #After passed all filters, save data to database
@@ -58,11 +82,11 @@ def extract_next_links(url, resp):
     DataBase.scraped.add(url)
     DataBase.unique_urls.add(url)
     DataBase.update_max_words(url, len(text))
-    if len(DataBase.scraped) % 10 == 0:
-        DataBase.log_live_progress()
-
-    DataBase.save_blacklist()
+    # DataBase.feature_buffer.append(extract_url_features(url,1))
+    # if len(DataBase.feature_buffer) >= 20:
+    #     flush_to_csv(DataBase.feature_buffer)
     DataBase.print_summary() 
+    DataBase.save_blacklist()
 
     soup = BeautifulSoup(resp.raw_response.content, "html.parser")
     links = []
@@ -99,7 +123,7 @@ def is_valid(url):
         else:
             return False
         if re.match(
-            r".*\.(css|js|bmp|gif|jpe?g|ico"
+            r".*\.(mpg|css|js|bmp|gif|jpe?g|ico"
             r"|png|tiff?|mid|mp2|mp3|mp4"
             r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
             r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"

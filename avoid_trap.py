@@ -1,5 +1,6 @@
 from urllib.parse import urlparse, parse_qs
 from collections import Counter
+from url_info import *
 
 def is_query_too_long(query, url, DataBase):
     if len(query) > 100:
@@ -22,13 +23,38 @@ def has_repeated_path_segments(path, url, DataBase):
 
 def contains_trap_keywords(url, DataBase):
     trap_keywords = [
-        "calendar", "date", "year", "month", "day", "sessionid",
+        "calendar", "date", "year", "month", "day",
         "sort=", "ref=", "replytocom", "trackback", "event"
     ]
     if any(keyword in url.lower() for keyword in trap_keywords):
         DataBase.blacklistURL[url] = "Calendar Trap"
         return True
     return False
+
+def is_url_too_long(url, DataBase, max_len=2000):
+    if len(url) > max_len:
+        DataBase.blacklistURL[url] = f"URL Too Long ({len(url)} chars)"
+        return True
+    return False
+
+def has_format_or_lang_trap(query, url, DataBase):
+    trap_keys = {"lang", "language", "locale", "format", "output", "view", "display", "print", "pdf"}
+    query_params = parse_qs(query)
+    for key in query_params:
+        if key.lower() in trap_keys:
+            DataBase.blacklistURL[url] = "Language/Format/View Trap"
+            return True
+    return False
+
+
+def has_session_id(query, url, DataBase):
+    session_keywords = ["sessionid", "token", "auth", "jsessionid", "sid"]
+    query_keys = parse_qs(query).keys()
+    if any(key.lower() in session_keywords for key in query_keys):
+        DataBase.blacklistURL[url] = "Session/Token Trap"
+        return True
+    return False
+
 
 def has_social_or_fragment_traps(url, DataBase):
     traps = {
@@ -75,8 +101,11 @@ def trap_identify(url, DataBase):
         contains_trap_keywords(url, DataBase) or
         has_social_or_fragment_traps(url, DataBase) or
         is_query_param_count_too_high(query, url, DataBase) or
-        has_path_repetition_trap(path, url, DataBase)
+        has_path_repetition_trap(path, url, DataBase) or
+        is_url_too_long(url, DataBase) or
+        has_format_or_lang_trap(query, url, DataBase) or
+        has_session_id(query, url, DataBase)
     ):
+        DataBase.feature_buffer.append(extract_url_features(url,0))
         return True
-    
     return False

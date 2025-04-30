@@ -3,6 +3,9 @@ from bs4 import BeautifulSoup, Comment
 from urllib.parse import urlparse
 import re
 from collections import Counter
+from url_info import *
+from database import DataBase
+
 
 def clean_html_text(html_content: bytes) -> str:
     """
@@ -41,26 +44,31 @@ def filter_extreme_large_small_files(url, DataBase, text, resp, lowerbound, uppe
     # Very large file but low content → suspicious
     if content_size > 1_000_000 and text_length < 500:
         DataBase.blacklistURL[url] = "Large File With Low Content"
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
         return False
 
     # Content too small
     if text_length < lowerbound:
         print(f"[SKIP] Content too long: {text_length} chars (max: {lowerbound})")
         DataBase.blacklistURL[url] = f"Content Too Short"
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
         return False
 
     # Content too large
     if text_length > upperbound:
         print(f"[SKIP] Content too long: {text_length} chars (max: {upperbound})")
         DataBase.blacklistURL[url] = f"Content Too Long"
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
         return False
 
     # If page is more than 20
+    path = urlparse(url).path
     pagination_match = re.search(r'/page/(\d+)/', path)
     if pagination_match:
         page_num = int(pagination_match.group(1))
         if page_num > 20:
             DataBase.blacklistURL[url] = f"Page More Than 20"
+            # DataBase.feature_buffer.append(extract_url_features(url,0))
             return False
     return True
 
@@ -84,6 +92,7 @@ def is_low_information_path(url, db, depth=3):
     if path_key in db.visited_path:
         print(f"[SKIP] Repeated low-info path structure: {path_key}")
         db.blacklistURL[url] = "Low Information Path"
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
         return True
 
     db.visited_path.add(path_key)

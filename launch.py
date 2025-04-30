@@ -6,6 +6,7 @@ from utils.config import Config
 from crawler import Crawler
 from database import DataBase
 
+
 def main(config_file, restart):
     cparser = ConfigParser()
     cparser.read(config_file)
@@ -22,7 +23,7 @@ def main(config_file, restart):
     end_time = time.time() 
 
     DataBase.save_blacklist()
-    DataBase.print_summary() 
+    # DataBase.print_summary() 
 
 
 
