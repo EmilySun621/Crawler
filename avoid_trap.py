@@ -1,47 +1,82 @@
-from urllib.parse import urlparse
+from urllib.parse import urlparse, parse_qs
+from collections import Counter
 
-
-def trap_identify(url,DataBase):
-    parsed = urlparse(url)
-    path = parsed.path
-    query = parsed.query
-
+def is_query_too_long(query, url, DataBase):
     if len(query) > 100:
-        DataBase.blacklistURL[url] = "100+ Queries"
+        DataBase.blacklistURL[url] = "Queries Longer Than 100"
         return True
+    return False
 
+def is_path_too_long(path, url, DataBase):
     if path.count('/') > 10:
         DataBase.blacklistURL[url] = "Path Too Long"
         return True
-    
+    return False
+
+def has_repeated_path_segments(path, url, DataBase):
     segments = path.split('/')
     if len(segments) != len(set(segments)):
         DataBase.blacklistURL[url] = "Repeated Segments"
         return True
-    
-    trap_keywords = [
-    "calendar", "date", "year", "month", "day", "sessionid",
-    "sort=", "ref=", "replytocom", "trackback", "event"
-    ]
+    return False
 
+def contains_trap_keywords(url, DataBase):
+    trap_keywords = [
+        "calendar", "date", "year", "month", "day", "sessionid",
+        "sort=", "ref=", "replytocom", "trackback", "event"
+    ]
     if any(keyword in url.lower() for keyword in trap_keywords):
         DataBase.blacklistURL[url] = "Calendar Trap"
         return True
+    return False
 
-    if "?share=" in url:
-        DataBase.blacklistURL[url] = "Social Share URL"
+def has_social_or_fragment_traps(url, DataBase):
+    traps = {
+        "?share=": "Social Share URL",
+        "redirect": "Redirect Trap",
+        "#comment": "Fragment Comment Anchor",
+        "#respond": "Fragment Respond Anchor",
+        "#comments": "Fragment Comments Anchor"
+    }
+    for pattern, reason in traps.items():
+        if pattern in url:
+            DataBase.blacklistURL[url] = reason
+            return True
+    return False
+
+def is_query_param_count_too_high(query, url, DataBase):
+    query_params = parse_qs(query)
+    if len(query_params) > 10:
+        DataBase.blacklistURL[url] = "Query's Params Greater Than 10"
         return True
-    if "redirect" in url:
-        DataBase.blacklistURL[url] = "Redirect Trap"
-        return True
-    if "#comment" in url:
-        DataBase.blacklistURL[url] = "Fragment Comment Anchor"
-        return True
-    if "#respond" in url:
-        DataBase.blacklistURL[url] = "Fragment Respond Anchor"
-        return True
-    if "#comments" in url:
-        DataBase.blacklistURL[url] = "Fragment Comments Anchor"
+    return False
+
+def has_path_repetition_trap(path, url, DataBase, repeat_threshold=5):
+    paths_split = [segment for segment in path.split("/") if segment]
+    if paths_split:
+        most_common = Counter(paths_split).most_common(1)
+        if most_common:
+            _, times = most_common[0]
+            if times > repeat_threshold:
+                DataBase.blacklistURL[url] = "Repetitive Path Segments"
+                return True
+    return False
+
+def trap_identify(url, DataBase):
+    parsed = urlparse(url)
+    path = parsed.path
+    query = parsed.query
+
+    # Modularized trap checks
+    if (
+        is_query_too_long(query, url, DataBase) or
+        is_path_too_long(path, url, DataBase) or
+        has_repeated_path_segments(path, url, DataBase) or
+        contains_trap_keywords(url, DataBase) or
+        has_social_or_fragment_traps(url, DataBase) or
+        is_query_param_count_too_high(query, url, DataBase) or
+        has_path_repetition_trap(path, url, DataBase)
+    ):
         return True
     
     return False

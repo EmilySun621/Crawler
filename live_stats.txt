@@ -46,3 +46,15 @@
 [04:59:39] Pages: 20, Time: 18.28s, Speed: 1.09 pages/sec
 [04:59:49] Pages: 30, Time: 27.92s, Speed: 1.07 pages/sec
 [05:00:14] Pages: 40, Time: 52.81s, Speed: 0.76 pages/sec
+[05:38:00] Pages: 10, Time: 7.65s, Speed: 1.31 pages/sec
+[05:39:13] Pages: 10, Time: 14.43s, Speed: 0.69 pages/sec
+[05:39:27] Pages: 20, Time: 28.54s, Speed: 0.70 pages/sec
+[05:39:37] Pages: 30, Time: 38.59s, Speed: 0.78 pages/sec
+[05:39:49] Pages: 40, Time: 50.18s, Speed: 0.80 pages/sec
+[05:40:29] Pages: 50, Time: 90.33s, Speed: 0.55 pages/sec
+[05:41:21] Pages: 60, Time: 142.42s, Speed: 0.42 pages/sec
+[05:41:41] Pages: 70, Time: 161.91s, Speed: 0.43 pages/sec
+[05:42:43] Pages: 80, Time: 224.44s, Speed: 0.36 pages/sec
+[05:43:05] Pages: 90, Time: 246.20s, Speed: 0.37 pages/sec
+[05:45:21] Pages: 100, Time: 382.31s, Speed: 0.26 pages/sec
+[05:46:40] Pages: 110, Time: 461.49s, Speed: 0.24 pages/sec

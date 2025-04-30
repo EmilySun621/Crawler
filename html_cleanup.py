@@ -1,6 +1,8 @@
 import re
 from bs4 import BeautifulSoup, Comment
 from urllib.parse import urlparse
+import re
+from collections import Counter
 
 def clean_html_text(html_content: bytes) -> str:
     """
@@ -53,6 +55,13 @@ def filter_extreme_large_small_files(url, DataBase, text, resp, lowerbound, uppe
         DataBase.blacklistURL[url] = f"Content Too Long"
         return False
 
+    # If page is more than 20
+    pagination_match = re.search(r'/page/(\d+)/', path)
+    if pagination_match:
+        page_num = int(pagination_match.group(1))
+        if page_num > 20:
+            DataBase.blacklistURL[url] = f"Page More Than 20"
+            return False
     return True
 
 
