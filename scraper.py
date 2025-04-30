@@ -3,8 +3,9 @@ from urllib.parse import urlparse
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from detect_duplication import DuplicateDetector
-from html_cleaner import clean_html_text
-from crawler.database import DataBase as db
+from html_cleanup import *
+from database import DataBase
+from avoid_trap import *
 
 
 detector = DuplicateDetector()
@@ -24,25 +25,52 @@ def extract_next_links(url, resp):
     #         resp.raw_response.url: the url, again
     #         resp.raw_response.content: the content of the page!
     # Return a list with the hyperlinks (as strings) scrapped from resp.raw_response.content
-    if resp.status != 200 or resp.raw_response is None:
-        d.blacklistURL.add(url)
-        print(f"[BlackListing]: Falling to find new link in {url}.")
+    if resp.status != 200:
+        DataBase.blacklistURL[url] = f"Status = {resp.status}" 
         return []
 
-    text = clean_html_text(resp.raw_response.content) 
+    if resp.raw_response is None:
+        DataBase.blacklistURL[url] = f"Actual Page Not Found" 
+        return []
 
+    # extract text the html 
+    text = clean_html_text(resp.raw_response.content) 
+    
+    # detect if samples are too large or too small, 
+    if not filter_extreme_large_small_files(url,DataBase, text, resp, DataBase.lowerBound, DataBase.upperBound):
+        return []
+
+    # detect if url contain traps
+    if trap_identify(url,DataBase):
+        return []
+
+    #detect if text is duplicate 
     if detector.is_duplicate(text, url):
         return []
-    
-    #Skip large file with tiny text 
-    if len(resp.raw_response.content) > 1_000_000 and len(text) < 500:
-        print(f"[SKIP] Large file with low content: {url}")
+
+    #detect if url contain low information
+    if is_low_information_path(url,DataBase):
         return []
+
+    #After passed all filters, save data to database
+    DataBase.count_words(text)
+    DataBase.add_subdomain(url)
+    DataBase.scraped.add(url)
+    DataBase.unique_urls.add(url)
+    DataBase.update_max_words(url, len(text))
+    if len(DataBase.scraped) % 10 == 0:
+        DataBase.log_live_progress()
+
+    DataBase.save_blacklist()
+    DataBase.print_summary() 
+
+    soup = BeautifulSoup(resp.raw_response.content, "html.parser")
     links = []
+
     for link_tag in soup.find_all('a'):
         href = link_tag.get('href')
         #Don't select anchor, email link, and javascript behavior 
-        if href and not herf.startswith('#') and not href.startswith("mailto") and not href.startswith("javascript"):
+        if href and not href.startswith(("#", "mailto:", "javascript:")):
             full_url = urljoin(url, href)
             links.append(full_url)
     # only maintain the unique links

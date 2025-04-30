@@ -1,0 +1,119 @@
+🔹 TOTAL UNIQUE PAGES FOUND: 45
+
+🔹 SUBDOMAIN COUNTS:
+futurehealth.ics.uci.edu: 5
+www.ics.uci.edu: 6
+www.informatics.uci.edu: 6
+www.stat.uci.edu: 28
+
+🔹 TOP 50 WORDS (excluding stop words):
+statistics: 281
+data: 230
+department: 200
+university: 186
+research: 183
+professor: 171
+seminar: 160
+health: 151
+abstract: 140
+information: 133
+obj: 116
+endobj: 116
+computer: 115
+science: 110
+news: 110
+school: 108
+graduate: 105
+endstream: 101
+ieee: 97
+contact: 95
+student: 95
+series: 89
+stream: 87
+bs: 86
+engineering: 82
+uci: 81
+bren: 80
+phd: 80
+undergraduate: 80
+uc: 80
+students: 76
+members: 76
+donald: 73
+statistical: 73
+software: 72
+faculty: 71
+degrees: 70
+systems: 69
+informatics: 69
+opportunities: 66
+conference: 63
+sciences: 62
+may: 62
+security: 60
+via: 59
+master: 57
+models: 57
+course: 56
+april: 55
+healthcare: 54
+
+🔹 LONGEST PAGE:
+URL: http://www.stat.uci.edu/wp-content/uploads/StephanMandtAbstract5-16-19
+Word Count: 98557
+
+🔹 BLACKLISTED / TRAP URLS:
+
+🔹 BLACKLIST REASONS (counts):
+Status = 404: 37
+Low Information Path: 4
+Calendar Trap: 2
+Content Too Long: 1
+Content Too Short: 1
+
+🔹 BLACKLISTED / TRAP URLS:
+Status = 404: https://www.stat.uci.edu/ICS/statistics/research/seminarseries/2013-2014/index
+Status = 404: https://www.stat.uci.edu/ICS/statistics/research/seminarseries/2010-2011/index
+Status = 404: https://www.stat.uci.edu/ICS/statistics/research/seminarseries/2012-2013/index
+Status = 404: https://www.stat.uci.edu/ICS/statistics/research/seminarseries/2011-2012/index
+Content Too Long: http://www.stat.uci.edu/wp-content/uploads/LorinCrawfordAbstract5-2-19
+Calendar Trap: https://courselisting.ics.uci.edu/ugrad_courses/listing-course.php?year=2023&level=Graduate&department=STATS&program=ALL
+Status = 404: https://mds.ics.uci.edu/prospective-students/cost-and-financial-aid
+Content Too Short: https://www.ics.uci.edu/~sharad
+Calendar Trap: https://futurehealth.ics.uci.edu/preterm-birth-prevention-in-everyday-settings
+Status = 404: https://www.ics.uci.edu/teaching/cs205-2021-Spring/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs295-2019-Spring/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs205-2024-Spring/index.html
+Status = 404: https://www.ics.uci.edu/publications.html
+Status = 404: https://www.ics.uci.edu/impact.html#vuln
+Status = 404: https://www.ics.uci.edu/allawards.html
+Status = 404: https://www.ics.uci.edu/impact.html#media
+Status = 404: https://www.ics.uci.edu/teaching/cs205-2025-Spring/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs205-2023-Spring/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs134-2021-Fall/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs134-2023-Fall/index.html
+Status = 404: https://www.cs.uci.edu/uci-finishes-in-top-5-at-national-collegiate-cyber-defense-competition
+Status = 404: https://www.ics.uci.edu/teaching/cs134-2019-Fall/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs134-2024-Fall/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs295-2020-Spring/index.html
+Status = 404: https://www.ics.uci.edu/teaching/cs205-2022-Spring/index.html
+Status = 404: https://www.ics.uci.edu/impact.html#diss-resp
+Status = 404: https://www.ics.uci.edu/teaching/cs134-2020-Fall/index.html
+Status = 404: https://www.ics.uci.edu/allnews.html
+Low Information Path: https://www.cs.uci.edu
+Status = 404: https://www.ics.uci.edu/teaching/cs134-2022-Fall/index.html
+Low Information Path: https://cyberclub.ics.uci.edu
+Status = 404: https://www.ics.uci.edu/index.html#index-2
+Status = 404: https://www.ics.uci.edu/MJCarey_Professional_Experience.html
+Status = 404: https://www.ics.uci.edu/MJCarey_Patents.html
+Status = 404: https://www.ics.uci.edu/MJCarey_Invited_Lectures.html
+Status = 404: https://www.ics.uci.edu/MJCarey_Prior_Research_Funding.html
+Status = 404: https://www.ics.uci.edu/MJCarey_Honors.html
+Status = 404: https://www.ics.uci.edu/MJCarey_PhD_Students_Supervised.html
+Status = 404: https://www.ics.uci.edu/index.html
+Status = 404: https://www.ics.uci.edu/MJCarey_Publications.html
+Status = 404: https://www.ics.uci.edu/index.html#index-3
+Status = 404: https://www.ics.uci.edu/MJCarey_Contact.html
+Status = 404: https://www.ics.uci.edu/MJCarey_Professional_Activities.html
+Low Information Path: https://mswe.ics.uci.edu
+Low Information Path: http://mhcid.ics.uci.edu

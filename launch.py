@@ -1,10 +1,10 @@
 from configparser import ConfigParser
 from argparse import ArgumentParser
-
+import time
 from utils.server_registration import get_cache_server
 from utils.config import Config
 from crawler import Crawler
-from database import DataBase as db
+from database import DataBase
 
 def main(config_file, restart):
     cparser = ConfigParser()
@@ -12,11 +12,17 @@ def main(config_file, restart):
     config = Config(cparser)
     config.cache_server = get_cache_server(config, restart)
     crawler = Crawler(config, restart)
-    # loading blacklist
-    db.load_blacklist()
+
+    DataBase.load_blacklist()
+    DataBase.load_stop_words()
+
+    DataBase.start_timer()
+    start_time = time.time()
     crawler.start()
-    # save blacklist
-    db.save_blacklist()
+    end_time = time.time() 
+
+    DataBase.save_blacklist()
+    DataBase.print_summary() 
 
 
 
