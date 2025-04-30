@@ -72,9 +72,9 @@ def extract_next_links(url, resp):
         return []
 
     #detect if url contain low information
-    if is_low_information_path(url,DataBase):
-        DataBase.unique_urls.add(url)
-        return []
+    # if is_low_information_path(url,DataBase):
+    #     DataBase.unique_urls.add(url)
+    #     return []
 
     #After passed all filters, save data to database
     DataBase.count_words(text)
