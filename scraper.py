@@ -19,6 +19,8 @@ def scraper(url, resp):
     for link in links:
         if is_valid(link):
             valid_links.append(link)
+        else:
+            blacklistURL.add(link) = ["Invalid Link"]
     return valid_links
 
 def extract_next_links(url, resp):
