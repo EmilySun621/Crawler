@@ -8,13 +8,18 @@ from database import DataBase
 from avoid_trap import *
 from url_info import *
 from url_info import flush_to_csv
+from urllib.parse import urldefrag
 
 detector = DuplicateDetector()
 
 def scraper(url, resp):
     print(f"[SCRAPER] Crawling: {url} - Status: {resp.status}")
     links = extract_next_links(url, resp)
-    return [link for link in links]
+    valid_links = []
+    for link in links:
+        if is_valid(link):
+            valid_links.append(link)
+    return valid_links
 
 def extract_next_links(url, resp):
     # Implementation required.
@@ -31,14 +36,6 @@ def extract_next_links(url, resp):
     if url in DataBase.blacklistURL:
         return []
 
-    if not is_valid(url) and resp.status == 200:
-        DataBase.blacklistURL[url] = "Not Valid Link"
-        DataBase.unique_urls.add(url)
-        return []
-    elif not is_valid(url):
-        DataBase.blacklistURL[url] = "Not Valid Link"
-        return []
-        
     if resp.status != 200:
         DataBase.blacklistURL[url] = f"Status = {resp.status}" 
         # DataBase.feature_buffer.append(extract_url_features(url,0))
@@ -63,24 +60,28 @@ def extract_next_links(url, resp):
     
     # detect if samples are too large or too small, 
     if not filter_extreme_large_small_files(url,DataBase, text, resp, DataBase.lowerBound, DataBase.upperBound):
-        DataBase.unique_urls.add(url)
+        link, _ = urldefrag(url)
+        DataBase.unique_urls.add(link)
         return []
 
     # detet if url contain traps
     if trap_identify(url,DataBase):
-        DataBase.unique_urls.add(url)
+        link, _ = urldefrag(url)
+        DataBase.unique_urls.add(link)
         return []
 
     #detect if url contain low information
     # if is_low_information_path(url,DataBase):
-    #     DataBase.unique_urls.add(url)
+    #     link, _ = urldefrag(url)
+    #     DataBase.unique_urls.add(link)
     #     return []
 
     #After passed all filters, save data to database
     DataBase.count_words(text)
     DataBase.add_subdomain(url)
     DataBase.scraped.add(url)
-    DataBase.unique_urls.add(url)
+    link, _ = urldefrag(url)
+    DataBase.unique_urls.add(link)
     DataBase.update_max_words(url, len(text))
     # DataBase.feature_buffer.append(extract_url_features(url,1))
     # if len(DataBase.feature_buffer) >= 20:
@@ -123,14 +124,25 @@ def is_valid(url):
         else:
             return False
         if re.match(
-            r".*\.(mpg|css|js|bmp|gif|jpe?g|ico"
-            r"|png|tiff?|mid|mp2|mp3|mp4"
-            r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
-            r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"
-            r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
-            r"|epub|dll|cnf|tgz|sha1"
-            r"|thmx|mso|arff|rtf|jar|csv"
-            r"|rm|smil|wmv|swf|wma|zip|rar|gz)$", parsed.path.lower()):
+        r".*\.(ppsx|mpg|css|js|bmp|gif|jpe?g|ico"
+        r"|png|tiff?|mid|mp2|mp3|mp4"
+        r"|wav|avi|mov|mpeg|ram|m4v|mkv|ogg|ogv|pdf"
+        r"|ps|eps|tex|ppt|pptx|doc|docx|xls|xlsx|names"
+        r"|data|dat|exe|bz2|tar|msi|bin|7z|psd|dmg|iso"
+        r"|epub|dll|cnf|tgz|sha1"
+        r"|thmx|mso|arff|rtf|jar|csv"
+        r"|rm|smil|wmv|swf|wma|zip|rar|gz"
+        r"|pptm|docm|xlsm|odt|ods|odp|rtfd"
+        r"|xz|lz|lzma|zst|zstd|img"
+        r"|c|cpp|h|java|py|go|ts|rs|sh|bat"
+        r"|mat|hdf5?|np[yz]|sav|dta|por|rdata|rds"
+        r"|pak2?|blend"
+        r"|ttf|otf|woff2?"
+        r"|log|bak|tmp|swp"
+        r"|sig|asc|gpg|key"
+        r"|php|html|m|txt)$",
+        parsed.path.lower()
+    )
             return False
         return True
     except TypeError:

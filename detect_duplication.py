@@ -2,7 +2,7 @@ import hashlib
 import zlib
 
 class DuplicateDetector:
-    def __init__(self, ngram_size=3, threshold=0.9):
+    def __init__(self, ngram_size=3, threshold=0.7):
         self.ngram_size = ngram_size
         self.threshold = threshold
         self.seen_checksums = dict()
