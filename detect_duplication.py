@@ -9,6 +9,7 @@ class DuplicateDetector:
         self.seen_fingerprints = dict()
         self.near_duplicates = dict()
 
+    #A
     def get_fingerprints(self, text):
         words = text.lower().split()
         if len(words) < self.ngram_size:
@@ -20,6 +21,7 @@ class DuplicateDetector:
             fps.add(h[:16])
         return fps
 
+    #C 
     def is_exact_duplicate(self, text, url):
         checksum = zlib.adler32(text.lower().strip().encode("utf-8"))
         if checksum in self.seen_checksums:
@@ -28,6 +30,7 @@ class DuplicateDetector:
         self.seen_checksums[checksum] = [url]
         return False
 
+    #A 
     def is_near_duplicate(self, text, url):
         fp = self.get_fingerprints(text)
         for prev_url, prev_fp in self.seen_fingerprints.items():
@@ -45,6 +48,7 @@ class DuplicateDetector:
         self.seen_fingerprints[url] = fp
         return False
 
+    #C 
     def is_duplicate(self, text, url):
         if self.is_exact_duplicate(text, url):
             print(f"[EXACT DUPLICATE] {url}")

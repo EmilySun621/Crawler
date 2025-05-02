@@ -13,7 +13,7 @@ def main(config_file, restart):
     config = Config(cparser)
     config.cache_server = get_cache_server(config, restart)
     crawler = Crawler(config, restart)
-
+    
     DataBase.load_blacklist()
     DataBase.load_stop_words()
 

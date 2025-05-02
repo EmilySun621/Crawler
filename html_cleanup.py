@@ -7,6 +7,7 @@ from url_info import *
 from database import DataBase
 
 
+#E 
 def clean_html_text(html_content: bytes) -> str:
     """
     Takes raw HTML (bytes) and returns a cleaned, space-delimited string
@@ -28,7 +29,7 @@ def clean_html_text(html_content: bytes) -> str:
 
     return space_delimited_text
 
-
+#C
 def filter_extreme_large_small_files(url, DataBase, text, resp, lowerbound, upperbound):
     """
     Filters out:
@@ -73,7 +74,7 @@ def filter_extreme_large_small_files(url, DataBase, text, resp, lowerbound, uppe
     return True
 
 
-
+#A 
 def is_low_information_path(url, db, depth=3):
     """
     Heuristic to detect template-based or low-information pages

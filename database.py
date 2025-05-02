@@ -26,7 +26,7 @@ class DataBase:
     # def get_current_elapsed():
     #     return time.time() - DataBase.start_time if DataBase.start_time else 0
 
-
+    #C 
     @staticmethod
     def load_stop_words(filepath="/home/qirans3/121/a2/spacetime-crawler4py/stop_words.txt"):
         try:
@@ -46,6 +46,7 @@ class DataBase:
         subdomain = parsed.netloc.lower()
         DataBase.subdomain_count[subdomain] += 1
 
+    #A
     @staticmethod
     def count_words(text):
         for word in text.lower().split():
@@ -90,6 +91,7 @@ class DataBase:
     #         f.write(f"[{time.strftime('%H:%M:%S')}] Pages: {pages}, Time: {elapsed:.2f}s, Speed: {speed:.2f} pages/sec\n")
 
 
+    #E
     @staticmethod
     def print_summary(seen_checksums=None, near_duplicates=None):
         with open("/home/qirans3/121/a2/spacetime-crawler4py/crawl_stats.txt", "w") as f:
@@ -112,16 +114,16 @@ class DataBase:
             f.write(f"URL: {DataBase.maxWords[0]}\n")
             f.write(f"Word Count: {DataBase.maxWords[1]}\n")
 
-            if seen_checksums:
-                f.write("\n🔁 EXACT DUPLICATES:\n")
-                for checksum, urls in seen_checksums.items():
-                    if len(urls) > 1:
-                        f.write(", ".join(urls) + "\n")
+            # if seen_checksums:
+            f.write("\n🔁 EXACT DUPLICATES:\n")
+            for checksum, urls in seen_checksums.items():
+                if len(urls) > 1:
+                    f.write(", ".join(urls) + "\n")
 
-            if near_duplicates:
-                f.write("\n🔄 NEAR DUPLICATES:\n")
-                for url, dupes in near_duplicates.items():
-                    f.write(f"{url} ≈ {', '.join(dupes)}\n")
+            # if near_duplicates:
+            f.write("\n🔄 NEAR DUPLICATES:\n")
+            for url, dupes in near_duplicates.items():
+                f.write(f"{url} ≈ {', '.join(dupes)}\n")
 
             reason_counter = defaultdict(int)
             for url, reason in DataBase.blacklistURL.items():

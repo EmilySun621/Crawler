@@ -12,6 +12,7 @@ from urllib.parse import urldefrag
 
 detector = DuplicateDetector()
 
+#A
 def scraper(url, resp):
     print(f"[SCRAPER] Crawling: {url} - Status: {resp.status}")
     links = extract_next_links(url, resp)
@@ -23,6 +24,7 @@ def scraper(url, resp):
             DataBase.blacklistURL[url] = "invalid link"
     return valid_links
 
+#E 
 def extract_next_links(url, resp):
     # Implementation required.
     # url: the URL that was used to get the page
@@ -104,6 +106,8 @@ def extract_next_links(url, resp):
     # only maintain the unique links
     return list(set(links))
 
+
+#C
 def is_valid(url):
     # Decide whether to crawl this url or not. 
     # If you decide to crawl it, return True; otherwise return False.

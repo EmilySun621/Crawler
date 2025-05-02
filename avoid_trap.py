@@ -2,6 +2,7 @@ from urllib.parse import urlparse, parse_qs
 from collections import Counter
 from url_info import *
 
+# E
 def is_query_too_long(query, url, DataBase):
     if len(query) > 100:
         DataBase.blacklistURL[url] = "Queries Longer Than 100"
@@ -21,6 +22,7 @@ def has_repeated_path_segments(path, url, DataBase):
         return True
     return False
 
+# C
 def contains_trap_keywords(url, DataBase):
     trap_keywords = [
         "calendar", "date", "year", "month", "day",
@@ -46,7 +48,7 @@ def has_format_or_lang_trap(query, url, DataBase):
             return True
     return False
 
-
+# A
 def has_session_id(query, url, DataBase):
     session_keywords = ["sessionid", "token", "auth", "jsessionid", "sid"]
     query_keys = parse_qs(query).keys()
@@ -88,6 +90,7 @@ def has_path_repetition_trap(path, url, DataBase, repeat_threshold=5):
                 return True
     return False
 
+#E
 def trap_identify(url, DataBase):
     parsed = urlparse(url)
     path = parsed.path
@@ -106,6 +109,6 @@ def trap_identify(url, DataBase):
         has_format_or_lang_trap(query, url, DataBase) or
         has_session_id(query, url, DataBase)
     ):
-        DataBase.feature_buffer.append(extract_url_features(url,0))
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
         return True
     return False
