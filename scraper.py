@@ -20,7 +20,7 @@ def scraper(url, resp):
         if is_valid(link):
             valid_links.append(link)
         else:
-            blacklistURL.add(link) = ["Invalid Link"]
+            DataBase.blacklistURL[url] = "invalid link"
     return valid_links
 
 def extract_next_links(url, resp):
@@ -53,17 +53,18 @@ def extract_next_links(url, resp):
         # DataBase.feature_buffer.append(extract_url_features(url,0))
         return []
 
+
     # extract text the html 
-    text = clean_html_text(resp.raw_response.content) 
-    
-    #detect if text is duplicate 
-    if detector.is_duplicate(text, url):
-        return []
-    
-    # detect if samples are too large or too small, 
+    text = clean_html_text(resp.raw_response.content)
+
+     # detect if samples are too large or too small, 
     if not filter_extreme_large_small_files(url,DataBase, text, resp, DataBase.lowerBound, DataBase.upperBound):
         link, _ = urldefrag(url)
         DataBase.unique_urls.add(link)
+        return []
+    
+    #detect if text is duplicate 
+    if detector.is_duplicate(text, url):
         return []
 
     # detet if url contain traps
@@ -144,7 +145,7 @@ def is_valid(url):
         r"|sig|asc|gpg|key"
         r"|php|html|m|txt)$",
         parsed.path.lower()
-    )
+    ):
             return False
         return True
     except TypeError:

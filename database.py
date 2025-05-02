@@ -18,13 +18,13 @@ class DataBase:
     # Load stop words once at startup
     feature_buffer = []
 
-    @staticmethod
-    def start_timer():
-        DataBase.start_time = time.time()
+    # @staticmethod
+    # def start_timer():
+    #     DataBase.start_time = time.time()
 
-    @staticmethod
-    def get_current_elapsed():
-        return time.time() - DataBase.start_time if DataBase.start_time else 0
+    # @staticmethod
+    # def get_current_elapsed():
+    #     return time.time() - DataBase.start_time if DataBase.start_time else 0
 
 
     @staticmethod
@@ -80,14 +80,14 @@ class DataBase:
         except FileNotFoundError:
             pass
 
-    @staticmethod
-    def log_live_progress(filepath="live_stats.txt"):
-        elapsed = DataBase.get_current_elapsed()
-        pages = len(DataBase.scraped)
-        speed = pages / elapsed if elapsed > 0 else 0
+    # @staticmethod
+    # def log_live_progress(filepath="live_stats.txt"):
+    #     elapsed = DataBase.get_current_elapsed()
+    #     pages = len(DataBase.scraped)
+    #     speed = pages / elapsed if elapsed > 0 else 0
 
-        with open(filepath, "a") as f:
-            f.write(f"[{time.strftime('%H:%M:%S')}] Pages: {pages}, Time: {elapsed:.2f}s, Speed: {speed:.2f} pages/sec\n")
+    #     with open(filepath, "a") as f:
+    #         f.write(f"[{time.strftime('%H:%M:%S')}] Pages: {pages}, Time: {elapsed:.2f}s, Speed: {speed:.2f} pages/sec\n")
 
 
     @staticmethod
@@ -133,12 +133,12 @@ class DataBase:
             f.flush()
 
 
-    @staticmethod
-    def reset():
-        DataBase.scraped.clear()
-        DataBase.unique_urls.clear()
-        DataBase.blacklistURL.clear()
-        DataBase.maxWords = ["", 0]
-        DataBase.subdomain_count = defaultdict(int)
-        DataBase.word_counter = Counter()
-        DataBase.visited_path = set()
+    # @staticmethod
+    # def reset():
+    #     DataBase.scraped.clear()
+    #     DataBase.unique_urls.clear()
+    #     DataBase.blacklistURL.clear()
+    #     DataBase.maxWords = ["", 0]
+    #     DataBase.subdomain_count = defaultdict(int)
+    #     DataBase.word_counter = Counter()
+    #     DataBase.visited_path = set()
