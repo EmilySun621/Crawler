@@ -1,109 +1,165 @@
-🔹 TOTAL UNIQUE PAGES FOUND: 33010
+🔹 TOTAL UNIQUE PAGES FOUND: 4705
 
 🔹 SUBDOMAIN COUNTS:
-archive.ics.uci.edu: 26
-asterix.ics.uci.edu: 1
-cbcl.ics.uci.edu: 20
-cert.ics.uci.edu: 9
-cml.ics.uci.edu: 141
-code.ics.uci.edu: 11
-computableplant.ics.uci.edu: 56
+accessibility.ics.uci.edu: 1
+acoi.ics.uci.edu: 86
+archive.ics.uci.edu: 147
+asterix.ics.uci.edu: 3
+betapro.proteomics.ics.uci.edu: 1
+cbcl.ics.uci.edu: 21
+cdb.ics.uci.edu: 4
+cert.ics.uci.edu: 4
+chenli.ics.uci.edu: 8
+circadiomics.ics.uci.edu: 6
+cloudberry.ics.uci.edu: 34
+cml.ics.uci.edu: 160
+code.ics.uci.edu: 14
+computableplant.ics.uci.edu: 10
 courselisting.ics.uci.edu: 1
-cs.ics.uci.edu: 5
-duttgroup.ics.uci.edu: 47
-emj.ics.uci.edu: 18
-futurehealth.ics.uci.edu: 49
+cradl.ics.uci.edu: 6
+create.ics.uci.edu: 4
+cs.ics.uci.edu: 7
+cwicsocal18.ics.uci.edu: 10
+cyberclub.ics.uci.edu: 3
+cybert.ics.uci.edu: 23
+dgillen.ics.uci.edu: 25
+ds4all.ics.uci.edu: 4
+duttgroup.ics.uci.edu: 54
+emj.ics.uci.edu: 23
+evoke.ics.uci.edu: 3
+flamingo.ics.uci.edu: 9
+fr.ics.uci.edu: 3
+futurehealth.ics.uci.edu: 83
 graphics.ics.uci.edu: 1
-hai.ics.uci.edu: 5
-helpdesk.ics.uci.edu: 1
+graphmod.ics.uci.edu: 1
+hai.ics.uci.edu: 1
+hobbes.ics.uci.edu: 9
+hpi.ics.uci.edu: 4
 iasl.ics.uci.edu: 1
-isg.ics.uci.edu: 44
-mailman.ics.uci.edu: 13
-mhcid.ics.uci.edu: 14
-mswe.ics.uci.edu: 5
-nalini.ics.uci.edu: 3
-ngs.ics.uci.edu: 312
-sdcl.ics.uci.edu: 19
-seal.ics.uci.edu: 1
-sli.ics.uci.edu: 279
-swiki.ics.uci.edu: 1
-transformativeplay.ics.uci.edu: 48
-vision.ics.uci.edu: 190
-wics.ics.uci.edu: 295
-wiki.ics.uci.edu: 23
-www-db.ics.uci.edu: 1
-www.ics.uci.edu: 1540
-www.informatics.uci.edu: 824
-www.stat.uci.edu: 102
+industryshowcase.ics.uci.edu: 19
+insite.ics.uci.edu: 7
+ipubmed.ics.uci.edu: 1
+isg.ics.uci.edu: 65
+jgarcia.ics.uci.edu: 1
+luci.ics.uci.edu: 4
+mailman.ics.uci.edu: 12
+malek.ics.uci.edu: 1
+mcs.ics.uci.edu: 9
+mdogucu.ics.uci.edu: 3
+mds.ics.uci.edu: 7
+mhcid.ics.uci.edu: 18
+mlphysics.ics.uci.edu: 13
+motifmap.ics.uci.edu: 1
+mswe.ics.uci.edu: 6
+mupro.proteomics.ics.uci.edu: 1
+nalini.ics.uci.edu: 6
+ngs.ics.uci.edu: 719
+oai.ics.uci.edu: 5
+pepito.proteomics.ics.uci.edu: 1
+psearch.ics.uci.edu: 1
+radicle.ics.uci.edu: 1
+reactions.ics.uci.edu: 4
+redmiles.ics.uci.edu: 1
+riscit.ics.uci.edu: 1
+scratch.proteomics.ics.uci.edu: 1
+sdcl.ics.uci.edu: 176
+seal.ics.uci.edu: 2
+selectpro.proteomics.ics.uci.edu: 1
+sherlock.ics.uci.edu: 1
+sli.ics.uci.edu: 280
+stairs.ics.uci.edu: 1
+statconsulting.ics.uci.edu: 2
+student-council.ics.uci.edu: 3
+summeracademy.ics.uci.edu: 5
+tad.ics.uci.edu: 2
+tastier.ics.uci.edu: 1
+transformativeplay.ics.uci.edu: 49
+tutoring.ics.uci.edu: 5
+tutors.ics.uci.edu: 1
+unite.ics.uci.edu: 10
+vision.ics.uci.edu: 5
+wearablegames.ics.uci.edu: 1
+wics.ics.uci.edu: 435
+www-db.ics.uci.edu: 22
+www.cs.uci.edu: 1
+www.ics.uci.edu: 409
+www.informatics.ics.uci.edu: 1
+www.informatics.uci.edu: 865
+www.stat.uci.edu: 148
+xtune.ics.uci.edu: 6
 
 🔹 TOP 50 WORDS (excluding stop words):
-research: 15582
-student: 10707
-software: 10626
-may: 9136
-engineering: 8521
-informatics: 8347
-june: 7588
-information: 7585
-july: 7454
-september: 7450
-undergraduate: 7370
-graduate: 7252
-phd: 7174
-april: 6953
-bs: 6906
-january: 6899
-march: 6866
-february: 6808
-november: 6673
-december: 6593
-students: 6577
-august: 6547
-department: 6542
-computer: 6519
-october: 6295
-will: 5979
-design: 5971
-data: 5761
-projects: 5068
-profiles: 5038
-markellekelly: 5023
-irvine: 4980
-people: 4801
-courses: 4764
-university: 4735
-science: 4705
-support: 4568
-learning: 4440
-process: 4439
-news: 4345
-game: 4343
-books: 4299
-uci: 4203
-new: 4181
-one: 4138
-application: 4062
-alumni: 3955
-html: 3917
-groups: 3867
-ms: 3798
+research: 19533
+student: 12485
+software: 11493
+informatics: 9256
+engineering: 9230
+information: 9157
+may: 8807
+graduate: 8640
+undergraduate: 8597
+students: 8500
+phd: 8110
+september: 7875
+june: 7719
+july: 7714
+data: 7617
+computer: 7531
+bs: 7409
+department: 7287
+november: 7225
+april: 7219
+january: 7218
+news: 7176
+december: 7132
+design: 7127
+march: 7083
+february: 7043
+august: 6883
+october: 6851
+learning: 6685
+will: 6521
+projects: 6202
+science: 6188
+people: 6100
+uci: 5998
+courses: 5655
+books: 5447
+profiles: 5313
+university: 5208
+us: 5145
+support: 4798
+alumni: 4701
+new: 4669
+ics: 4628
+past: 4570
+contact: 4557
+application: 4469
+process: 4307
+read: 4298
+irvine: 4263
+ramesh: 4160
 
 🔹 LONGEST PAGE:
-URL: http://www.stat.uci.edu/wp-content/uploads/StephanMandtAbstract5-16-19
-Word Count: 98557
+URL: http://www.informatics.uci.edu/files/pdf/InformaticsBrochure-March2018
+Word Count: 6124875
+
+🔁 EXACT DUPLICATES:
+
+🔄 NEAR DUPLICATES:
 
 🔹 BLACKLIST REASONS (counts):
-Status = 404: 1694
-Status = 403: 1033
-Low Information Path: 576
-Status = 400: 264
-DokuWiki do= parameter trap: 222
-Calendar Trap: 110
-Content Too Short: 87
-Repeated Segments: 63
-Status = 601: 57
-Content Too Long: 30
-Status = 608: 7
-Status = 500: 4
-Status = 401: 3
-Status = 607: 1
+invalid link: 4018
+Status = 403: 1026
+Status = 404: 771
+Status = 400: 360
+Repeated Segments: 225
+Content Too Short: 202
+Calendar Trap: 164
+DokuWiki do= parameter trap: 67
+Status = 601: 46
+Status = 608: 8
+Status = 500: 5
+Status = 607: 5
+Status = 503: 2
+Status = 401: 1

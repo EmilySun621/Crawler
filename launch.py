@@ -17,10 +17,10 @@ def main(config_file, restart):
     DataBase.load_blacklist()
     DataBase.load_stop_words()
 
-    DataBase.start_timer()
-    start_time = time.time()
+    # DataBase.start_timer()
+    # start_time = time.time()
     crawler.start()
-    end_time = time.time() 
+    # end_time = time.time() 
 
     DataBase.save_blacklist()
     # DataBase.print_summary() 

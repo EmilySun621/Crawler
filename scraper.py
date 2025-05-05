@@ -48,11 +48,8 @@ def extract_next_links(url, resp):
     if resp.raw_response is None:
         DataBase.blacklistURL[url] = f"Actual Page Not Found" 
         # DataBase.feature_buffer.append(extract_url_features(url,0))
-        return []
-
-    if "do=" in url:
-        DataBase.blacklistURL[url] = "DokuWiki do= parameter trap"
-        # DataBase.feature_buffer.append(extract_url_features(url,0))
+        link, _ = urldefrag(url)
+        DataBase.unique_urls.add(link)
         return []
 
 
@@ -151,7 +148,21 @@ def is_valid(url):
         parsed.path.lower()
     ):
             return False
+
+        trap_keywords = [
+        "calendar", "date", "year", "month", "day",
+        "sort=", "ref=", "replytocom", "trackback", "event"
+    ]
+        if any(keyword in parsed.path.lower() for keyword in trap_keywords):
+            # DataBase.blacklistURL[url] = "Calendar Trap"
+            return False
+
+        if "do=" in parsed.path.lower():
+            # DataBase.blacklistURL[url] = "DokuWiki do= parameter trap"
+            # DataBase.feature_buffer.append(extract_url_features(url,0))
+            return False
         return True
+
     except TypeError:
         print ("TypeError for ", parsed)
         raise

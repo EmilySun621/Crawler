@@ -91,9 +91,9 @@ class DataBase:
     #         f.write(f"[{time.strftime('%H:%M:%S')}] Pages: {pages}, Time: {elapsed:.2f}s, Speed: {speed:.2f} pages/sec\n")
 
 
-    #E
+    #E 到时候加到parameter系数就好了
     @staticmethod
-    def print_summary(seen_checksums=None, near_duplicates=None):
+    def print_summary(seen_checksums,near_duplicates):
         with open("/home/qirans3/121/a2/spacetime-crawler4py/crawl_stats.txt", "w") as f:
             f.write(f"🔹 TOTAL UNIQUE PAGES FOUND: {len(DataBase.unique_urls)}\n\n")
 
@@ -114,16 +114,17 @@ class DataBase:
             f.write(f"URL: {DataBase.maxWords[0]}\n")
             f.write(f"Word Count: {DataBase.maxWords[1]}\n")
 
-            # if seen_checksums:
-            f.write("\n🔁 EXACT DUPLICATES:\n")
-            for checksum, urls in seen_checksums.items():
-                if len(urls) > 1:
-                    f.write(", ".join(urls) + "\n")
 
-            # if near_duplicates:
+            f.write("\n🔁 EXACT DUPLICATES:\n")
+            if seen_checksums:
+                for checksum, urls in seen_checksums.items():
+                    if len(urls) > 1:
+                        f.write(", ".join(urls) + "\n")
+
             f.write("\n🔄 NEAR DUPLICATES:\n")
-            for url, dupes in near_duplicates.items():
-                f.write(f"{url} ≈ {', '.join(dupes)}\n")
+            if near_duplicates:
+                for url, dupes in near_duplicates.items():
+                    f.write(f"{url} ≈ {', '.join(dupes)}\n")
 
             reason_counter = defaultdict(int)
             for url, reason in DataBase.blacklistURL.items():
