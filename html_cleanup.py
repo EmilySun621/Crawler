@@ -55,12 +55,12 @@ def filter_extreme_large_small_files(url, DataBase, text, resp, lowerbound, uppe
         # DataBase.feature_buffer.append(extract_url_features(url,0))
         return False
 
-    # # Content too large
-    # if text_length > upperbound:
-    #     print(f"[SKIP] Content too long: {text_length} chars (max: {upperbound})")
-    #     DataBase.blacklistURL[url] = f"Content Too Long"
-    #     # DataBase.feature_buffer.append(extract_url_features(url,0))
-    #     return False
+    # Content too large, our upperbound limit is 100w 
+    if text_length > upperbound:
+        print(f"[SKIP] Content too long: {text_length} chars (max: {upperbound})")
+        DataBase.blacklistURL[url] = f"Content Too Long"
+        # DataBase.feature_buffer.append(extract_url_features(url,0))
+        return False
 
     # If page is more than 20
     path = urlparse(url).path

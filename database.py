@@ -5,7 +5,7 @@ import time
 
 class DataBase:
     lowerBound = 200
-    upperBound = 100000
+    upperBound = 1000000
     scraped = set()
     unique_urls = set()
     blacklistURL = dict()

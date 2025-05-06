@@ -15,18 +15,18 @@ def is_path_too_long(path, url, DataBase):
         return True
     return False
 
-def has_repeated_path_segments(path, url, DataBase):
-    segments = path.split('/')
-    if len(segments) != len(set(segments)):
-        DataBase.blacklistURL[url] = "Repeated Segments"
-        return True
-    return False
+# def has_repeated_path_segments(path, url, DataBase):
+#     segments = path.split('/')
+#     if len(segments) != len(set(segments)):
+#         DataBase.blacklistURL[url] = "Repeated Segments"
+#         return True
+#     return False
 
 # C
 def contains_trap_keywords(url, DataBase):
     trap_keywords = [
-        "calendar", "date", "year", "month", "day",
-        "sort=", "ref=", "replytocom", "trackback", "event"
+
+            "sort=", "ref=", "replytocom", "trackback", "events/category"
     ]
     if any(keyword in url.lower() for keyword in trap_keywords):
         DataBase.blacklistURL[url] = "Calendar Trap"
@@ -72,12 +72,12 @@ def has_social_or_fragment_traps(url, DataBase):
             return True
     return False
 
-def is_query_param_count_too_high(query, url, DataBase):
-    query_params = parse_qs(query)
-    if len(query_params) > 10:
-        DataBase.blacklistURL[url] = "Query's Params Greater Than 10"
-        return True
-    return False
+# def is_query_param_count_too_high(query, url, DataBase):
+#     query_params = parse_qs(query)
+#     if len(query_params) > 10:
+#         DataBase.blacklistURL[url] = "Query's Params Greater Than 10"
+#         return True
+#     return False
 
 def has_path_repetition_trap(path, url, DataBase, repeat_threshold=5):
     paths_split = [segment for segment in path.split("/") if segment]
@@ -100,10 +100,10 @@ def trap_identify(url, DataBase):
     if (
         is_query_too_long(query, url, DataBase) or
         is_path_too_long(path, url, DataBase) or
-        has_repeated_path_segments(path, url, DataBase) or
+        # has_repeated_path_segments(path, url, DataBase) or
         contains_trap_keywords(url, DataBase) or
         has_social_or_fragment_traps(url, DataBase) or
-        is_query_param_count_too_high(query, url, DataBase) or
+        # is_query_param_count_too_high(query, url, DataBase) or
         has_path_repetition_trap(path, url, DataBase) or
         is_url_too_long(url, DataBase) or
         has_format_or_lang_trap(query, url, DataBase) or

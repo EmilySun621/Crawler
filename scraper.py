@@ -10,8 +10,6 @@ from url_info import *
 from url_info import flush_to_csv
 from urllib.parse import urldefrag
 
-detector = DuplicateDetector()
-
 #A
 def scraper(url, resp):
     print(f"[SCRAPER] Crawling: {url} - Status: {resp.status}")
@@ -21,7 +19,7 @@ def scraper(url, resp):
         if is_valid(link):
             valid_links.append(link)
         else:
-            DataBase.blacklistURL[url] = "invalid link"
+            DataBase.blacklistURL[link] = "invalid link"
     return valid_links
 
 #E 
@@ -63,7 +61,7 @@ def extract_next_links(url, resp):
         return []
     
     #detect if text is duplicate 
-    if detector.is_duplicate(text, url):
+    if DuplicateDetector.is_duplicate(text, url):
         return []
 
     # detet if url contain traps
@@ -149,13 +147,13 @@ def is_valid(url):
     ):
             return False
 
-        trap_keywords = [
-        "calendar", "date", "year", "month", "day",
-        "sort=", "ref=", "replytocom", "trackback", "event"
-    ]
-        if any(keyword in parsed.path.lower() for keyword in trap_keywords):
-            # DataBase.blacklistURL[url] = "Calendar Trap"
-            return False
+    #     trap_keywords = [
+    #     "calendar", "date", "year", "month", "day",
+    #     "sort=", "ref=", "replytocom", "trackback", "event"
+    # ]
+    #     if any(keyword in parsed.path.lower() for keyword in trap_keywords):
+    #         # DataBase.blacklistURL[url] = "Calendar Trap"
+    #         return False
 
         if "do=" in parsed.path.lower():
             # DataBase.blacklistURL[url] = "DokuWiki do= parameter trap"
