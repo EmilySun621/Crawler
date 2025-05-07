@@ -86,7 +86,7 @@ def extract_next_links(url, resp):
     # DataBase.feature_buffer.append(extract_url_features(url,1))
     # if len(DataBase.feature_buffer) >= 20:
     #     flush_to_csv(DataBase.feature_buffer)
-    DataBase.print_summary() 
+    DataBase.print_summary(DuplicateDetector.seen_checksums,DuplicateDetector.near_duplicates) 
     DataBase.save_blacklist()
 
     soup = BeautifulSoup(resp.raw_response.content, "html.parser")
@@ -116,14 +116,17 @@ def is_valid(url):
         path = parsed.path.lower()
 
         if (
-            netloc.endswith(".ics.uci.edu")
-            or netloc.endswith(".cs.uci.edu")
-            or netloc.endswith(".informatics.uci.edu")
-            or netloc.endswith(".stat.uci.edu")
+            netloc.endswith("ics.uci.edu")
+            or netloc.endswith("cs.uci.edu")
+            or netloc.endswith("informatics.uci.edu")
+            or netloc.endswith("stat.uci.edu")
             or (netloc == "today.uci.edu" and path.startswith("/department/information_computer_sciences"))
         ):
             pass
         else:
+            return False
+        if "cs122b" in path:
+            DataBase.blacklistURL[url] = "Filtered: contains cs122b"
             return False
         if re.match(
         r".*\.(ppsx|mpg|css|js|bmp|gif|jpe?g|ico"
@@ -147,16 +150,8 @@ def is_valid(url):
     ):
             return False
 
-    #     trap_keywords = [
-    #     "calendar", "date", "year", "month", "day",
-    #     "sort=", "ref=", "replytocom", "trackback", "event"
-    # ]
-    #     if any(keyword in parsed.path.lower() for keyword in trap_keywords):
-    #         # DataBase.blacklistURL[url] = "Calendar Trap"
-    #         return False
-
         if "do=" in parsed.path.lower():
-            # DataBase.blacklistURL[url] = "DokuWiki do= parameter trap"
+            DataBase.blacklistURL[url] = "DokuWiki do= parameter trap"
             # DataBase.feature_buffer.append(extract_url_features(url,0))
             return False
         return True

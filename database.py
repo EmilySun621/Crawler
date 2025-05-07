@@ -122,9 +122,9 @@ class DataBase:
                         f.write(", ".join(urls) + "\n")
 
             f.write("\n🔄 NEAR DUPLICATES:\n")
-            if near_duplicates:
-                for url, dupes in near_duplicates.items():
-                    f.write(f"{url} ≈ {', '.join(dupes)}\n")
+            for fingerprint, urls in near_duplicates.items():
+                if len(urls) > 1:
+                    f.write(f"{fingerprint} ≈ {', '.join(urls)}\n")
 
             reason_counter = defaultdict(int)
             for url, reason in DataBase.blacklistURL.items():
