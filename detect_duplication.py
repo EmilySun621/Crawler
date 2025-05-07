@@ -8,9 +8,6 @@ class DuplicateDetector:
     seen_fingerprints = dict()
     near_duplicates = dict()
 
-    def __init__(self):
-        pass
-
     @classmethod
     def get_fingerprints(cls, text):
         words = text.lower().split()
