@@ -86,7 +86,7 @@ class DataBase:
         with open(filepath, "w") as f:
             for url, reason in DataBase.blacklistURL.items():
                 f.write(f"{reason}: {url}\n")
-                f.flush()
+            f.flush()
 
     @staticmethod
     def load_blacklist(filepath="blacklist.txt"):
