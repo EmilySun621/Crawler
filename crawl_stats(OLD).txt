@@ -1,0 +1,1003 @@
+🔹 TOTAL UNIQUE PAGES FOUND: 2068
+
+🔹 SUBDOMAIN COUNTS:
+cwicsocal18.ics.uci.edu: 10
+ics.uci.edu: 20
+informatics.uci.edu: 1
+jgarcia.ics.uci.edu: 33
+mdogucu.ics.uci.edu: 3
+mswe.ics.uci.edu: 1
+ngs.ics.uci.edu: 1103
+seal.ics.uci.edu: 2
+stat.uci.edu: 1
+tutoring.ics.uci.edu: 2
+vision.ics.uci.edu: 5
+wics.ics.uci.edu: 638
+www.ics.uci.edu: 19
+www.informatics.uci.edu: 38
+www.stat.uci.edu: 15
+
+🔹 TOP 50 WORDS (excluding stop words):
+ramesh: 6132
+wics: 4865
+current: 4328
+events: 4090
+research: 3872
+jain: 3776
+past: 3540
+students: 3268
+information: 3215
+search: 2925
+computer: 2844
+us: 2797
+code: 2685
+week: 2614
+companies: 2545
+courses: 2437
+books: 2425
+theme: 2314
+favorite: 2265
+news: 2242
+blogs: 2208
+will: 2125
+computing: 2118
+innovate: 1947
+ghc: 1944
+bytes: 1919
+merch: 1908
+people: 1846
+pm: 1791
+new: 1777
+community: 1738
+experiential: 1688
+multimedia: 1680
+vision: 1652
+one: 1646
+navigation: 1621
+committee: 1613
+post: 1579
+projects: 1569
+personal: 1542
+data: 1513
+outreach: 1492
+event: 1454
+back: 1453
+share: 1438
+time: 1408
+mentorship: 1381
+management: 1380
+web: 1357
+education: 1336
+
+🔹 LONGEST PAGE:
+URL: https://ngs.ics.uci.edu/list-of-publications
+Word Count: 52230
+
+🔁 EXACT DUPLICATES:
+https://informatics.uci.edu, http://www.informatics.ics.uci.edu
+https://www.informatics.uci.edu/menu-very-top/contact, https://www.informatics.uci.edu/contact
+https://jgarcia.ics.uci.edu, https://jgarcia.ics.uci.edu/_wp_link_placeholder
+http://www.ics.uci.edu/~seal, https://seal.ics.uci.edu
+http://www.ics.uci.edu/bio, https://ics.uci.edu/research-areas/biomedical-informatics-and-computational-biology
+https://ngs.ics.uci.edu, http://ngs.ics.uci.edu/about-ramesh, http://ngs.ics.uci.edu/about-ramesh/#comments, https://ngs.ics.uci.edu/#respond, https://ngs.ics.uci.edu/#comments
+https://ngs.ics.uci.edu/photo-taking-behaviour-teens-of-photography, https://ngs.ics.uci.edu/photo-taking-behaviour-teens-of-photography/#comment-4278, https://ngs.ics.uci.edu/photo-taking-behaviour-teens-of-photography/#comment-4483, https://ngs.ics.uci.edu/photo-taking-behaviour-teens-of-photography/#comments
+https://ngs.ics.uci.edu/photo-taking-behaviour-past, https://ngs.ics.uci.edu/photo-taking-behaviour-past/#respond
+https://ngs.ics.uci.edu/extreme-stories-10/#respond, https://ngs.ics.uci.edu/extreme-stories-10
+https://ngs.ics.uci.edu/social-life-networks-sln, https://ngs.ics.uci.edu/social-life-networks-sln/#comment-4229, https://ngs.ics.uci.edu/social-life-networks-sln/#comments
+https://ngs.ics.uci.edu/visual-reflections, https://ngs.ics.uci.edu/visual-reflections/#respond
+https://ngs.ics.uci.edu/photos-4-a-disruptive-change-in-communication, https://ngs.ics.uci.edu/photos-4-a-disruptive-change-in-communication/#comments, https://ngs.ics.uci.edu/photos-4-a-disruptive-change-in-communication/#comment-4138, https://ngs.ics.uci.edu/photos-4-a-disruptive-change-in-communication/#comment-4135
+https://ngs.ics.uci.edu/photos-a-new-challenge-3, https://ngs.ics.uci.edu/photos-a-new-challenge-3/#respond
+https://ngs.ics.uci.edu/vnit-golden-jubilee, https://ngs.ics.uci.edu/vnit-golden-jubilee/#comments
+https://ngs.ics.uci.edu/photos-then-and-now-2, https://ngs.ics.uci.edu/photos-then-and-now-2/#comment-4134, https://ngs.ics.uci.edu/photos-then-and-now-2/#comments, https://ngs.ics.uci.edu/photos-then-and-now-2/#comment-4116, https://ngs.ics.uci.edu/photos-then-and-now-2/#comment-4115
+https://ngs.ics.uci.edu/transformation-or-froth-visual-communication/#comments, https://ngs.ics.uci.edu/transformation-or-froth-visual-communication
+https://ngs.ics.uci.edu/visr-is-in-android-marketplace, https://ngs.ics.uci.edu/visr-is-in-android-marketplace/#comment-4449, https://ngs.ics.uci.edu/visr-is-in-android-marketplace/#comment-4452, https://ngs.ics.uci.edu/visr-is-in-android-marketplace/#comments
+https://ngs.ics.uci.edu/visr-silent-helper-to-organize-visual-memories-of-events, https://ngs.ics.uci.edu/visr-silent-helper-to-organize-visual-memories-of-events/#comment-4874, https://ngs.ics.uci.edu/visr-silent-helper-to-organize-visual-memories-of-events/#comment-4869, https://ngs.ics.uci.edu/visr-silent-helper-to-organize-visual-memories-of-events/#comment-4865, https://ngs.ics.uci.edu/visr-silent-helper-to-organize-visual-memories-of-events/#comments
+https://ngs.ics.uci.edu/photos-are-about-events/#respond, https://ngs.ics.uci.edu/photos-are-about-events
+https://ngs.ics.uci.edu/micro-blogs-and-blogs, https://ngs.ics.uci.edu/micro-blogs-and-blogs/#respond
+https://ngs.ics.uci.edu/status-updates-are-micro-stories, https://ngs.ics.uci.edu/status-updates-are-micro-stories/#respond
+https://ngs.ics.uci.edu/extreme-stories-3/#comments, https://ngs.ics.uci.edu/extreme-stories-3
+https://ngs.ics.uci.edu/extreme-stories2, https://ngs.ics.uci.edu/extreme-stories2/#respond
+https://ngs.ics.uci.edu/extreme-stories-1/#comments, https://ngs.ics.uci.edu/extreme-stories-1
+https://ngs.ics.uci.edu/extreme-stories-6/#respond, https://ngs.ics.uci.edu/extreme-stories-6
+https://ngs.ics.uci.edu/using-big-data-for-storytelling, https://ngs.ics.uci.edu/using-big-data-for-storytelling/#respond
+https://ngs.ics.uci.edu/corelation-is-the-mother-of-causality, https://ngs.ics.uci.edu/corelation-is-the-mother-of-causality/#respond
+https://ngs.ics.uci.edu/on-efficacy-and-distraction-of-tags, https://ngs.ics.uci.edu/on-efficacy-and-distraction-of-tags/#respond
+https://ngs.ics.uci.edu/start-up-in-social-networking-interesting-insights, https://ngs.ics.uci.edu/start-up-in-social-networking-interesting-insights/#respond
+https://ngs.ics.uci.edu/hawaii-vacation-photos, https://ngs.ics.uci.edu/hawaii-vacation-photos/#respond
+https://ngs.ics.uci.edu/good-friends, https://ngs.ics.uci.edu/good-friends/#comments
+https://ngs.ics.uci.edu/cnns-hologram-immersive-video, https://ngs.ics.uci.edu/cnns-hologram-immersive-video/#comments, https://ngs.ics.uci.edu/cnns-hologram-immersive-video/#comment-2487, https://ngs.ics.uci.edu/cnns-hologram-immersive-video/#comment-2510, https://ngs.ics.uci.edu/cnns-hologram-immersive-video/#comment-2476, https://ngs.ics.uci.edu/cnns-hologram-immersive-video/#comment-2496
+https://ngs.ics.uci.edu/changegov, https://ngs.ics.uci.edu/changegov/#comment-2812, https://ngs.ics.uci.edu/changegov/#comment-2471, https://ngs.ics.uci.edu/changegov/#comments, https://ngs.ics.uci.edu/changegov/#comment-2474
+https://ngs.ics.uci.edu/third-world-first, https://ngs.ics.uci.edu/third-world-first/#comment-2509, https://ngs.ics.uci.edu/third-world-first/#comment-2497, https://ngs.ics.uci.edu/third-world-first/#comment-2473, https://ngs.ics.uci.edu/third-world-first/#comments, https://ngs.ics.uci.edu/third-world-first/#comment-2485, https://ngs.ics.uci.edu/third-world-first/#comment-2466
+https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling, https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling/#comments, https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling/#comment-3581, https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling/#comment-3545, https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling/#comment-2464, https://ngs.ics.uci.edu/obama-victory-indian-sc-ruling/#comment-2493
+https://ngs.ics.uci.edu/election-fever, https://ngs.ics.uci.edu/election-fever/#respond
+https://ngs.ics.uci.edu/historic-day-todays-election, https://ngs.ics.uci.edu/historic-day-todays-election/#comment-2458, https://ngs.ics.uci.edu/historic-day-todays-election/#comments
+https://ngs.ics.uci.edu/language-and-the-eventweb, https://ngs.ics.uci.edu/language-and-the-eventweb/#respond
+https://ngs.ics.uci.edu/acm-multimedia-conference, https://ngs.ics.uci.edu/acm-multimedia-conference/#respond
+https://ngs.ics.uci.edu/1012, https://ngs.ics.uci.edu/1012/#respond
+https://ngs.ics.uci.edu/models-and-descriptions, https://ngs.ics.uci.edu/models-and-descriptions/#respond
+https://ngs.ics.uci.edu/meeting-prof-h-h-nagel, https://ngs.ics.uci.edu/meeting-prof-h-h-nagel/#respond
+https://ngs.ics.uci.edu/multimedia-semantics-bridging-the-semantic-gap, https://ngs.ics.uci.edu/multimedia-semantics-bridging-the-semantic-gap/#respond
+https://ngs.ics.uci.edu/united-india, https://ngs.ics.uci.edu/united-india/#comment-2780, https://ngs.ics.uci.edu/united-india/#comment-2446, https://ngs.ics.uci.edu/united-india/#comment-2450, https://ngs.ics.uci.edu/united-india/#comments, https://ngs.ics.uci.edu/united-india/#comment-2442
+https://ngs.ics.uci.edu/personal-media-organization-and-access, https://ngs.ics.uci.edu/personal-media-organization-and-access/#respond
+https://ngs.ics.uci.edu/happy-to-see-multimedia, https://ngs.ics.uci.edu/happy-to-see-multimedia/#respond
+https://ngs.ics.uci.edu/mir-at-ieee-int-conf-on-image-processing, https://ngs.ics.uci.edu/mir-at-ieee-int-conf-on-image-processing/#respond
+https://ngs.ics.uci.edu/memories-life-and-experiences, https://ngs.ics.uci.edu/memories-life-and-experiences/#comments, https://ngs.ics.uci.edu/memories-life-and-experiences/#comment-2437, https://ngs.ics.uci.edu/memories-life-and-experiences/#comment-2439
+https://ngs.ics.uci.edu/storytelling, https://ngs.ics.uci.edu/storytelling/#comment-2423, https://ngs.ics.uci.edu/storytelling/#comments
+https://ngs.ics.uci.edu/southern-california-computer-vision-meetup, https://ngs.ics.uci.edu/southern-california-computer-vision-meetup/#comments
+https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity, https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity/#comments, https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity/#comment-2413, https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity/#comment-2415, https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity/#comment-2417, https://ngs.ics.uci.edu/dumbing-down-or-freeing-for-creativity/#comment-2411
+https://ngs.ics.uci.edu/reality-is-funnier-than-satire-on-snl, https://ngs.ics.uci.edu/reality-is-funnier-than-satire-on-snl/#comment-2426, https://ngs.ics.uci.edu/reality-is-funnier-than-satire-on-snl/#comments
+https://ngs.ics.uci.edu/multimedia-teaching-need-a-real-text-book, https://ngs.ics.uci.edu/multimedia-teaching-need-a-real-text-book/#respond
+https://ngs.ics.uci.edu/the-new-age-of-innovation, https://ngs.ics.uci.edu/the-new-age-of-innovation/#comments
+https://ngs.ics.uci.edu/singapore-governement, https://ngs.ics.uci.edu/singapore-governement/#comments, https://ngs.ics.uci.edu/singapore-governement/#comment-3307
+https://ngs.ics.uci.edu/memories-for-life, https://ngs.ics.uci.edu/memories-for-life/#respond
+https://ngs.ics.uci.edu/video-communication-is-starting, https://ngs.ics.uci.edu/video-communication-is-starting/#comment-2420, https://ngs.ics.uci.edu/video-communication-is-starting/#comment-2402, https://ngs.ics.uci.edu/video-communication-is-starting/#comment-2416, https://ngs.ics.uci.edu/video-communication-is-starting/#comments
+https://ngs.ics.uci.edu/going-back-to-usa, https://ngs.ics.uci.edu/going-back-to-usa/#comments, https://ngs.ics.uci.edu/going-back-to-usa/#comment-2392
+https://ngs.ics.uci.edu/abstraction-matching, https://ngs.ics.uci.edu/abstraction-matching/#comment-2425, https://ngs.ics.uci.edu/abstraction-matching/#comments
+https://ngs.ics.uci.edu/interactive-digital-media-in-singapore, https://ngs.ics.uci.edu/interactive-digital-media-in-singapore/#comment-2388, https://ngs.ics.uci.edu/interactive-digital-media-in-singapore/#comments
+https://ngs.ics.uci.edu/sharing-your-visualizaion, https://ngs.ics.uci.edu/sharing-your-visualizaion/#comments, https://ngs.ics.uci.edu/sharing-your-visualizaion/#comment-2443
+https://ngs.ics.uci.edu/wealth-as-cure-for-indias-caste-bias, https://ngs.ics.uci.edu/wealth-as-cure-for-indias-caste-bias/#respond
+https://ngs.ics.uci.edu/economic-gains-are-limited-in-india, https://ngs.ics.uci.edu/economic-gains-are-limited-in-india/#comments, https://ngs.ics.uci.edu/economic-gains-are-limited-in-india/#comment-3221
+https://ngs.ics.uci.edu/carrot-works-in-research, https://ngs.ics.uci.edu/carrot-works-in-research/#respond
+https://ngs.ics.uci.edu/indian-medals-at-olympic-an-interesting-perspective, https://ngs.ics.uci.edu/indian-medals-at-olympic-an-interesting-perspective/#comments, https://ngs.ics.uci.edu/indian-medals-at-olympic-an-interesting-perspective/#comment-2372, https://ngs.ics.uci.edu/indian-medals-at-olympic-an-interesting-perspective/#comment-2383, https://ngs.ics.uci.edu/indian-medals-at-olympic-an-interesting-perspective/#comment-2377, https://ngs.ics.uci.edu/indian-medals-at-olympic-an-interesting-perspective/#comment-2370
+https://ngs.ics.uci.edu/abstractions-and-experiential-computing, https://ngs.ics.uci.edu/abstractions-and-experiential-computing/#respond
+https://ngs.ics.uci.edu/abstractions-operations-and-transformations-in-computing, https://ngs.ics.uci.edu/abstractions-operations-and-transformations-in-computing/#comments
+https://ngs.ics.uci.edu/metamorphosis-of-india, https://ngs.ics.uci.edu/metamorphosis-of-india/#respond
+https://ngs.ics.uci.edu/real-and-virtual-cybereal, https://ngs.ics.uci.edu/real-and-virtual-cybereal/#comment-2400, https://ngs.ics.uci.edu/real-and-virtual-cybereal/#comments
+https://ngs.ics.uci.edu/12-computer-down-from-100, https://ngs.ics.uci.edu/12-computer-down-from-100/#comments, https://ngs.ics.uci.edu/12-computer-down-from-100/#comment-2364
+https://ngs.ics.uci.edu/co-space, https://ngs.ics.uci.edu/co-space/#comments, https://ngs.ics.uci.edu/co-space/#comment-2350, https://ngs.ics.uci.edu/co-space/#comment-2354
+https://ngs.ics.uci.edu/tineye-an-image-search-engine, https://ngs.ics.uci.edu/tineye-an-image-search-engine/#comment-2337, https://ngs.ics.uci.edu/tineye-an-image-search-engine/#comments, https://ngs.ics.uci.edu/tineye-an-image-search-engine/#comment-2338, https://ngs.ics.uci.edu/tineye-an-image-search-engine/#comment-2628, https://ngs.ics.uci.edu/tineye-an-image-search-engine/#comment-2340
+https://ngs.ics.uci.edu/mir-1-data-sets, https://ngs.ics.uci.edu/mir-1-data-sets/#comments
+https://ngs.ics.uci.edu/hypelinking-videos-google-getting-into-it, https://ngs.ics.uci.edu/hypelinking-videos-google-getting-into-it/#comments, https://ngs.ics.uci.edu/hypelinking-videos-google-getting-into-it/#comment-2341
+https://ngs.ics.uci.edu/cuil-a-new-search-engine, https://ngs.ics.uci.edu/cuil-a-new-search-engine/#comment-2331, https://ngs.ics.uci.edu/cuil-a-new-search-engine/#comments
+https://ngs.ics.uci.edu/computing-in-100-bc, https://ngs.ics.uci.edu/computing-in-100-bc/#respond
+https://ngs.ics.uci.edu/hectic-time-in-singapore, https://ngs.ics.uci.edu/hectic-time-in-singapore/#comments, https://ngs.ics.uci.edu/hectic-time-in-singapore/#comment-2684
+https://ngs.ics.uci.edu/zeetv, https://ngs.ics.uci.edu/zeetv/#respond
+https://ngs.ics.uci.edu/scientific-reviews-pagerank, https://ngs.ics.uci.edu/scientific-reviews-pagerank/#comment-2319, https://ngs.ics.uci.edu/scientific-reviews-pagerank/#comments, https://ngs.ics.uci.edu/scientific-reviews-pagerank/#comment-2494, https://ngs.ics.uci.edu/scientific-reviews-pagerank/#comment-2324
+https://ngs.ics.uci.edu/spreading-joy, https://ngs.ics.uci.edu/spreading-joy/#respond
+https://ngs.ics.uci.edu/iphone-or-mcomputer, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-3024, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-3042, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comments, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-3071, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-3142, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-2318, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-3060, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-3159, https://ngs.ics.uci.edu/iphone-or-mcomputer/#comment-3134
+https://ngs.ics.uci.edu/can-we-go-beyond-gutenberg, https://ngs.ics.uci.edu/can-we-go-beyond-gutenberg/#comment-2305, https://ngs.ics.uci.edu/can-we-go-beyond-gutenberg/#comment-2302, https://ngs.ics.uci.edu/can-we-go-beyond-gutenberg/#comment-2351, https://ngs.ics.uci.edu/can-we-go-beyond-gutenberg/#comments
+https://ngs.ics.uci.edu/hammer-syndrome-in-sciences, https://ngs.ics.uci.edu/hammer-syndrome-in-sciences/#comment-2276, https://ngs.ics.uci.edu/hammer-syndrome-in-sciences/#comment-2304, https://ngs.ics.uci.edu/hammer-syndrome-in-sciences/#comments
+https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization, https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization/#comment-2267, https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization/#comment-2291, https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization/#comment-2268, https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization/#comment-3043, https://ngs.ics.uci.edu/photo-stream-segmentation-photo-organization/#comments
+https://ngs.ics.uci.edu/one-month-later, https://ngs.ics.uci.edu/one-month-later/#comment-2264, https://ngs.ics.uci.edu/one-month-later/#comment-2277, https://ngs.ics.uci.edu/one-month-later/#comments, https://ngs.ics.uci.edu/one-month-later/#comment-2263
+https://ngs.ics.uci.edu/information-sites-in-multimedia, https://ngs.ics.uci.edu/information-sites-in-multimedia/#comment-2271, https://ngs.ics.uci.edu/information-sites-in-multimedia/#comment-2266, https://ngs.ics.uci.edu/information-sites-in-multimedia/#comments
+https://ngs.ics.uci.edu/acm-multimedia-information-retrieval, https://ngs.ics.uci.edu/acm-multimedia-information-retrieval/#comments
+https://ngs.ics.uci.edu/experiential-computing, https://ngs.ics.uci.edu/experiential-computing/#comment-2246, https://ngs.ics.uci.edu/experiential-computing/#comment-2258, https://ngs.ics.uci.edu/experiential-computing/#comments
+https://ngs.ics.uci.edu/rehabilitation-from-knee-surgery, https://ngs.ics.uci.edu/rehabilitation-from-knee-surgery/#comment-2447, https://ngs.ics.uci.edu/rehabilitation-from-knee-surgery/#comment-2250, https://ngs.ics.uci.edu/rehabilitation-from-knee-surgery/#comments
+https://ngs.ics.uci.edu/maybe-this-time-speech-interfaces-are-really-oming, https://ngs.ics.uci.edu/maybe-this-time-speech-interfaces-are-really-oming/#respond
+https://ngs.ics.uci.edu/ipl-tournament-in-india, https://ngs.ics.uci.edu/ipl-tournament-in-india/#comments, https://ngs.ics.uci.edu/ipl-tournament-in-india/#comment-2244
+https://ngs.ics.uci.edu/arun-hampapur-distinguished-engineer-at-ibm, https://ngs.ics.uci.edu/arun-hampapur-distinguished-engineer-at-ibm/#comment-2234, https://ngs.ics.uci.edu/arun-hampapur-distinguished-engineer-at-ibm/#comments
+https://ngs.ics.uci.edu/media-and-experiences, https://ngs.ics.uci.edu/media-and-experiences/#comment-2965, https://ngs.ics.uci.edu/media-and-experiences/#comments
+https://ngs.ics.uci.edu/language-for-experiences, https://ngs.ics.uci.edu/language-for-experiences/#comments, https://ngs.ics.uci.edu/language-for-experiences/#comment-2233
+https://ngs.ics.uci.edu/empty-emotionalism, https://ngs.ics.uci.edu/empty-emotionalism/#comment-2243, https://ngs.ics.uci.edu/empty-emotionalism/#comments
+https://ngs.ics.uci.edu/allergic-reaction, https://ngs.ics.uci.edu/allergic-reaction/#respond
+https://ngs.ics.uci.edu/first-meeting-using-e2e, https://ngs.ics.uci.edu/first-meeting-using-e2e/#respond
+https://ngs.ics.uci.edu/what-did-we-do-before-computers-2, https://ngs.ics.uci.edu/what-did-we-do-before-computers-2/#comment-2217, https://ngs.ics.uci.edu/what-did-we-do-before-computers-2/#comments, https://ngs.ics.uci.edu/what-did-we-do-before-computers-2/#comment-2739, https://ngs.ics.uci.edu/what-did-we-do-before-computers-2/#comment-2226
+https://ngs.ics.uci.edu/what-did-we-do-before-computers, https://ngs.ics.uci.edu/what-did-we-do-before-computers/#comments, https://ngs.ics.uci.edu/what-did-we-do-before-computers/#comment-2909, https://ngs.ics.uci.edu/what-did-we-do-before-computers/#comment-2221
+https://ngs.ics.uci.edu/going-home, https://ngs.ics.uci.edu/going-home/#comments, https://ngs.ics.uci.edu/going-home/#comment-2919, https://ngs.ics.uci.edu/going-home/#comment-2214
+https://ngs.ics.uci.edu/pain-management-after-knee-surgery, https://ngs.ics.uci.edu/pain-management-after-knee-surgery/#comments
+https://ngs.ics.uci.edu/20-of-drugs-sold-in-india-fake, https://ngs.ics.uci.edu/20-of-drugs-sold-in-india-fake/#comments
+https://ngs.ics.uci.edu/knee-surgery-2, https://ngs.ics.uci.edu/knee-surgery-2/#respond
+https://ngs.ics.uci.edu/eventweb-symposium, https://ngs.ics.uci.edu/eventweb-symposium/#respond
+https://ngs.ics.uci.edu/telepresence-and-e2e, https://ngs.ics.uci.edu/telepresence-and-e2e/#respond
+https://ngs.ics.uci.edu/on-selecting-a-research-problem, https://ngs.ics.uci.edu/on-selecting-a-research-problem/#respond
+https://ngs.ics.uci.edu/web-science-3, https://ngs.ics.uci.edu/web-science-3/#comments
+https://ngs.ics.uci.edu/knee-surgery, https://ngs.ics.uci.edu/knee-surgery/#comments, https://ngs.ics.uci.edu/knee-surgery/#comment-2189
+https://ngs.ics.uci.edu/everything-ok, https://ngs.ics.uci.edu/everything-ok/#respond
+https://ngs.ics.uci.edu/iit-brands, https://ngs.ics.uci.edu/iit-brands/#respond
+https://ngs.ics.uci.edu/web-science-2, https://ngs.ics.uci.edu/web-science-2/#comment-2159, https://ngs.ics.uci.edu/web-science-2/#comment-2187, https://ngs.ics.uci.edu/web-science-2/#comments, https://ngs.ics.uci.edu/web-science-2/#comment-2205, https://ngs.ics.uci.edu/web-science-2/#comment-2204
+https://ngs.ics.uci.edu/web-science, https://ngs.ics.uci.edu/web-science/#comments, https://ngs.ics.uci.edu/web-science/#comment-2062, https://ngs.ics.uci.edu/web-science/#comment-2160
+https://ngs.ics.uci.edu/beijing, https://ngs.ics.uci.edu/beijing/#respond
+https://ngs.ics.uci.edu/subtitles-to-teach-reading, https://ngs.ics.uci.edu/subtitles-to-teach-reading/#comment-2625, https://ngs.ics.uci.edu/subtitles-to-teach-reading/#comment-1528, https://ngs.ics.uci.edu/subtitles-to-teach-reading/#comment-1527, https://ngs.ics.uci.edu/subtitles-to-teach-reading/#comments
+https://ngs.ics.uci.edu/knowledge-science-5-orality-and-literacy, https://ngs.ics.uci.edu/knowledge-science-5-orality-and-literacy/#comments
+https://ngs.ics.uci.edu/knowledge-science-4, https://ngs.ics.uci.edu/knowledge-science-4/#comment-1519, https://ngs.ics.uci.edu/knowledge-science-4/#comments
+https://ngs.ics.uci.edu/chi-conference, https://ngs.ics.uci.edu/chi-conference/#respond
+https://ngs.ics.uci.edu/in-florence, https://ngs.ics.uci.edu/in-florence/#comment-1510, https://ngs.ics.uci.edu/in-florence/#comments, https://ngs.ics.uci.edu/in-florence/#comment-1511, https://ngs.ics.uci.edu/in-florence/#comment-1514
+https://ngs.ics.uci.edu/knowledge-science-3, https://ngs.ics.uci.edu/knowledge-science-3/#comments, https://ngs.ics.uci.edu/knowledge-science-3/#comment-1524, https://ngs.ics.uci.edu/knowledge-science-3/#comment-1512
+https://ngs.ics.uci.edu/3-d-viewfinder-for-photos, https://ngs.ics.uci.edu/3-d-viewfinder-for-photos/#comments
+https://ngs.ics.uci.edu/knowledge-science-2, https://ngs.ics.uci.edu/knowledge-science-2/#comments
+https://ngs.ics.uci.edu/knowledge-science, https://ngs.ics.uci.edu/knowledge-science/#comment-2240, https://ngs.ics.uci.edu/knowledge-science/#comment-2238, https://ngs.ics.uci.edu/knowledge-science/#comments, https://ngs.ics.uci.edu/knowledge-science/#comment-2236
+https://ngs.ics.uci.edu/after-mandarin-it-is-hindi, https://ngs.ics.uci.edu/after-mandarin-it-is-hindi/#comments, https://ngs.ics.uci.edu/after-mandarin-it-is-hindi/#comment-1507
+https://ngs.ics.uci.edu/quality-of-experience, https://ngs.ics.uci.edu/quality-of-experience/#respond
+https://ngs.ics.uci.edu/research-in-singapore, https://ngs.ics.uci.edu/research-in-singapore/#comments
+https://ngs.ics.uci.edu/suffering-fools, https://ngs.ics.uci.edu/suffering-fools/#comment-1492, https://ngs.ics.uci.edu/suffering-fools/#comments
+https://ngs.ics.uci.edu/basic-research-in-singapore, https://ngs.ics.uci.edu/basic-research-in-singapore/#respond
+https://ngs.ics.uci.edu/cav-indexing-towards-contenxt, https://ngs.ics.uci.edu/cav-indexing-towards-contenxt/#comment-1500, https://ngs.ics.uci.edu/cav-indexing-towards-contenxt/#comments
+https://ngs.ics.uci.edu/east-and-west, https://ngs.ics.uci.edu/east-and-west/#comments
+https://ngs.ics.uci.edu/intelligence-analysts, https://ngs.ics.uci.edu/intelligence-analysts/#comment-1476, https://ngs.ics.uci.edu/intelligence-analysts/#comments
+https://ngs.ics.uci.edu/seraja-reincarnation-at-uci, https://ngs.ics.uci.edu/seraja-reincarnation-at-uci/#comment-1466, https://ngs.ics.uci.edu/seraja-reincarnation-at-uci/#comment-1460, https://ngs.ics.uci.edu/seraja-reincarnation-at-uci/#comments, https://ngs.ics.uci.edu/seraja-reincarnation-at-uci/#comment-1457, https://ngs.ics.uci.edu/seraja-reincarnation-at-uci/#comment-1461
+https://ngs.ics.uci.edu/other-india, https://ngs.ics.uci.edu/other-india/#comment-1456, https://ngs.ics.uci.edu/other-india/#comments
+https://ngs.ics.uci.edu/smart-traffic, https://ngs.ics.uci.edu/smart-traffic/#respond
+https://ngs.ics.uci.edu/technology-and-auto-industry, https://ngs.ics.uci.edu/technology-and-auto-industry/#comments, https://ngs.ics.uci.edu/technology-and-auto-industry/#comment-2501
+https://ngs.ics.uci.edu/obama-appoints-sonal-shah, https://ngs.ics.uci.edu/obama-appoints-sonal-shah/#respond
+https://ngs.ics.uci.edu/study-astrology, https://ngs.ics.uci.edu/study-astrology/#respond
+https://ngs.ics.uci.edu/googles-speech-interfaces-using-context, https://ngs.ics.uci.edu/googles-speech-interfaces-using-context/#comment-2512, https://ngs.ics.uci.edu/googles-speech-interfaces-using-context/#comments, https://ngs.ics.uci.edu/googles-speech-interfaces-using-context/#comment-2516
+https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful, https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful/#comments, https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful/#comment-2522, https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful/#comment-2515, https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful/#comment-2514, https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful/#comment-2505, https://ngs.ics.uci.edu/rligulous-religion-considered-extremely-harmful/#comment-2541
+https://ngs.ics.uci.edu/future-storytelling, https://ngs.ics.uci.edu/future-storytelling/#respond
+https://ngs.ics.uci.edu/back-after-a-long-break/#comments, https://ngs.ics.uci.edu/back-after-a-long-break
+https://ngs.ics.uci.edu/busy-time/#respond, https://ngs.ics.uci.edu/busy-time
+https://ngs.ics.uci.edu/in-singapore, https://ngs.ics.uci.edu/in-singapore/#respond
+https://ngs.ics.uci.edu/pandit-does-bring-recognition-to-nagpur, https://ngs.ics.uci.edu/pandit-does-bring-recognition-to-nagpur/#respond
+https://ngs.ics.uci.edu/cyber-and-real-cybereal, https://ngs.ics.uci.edu/cyber-and-real-cybereal/#comment-1335, https://ngs.ics.uci.edu/cyber-and-real-cybereal/#comment-1448, https://ngs.ics.uci.edu/cyber-and-real-cybereal/#comments
+https://ngs.ics.uci.edu/cav-indexing, https://ngs.ics.uci.edu/cav-indexing/#comments, https://ngs.ics.uci.edu/cav-indexing/#comment-1398, https://ngs.ics.uci.edu/cav-indexing/#comment-1318
+https://ngs.ics.uci.edu/back-in-india, https://ngs.ics.uci.edu/back-in-india/#respond
+https://ngs.ics.uci.edu/nagpur-trip-2007, https://ngs.ics.uci.edu/nagpur-trip-2007/#respond
+https://ngs.ics.uci.edu/indian-weddings, https://ngs.ics.uci.edu/indian-weddings/#comment-1328, https://ngs.ics.uci.edu/indian-weddings/#comments
+https://ngs.ics.uci.edu/indian-wedding-2, https://ngs.ics.uci.edu/indian-wedding-2/#respond
+https://ngs.ics.uci.edu/nagpur-trip-20072, https://ngs.ics.uci.edu/nagpur-trip-20072/#respond
+https://ngs.ics.uci.edu/visiting-new-delhi, https://ngs.ics.uci.edu/visiting-new-delhi/#respond
+https://ngs.ics.uci.edu/seraja-software, https://ngs.ics.uci.edu/seraja-software/#comment-1356, https://ngs.ics.uci.edu/seraja-software/#comment-2492, https://ngs.ics.uci.edu/seraja-software/#comments, https://ngs.ics.uci.edu/seraja-software/#comment-3013, https://ngs.ics.uci.edu/seraja-software/#comment-2834, https://ngs.ics.uci.edu/seraja-software/#comment-2367
+https://ngs.ics.uci.edu/back-home-4, https://ngs.ics.uci.edu/back-home-4/#respond
+https://ngs.ics.uci.edu/open-cable-platform, https://ngs.ics.uci.edu/open-cable-platform/#comment-1336, https://ngs.ics.uci.edu/open-cable-platform/#comments
+https://ngs.ics.uci.edu/tata-and-rs-1-lakh-car, https://ngs.ics.uci.edu/tata-and-rs-1-lakh-car/#comments, https://ngs.ics.uci.edu/tata-and-rs-1-lakh-car/#comment-1345
+https://ngs.ics.uci.edu/geotagging-2, https://ngs.ics.uci.edu/geotagging-2/#respond
+https://ngs.ics.uci.edu/computer-vision-in-computing, https://ngs.ics.uci.edu/computer-vision-in-computing/#comments, https://ngs.ics.uci.edu/computer-vision-in-computing/#comment-2486
+https://ngs.ics.uci.edu/educating-india, https://ngs.ics.uci.edu/educating-india/#respond
+https://ngs.ics.uci.edu/creativeit, https://ngs.ics.uci.edu/creativeit/#comment-1353, https://ngs.ics.uci.edu/creativeit/#comments, https://ngs.ics.uci.edu/creativeit/#comment-1352
+https://ngs.ics.uci.edu/creativity-and-creativeit, https://ngs.ics.uci.edu/creativity-and-creativeit/#comments
+https://ngs.ics.uci.edu/divorces-in-india, https://ngs.ics.uci.edu/divorces-in-india/#comment-2432, https://ngs.ics.uci.edu/divorces-in-india/#comment-1368, https://ngs.ics.uci.edu/divorces-in-india/#comment-1390, https://ngs.ics.uci.edu/divorces-in-india/#comment-2634, https://ngs.ics.uci.edu/divorces-in-india/#comment-2653, https://ngs.ics.uci.edu/divorces-in-india/#comments, https://ngs.ics.uci.edu/divorces-in-india/#comment-2390, https://ngs.ics.uci.edu/divorces-in-india/#comment-2586, https://ngs.ics.uci.edu/divorces-in-india/#comment-3812, https://ngs.ics.uci.edu/divorces-in-india/#comment-4024, https://ngs.ics.uci.edu/divorces-in-india/#comment-1369, https://ngs.ics.uci.edu/divorces-in-india/#comment-2783, https://ngs.ics.uci.edu/divorces-in-india/#comment-1383, https://ngs.ics.uci.edu/divorces-in-india/#comment-2569, https://ngs.ics.uci.edu/divorces-in-india/#comment-1371, https://ngs.ics.uci.edu/divorces-in-india/#comment-1366
+https://ngs.ics.uci.edu/the-new-bill-gates, https://ngs.ics.uci.edu/the-new-bill-gates/#comment-1376, https://ngs.ics.uci.edu/the-new-bill-gates/#comments
+https://ngs.ics.uci.edu/padma-vibhushan, https://ngs.ics.uci.edu/padma-vibhushan/#comment-1375, https://ngs.ics.uci.edu/padma-vibhushan/#comments
+https://ngs.ics.uci.edu/test-images-in-computer-vision-research, https://ngs.ics.uci.edu/test-images-in-computer-vision-research/#comments, https://ngs.ics.uci.edu/test-images-in-computer-vision-research/#comment-2207
+https://ngs.ics.uci.edu/face-recognition-one-more-claim, https://ngs.ics.uci.edu/face-recognition-one-more-claim/#comment-1397, https://ngs.ics.uci.edu/face-recognition-one-more-claim/#comments
+https://ngs.ics.uci.edu/multimedia-content-access, https://ngs.ics.uci.edu/multimedia-content-access/#comments
+https://ngs.ics.uci.edu/tom-brady-a-fighter, https://ngs.ics.uci.edu/tom-brady-a-fighter/#comments, https://ngs.ics.uci.edu/tom-brady-a-fighter/#comment-1404, https://ngs.ics.uci.edu/tom-brady-a-fighter/#comment-3465, https://ngs.ics.uci.edu/tom-brady-a-fighter/#comment-1405, https://ngs.ics.uci.edu/tom-brady-a-fighter/#comment-1400, https://ngs.ics.uci.edu/tom-brady-a-fighter/#comment-1399
+https://ngs.ics.uci.edu/events-becoming-popular, https://ngs.ics.uci.edu/events-becoming-popular/#respond
+https://ngs.ics.uci.edu/eventweb-article, https://ngs.ics.uci.edu/eventweb-article/#comments, https://ngs.ics.uci.edu/eventweb-article/#comment-1406
+https://ngs.ics.uci.edu/us-universities-setting-outposts, https://ngs.ics.uci.edu/us-universities-setting-outposts/#respond
+https://ngs.ics.uci.edu/computational-journalism, https://ngs.ics.uci.edu/computational-journalism/#respond
+https://ngs.ics.uci.edu/human-sensors, https://ngs.ics.uci.edu/human-sensors/#respond
+https://ngs.ics.uci.edu/mahaexodus-navanirman-or-satyanash, https://ngs.ics.uci.edu/mahaexodus-navanirman-or-satyanash/#respond
+https://ngs.ics.uci.edu/applications-of-face-recognition, https://ngs.ics.uci.edu/applications-of-face-recognition/#comments, https://ngs.ics.uci.edu/applications-of-face-recognition/#comment-1422
+https://ngs.ics.uci.edu/obsession-with-non-issues, https://ngs.ics.uci.edu/obsession-with-non-issues/#comment-1436, https://ngs.ics.uci.edu/obsession-with-non-issues/#comments
+https://ngs.ics.uci.edu/another-non-issue-gaining-importance, https://ngs.ics.uci.edu/another-non-issue-gaining-importance/#comment-2057, https://ngs.ics.uci.edu/another-non-issue-gaining-importance/#comment-1444, https://ngs.ics.uci.edu/another-non-issue-gaining-importance/#comments
+https://ngs.ics.uci.edu/computational-journalism-day-1, https://ngs.ics.uci.edu/computational-journalism-day-1/#comment-1431, https://ngs.ics.uci.edu/computational-journalism-day-1/#comments, https://ngs.ics.uci.edu/computational-journalism-day-1/#comment-1434, https://ngs.ics.uci.edu/computational-journalism-day-1/#comment-1432, https://ngs.ics.uci.edu/computational-journalism-day-1/#comment-1433
+https://ngs.ics.uci.edu/indian-ceos-pride-of-nagpur, https://ngs.ics.uci.edu/indian-ceos-pride-of-nagpur/#comment-1312, https://ngs.ics.uci.edu/indian-ceos-pride-of-nagpur/#comments, https://ngs.ics.uci.edu/indian-ceos-pride-of-nagpur/#comment-1310, https://ngs.ics.uci.edu/indian-ceos-pride-of-nagpur/#comment-2905
+https://ngs.ics.uci.edu/sad-education-situation-in-india, https://ngs.ics.uci.edu/sad-education-situation-in-india/#respond
+https://ngs.ics.uci.edu/nagpur-person-to-head-citi-bank, https://ngs.ics.uci.edu/nagpur-person-to-head-citi-bank/#respond
+https://ngs.ics.uci.edu/folk-computing-a-scenario-from-2013, https://ngs.ics.uci.edu/folk-computing-a-scenario-from-2013/#comments, https://ngs.ics.uci.edu/folk-computing-a-scenario-from-2013/#comment-1309, https://ngs.ics.uci.edu/folk-computing-a-scenario-from-2013/#comment-1308
+https://ngs.ics.uci.edu/now-to-osteoarthritis-of-knees, https://ngs.ics.uci.edu/now-to-osteoarthritis-of-knees/#comment-1314, https://ngs.ics.uci.edu/now-to-osteoarthritis-of-knees/#comment-1304, https://ngs.ics.uci.edu/now-to-osteoarthritis-of-knees/#comments
+https://ngs.ics.uci.edu/deep-history, https://ngs.ics.uci.edu/deep-history/#respond
+https://ngs.ics.uci.edu/nostalgia-in-atlanta-at-tsrb/#respond, https://ngs.ics.uci.edu/nostalgia-in-atlanta-at-tsrb
+https://ngs.ics.uci.edu/knee/#respond, https://ngs.ics.uci.edu/knee
+https://ngs.ics.uci.edu/back-after-fires/#respond, https://ngs.ics.uci.edu/back-after-fires
+https://ngs.ics.uci.edu/fires-in-southern-california, https://ngs.ics.uci.edu/fires-in-southern-california/#comment-1271, https://ngs.ics.uci.edu/fires-in-southern-california/#comment-1267, https://ngs.ics.uci.edu/fires-in-southern-california/#comments
+https://ngs.ics.uci.edu/indian-technology-in-the-flat-world-2, https://ngs.ics.uci.edu/indian-technology-in-the-flat-world-2/#respond
+https://ngs.ics.uci.edu/electronic-cultural-atlas-initiative-workshop, https://ngs.ics.uci.edu/electronic-cultural-atlas-initiative-workshop/#respond
+https://ngs.ics.uci.edu/gates-long-list-natural-interfaces, https://ngs.ics.uci.edu/gates-long-list-natural-interfaces/#comment-1257, https://ngs.ics.uci.edu/gates-long-list-natural-interfaces/#comments
+https://ngs.ics.uci.edu/rio-de-janeiro-brazil-experience, https://ngs.ics.uci.edu/rio-de-janeiro-brazil-experience/#respond
+https://ngs.ics.uci.edu/computer-vision-in-developing-countries, https://ngs.ics.uci.edu/computer-vision-in-developing-countries/#comment-1256, https://ngs.ics.uci.edu/computer-vision-in-developing-countries/#comment-1260, https://ngs.ics.uci.edu/computer-vision-in-developing-countries/#comments
+https://ngs.ics.uci.edu/visiting-rio-first-trip-to-south-america/#respond, https://ngs.ics.uci.edu/visiting-rio-first-trip-to-south-america
+https://ngs.ics.uci.edu/you-know-it-but-it-still-hurts/#respond, https://ngs.ics.uci.edu/you-know-it-but-it-still-hurts
+https://ngs.ics.uci.edu/bai-is-no-more-with-us/#respond, https://ngs.ics.uci.edu/bai-is-no-more-with-us
+https://ngs.ics.uci.edu/losing-friends/#respond, https://ngs.ics.uci.edu/losing-friends
+https://ngs.ics.uci.edu/busy-working-on-eventweb-project, https://ngs.ics.uci.edu/busy-working-on-eventweb-project/#comment-1165, https://ngs.ics.uci.edu/busy-working-on-eventweb-project/#comments
+https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk, https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk/#comment-1164, https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk/#comment-1167, https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk/#comment-1153, https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk/#comment-1180, https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk/#comment-1145, https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk/#comments, https://ngs.ics.uci.edu/eventweb-article-based-on-keynote-talk/#comment-1154
+https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2, https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2/#comment-1155, https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2/#comment-1319, https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2/#comments, https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2/#comment-1215, https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2/#comment-2216, https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2/#comment-1143, https://ngs.ics.uci.edu/hiperwall-at-uc-irvine-calit2/#comment-1520
+https://ngs.ics.uci.edu/history-and-events, https://ngs.ics.uci.edu/history-and-events/#comment-1138, https://ngs.ics.uci.edu/history-and-events/#comments
+https://ngs.ics.uci.edu/ho-chi-minh-city, https://ngs.ics.uci.edu/ho-chi-minh-city/#comment-1151, https://ngs.ics.uci.edu/ho-chi-minh-city/#comment-1140, https://ngs.ics.uci.edu/ho-chi-minh-city/#comments
+https://ngs.ics.uci.edu/ancient-rome-born-in-3d, https://ngs.ics.uci.edu/ancient-rome-born-in-3d/#comments, https://ngs.ics.uci.edu/ancient-rome-born-in-3d/#comment-1128, https://ngs.ics.uci.edu/ancient-rome-born-in-3d/#comment-1131
+https://ngs.ics.uci.edu/india-has-the-brains-but, https://ngs.ics.uci.edu/india-has-the-brains-but/#comment-1133, https://ngs.ics.uci.edu/india-has-the-brains-but/#comment-1132, https://ngs.ics.uci.edu/india-has-the-brains-but/#comments
+https://ngs.ics.uci.edu/videoconferencing-in-future-for-seniors, https://ngs.ics.uci.edu/videoconferencing-in-future-for-seniors/#comment-1147, https://ngs.ics.uci.edu/videoconferencing-in-future-for-seniors/#comments
+https://ngs.ics.uci.edu/60-years-of-indian-independence, https://ngs.ics.uci.edu/60-years-of-indian-independence/#respond
+https://ngs.ics.uci.edu/religion-and-progress, https://ngs.ics.uci.edu/religion-and-progress/#respond
+https://ngs.ics.uci.edu/india-as-outsourcer, https://ngs.ics.uci.edu/india-as-outsourcer/#comment-1117, https://ngs.ics.uci.edu/india-as-outsourcer/#comment-1124, https://ngs.ics.uci.edu/india-as-outsourcer/#comments
+https://ngs.ics.uci.edu/indian-technology-in-the-flat-world, https://ngs.ics.uci.edu/indian-technology-in-the-flat-world/#comment-1115, https://ngs.ics.uci.edu/indian-technology-in-the-flat-world/#comments, https://ngs.ics.uci.edu/indian-technology-in-the-flat-world/#comment-1113
+https://ngs.ics.uci.edu/e2e-environment-to-environment-communications, https://ngs.ics.uci.edu/e2e-environment-to-environment-communications/#comment-1118, https://ngs.ics.uci.edu/e2e-environment-to-environment-communications/#comments
+https://ngs.ics.uci.edu/a-picture-is-worth-a-thousand-lies, https://ngs.ics.uci.edu/a-picture-is-worth-a-thousand-lies/#comments, https://ngs.ics.uci.edu/a-picture-is-worth-a-thousand-lies/#comment-1110
+https://ngs.ics.uci.edu/fast-image-similarity-search, https://ngs.ics.uci.edu/fast-image-similarity-search/#comment-1116, https://ngs.ics.uci.edu/fast-image-similarity-search/#comments
+https://ngs.ics.uci.edu/interest-in-nagpur, https://ngs.ics.uci.edu/interest-in-nagpur/#respond
+https://ngs.ics.uci.edu/living-in-singapore, https://ngs.ics.uci.edu/living-in-singapore/#respond
+https://ngs.ics.uci.edu/cnn-youtube-debates, https://ngs.ics.uci.edu/cnn-youtube-debates/#comments, https://ngs.ics.uci.edu/cnn-youtube-debates/#comment-1096, https://ngs.ics.uci.edu/cnn-youtube-debates/#comment-1100
+https://ngs.ics.uci.edu/wow-factor-in-photo-technologies-at-microsoft, https://ngs.ics.uci.edu/wow-factor-in-photo-technologies-at-microsoft/#respond
+https://ngs.ics.uci.edu/research-in-computer-vision-and-many-other-fields, https://ngs.ics.uci.edu/research-in-computer-vision-and-many-other-fields/#respond
+https://ngs.ics.uci.edu/from-killer-apps-to-platform, https://ngs.ics.uci.edu/from-killer-apps-to-platform/#comment-1230, https://ngs.ics.uci.edu/from-killer-apps-to-platform/#comments
+https://ngs.ics.uci.edu/large-scale-cut-and-paste-to-enhance-photos, https://ngs.ics.uci.edu/large-scale-cut-and-paste-to-enhance-photos/#comment-1090, https://ngs.ics.uci.edu/large-scale-cut-and-paste-to-enhance-photos/#comments
+https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1084, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1254, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comments, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1192, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1103, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1280, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1088, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1266, https://ngs.ics.uci.edu/iphone-a-good-step-towards-folk-computing/#comment-1089
+https://ngs.ics.uci.edu/brave-new-world-at-so-called-high-quality-conferences, https://ngs.ics.uci.edu/brave-new-world-at-so-called-high-quality-conferences/#respond
+https://ngs.ics.uci.edu/sobering-data, https://ngs.ics.uci.edu/sobering-data/#comments, https://ngs.ics.uci.edu/sobering-data/#comment-1073
+https://ngs.ics.uci.edu/rising-wages-in-india-starting-to-hurt, https://ngs.ics.uci.edu/rising-wages-in-india-starting-to-hurt/#respond
+https://ngs.ics.uci.edu/photo-eco-system-i-need-to-solve-my-problem, https://ngs.ics.uci.edu/photo-eco-system-i-need-to-solve-my-problem/#comment-1093, https://ngs.ics.uci.edu/photo-eco-system-i-need-to-solve-my-problem/#comments
+https://ngs.ics.uci.edu/photo-eco-system-analyzing-digital-photos, https://ngs.ics.uci.edu/photo-eco-system-analyzing-digital-photos/#respond
+https://ngs.ics.uci.edu/user-generated-stock-photos, https://ngs.ics.uci.edu/user-generated-stock-photos/#comment-1063, https://ngs.ics.uci.edu/user-generated-stock-photos/#comments
+https://ngs.ics.uci.edu/searching-sportscasts, https://ngs.ics.uci.edu/searching-sportscasts/#respond
+https://ngs.ics.uci.edu/offline-social-networks, https://ngs.ics.uci.edu/offline-social-networks/#comments
+https://ngs.ics.uci.edu/photo-eco-system-digital-cameras, https://ngs.ics.uci.edu/photo-eco-system-digital-cameras/#comments, https://ngs.ics.uci.edu/photo-eco-system-digital-cameras/#comment-2482
+https://ngs.ics.uci.edu/creating-a-photo-eco-system-the-problem, https://ngs.ics.uci.edu/creating-a-photo-eco-system-the-problem/#comment-1060, https://ngs.ics.uci.edu/creating-a-photo-eco-system-the-problem/#comment-1051, https://ngs.ics.uci.edu/creating-a-photo-eco-system-the-problem/#comments
+https://ngs.ics.uci.edu/digital-camera-sensitivity, https://ngs.ics.uci.edu/digital-camera-sensitivity/#respond
+https://ngs.ics.uci.edu/where-to-store-your-photos, https://ngs.ics.uci.edu/where-to-store-your-photos/#comments, https://ngs.ics.uci.edu/where-to-store-your-photos/#comment-1234, https://ngs.ics.uci.edu/where-to-store-your-photos/#comment-1265
+https://ngs.ics.uci.edu/multimedia-evidences-for-events, https://ngs.ics.uci.edu/multimedia-evidences-for-events/#respond
+https://ngs.ics.uci.edu/camera-with-wifi, https://ngs.ics.uci.edu/camera-with-wifi/#respond
+https://ngs.ics.uci.edu/muvee-california-culture-in-singapore, https://ngs.ics.uci.edu/muvee-california-culture-in-singapore/#respond
+https://ngs.ics.uci.edu/social-networks-on-mobile-by-coke, https://ngs.ics.uci.edu/social-networks-on-mobile-by-coke/#comments, https://ngs.ics.uci.edu/social-networks-on-mobile-by-coke/#comment-1046, https://ngs.ics.uci.edu/social-networks-on-mobile-by-coke/#comment-1056
+https://ngs.ics.uci.edu/facebook-in-india, https://ngs.ics.uci.edu/facebook-in-india/#comment-2787, https://ngs.ics.uci.edu/facebook-in-india/#comment-1490, https://ngs.ics.uci.edu/facebook-in-india/#comment-2254, https://ngs.ics.uci.edu/facebook-in-india/#comment-3171, https://ngs.ics.uci.edu/facebook-in-india/#comments, https://ngs.ics.uci.edu/facebook-in-india/#comment-2996, https://ngs.ics.uci.edu/facebook-in-india/#comment-2781, https://ngs.ics.uci.edu/facebook-in-india/#comment-2962, https://ngs.ics.uci.edu/facebook-in-india/#comment-2791
+https://ngs.ics.uci.edu/towards-unified-search-ask, https://ngs.ics.uci.edu/towards-unified-search-ask/#comment-1038, https://ngs.ics.uci.edu/towards-unified-search-ask/#comments, https://ngs.ics.uci.edu/towards-unified-search-ask/#comment-1035
+https://ngs.ics.uci.edu/humans-in-search-engine, https://ngs.ics.uci.edu/humans-in-search-engine/#comment-1055, https://ngs.ics.uci.edu/humans-in-search-engine/#comments
+https://ngs.ics.uci.edu/conference-non-proceedings, https://ngs.ics.uci.edu/conference-non-proceedings/#respond
+https://ngs.ics.uci.edu/travel-to-singapore, https://ngs.ics.uci.edu/travel-to-singapore/#comment-3632, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2631, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2923, https://ngs.ics.uci.edu/travel-to-singapore/#comments, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2677, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2412, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2803, https://ngs.ics.uci.edu/travel-to-singapore/#comment-3466, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2793, https://ngs.ics.uci.edu/travel-to-singapore/#comment-1272, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2807, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2805, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2981, https://ngs.ics.uci.edu/travel-to-singapore/#comment-3097, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2853, https://ngs.ics.uci.edu/travel-to-singapore/#comment-1127, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2825, https://ngs.ics.uci.edu/travel-to-singapore/#comment-3052, https://ngs.ics.uci.edu/travel-to-singapore/#comment-3748, https://ngs.ics.uci.edu/travel-to-singapore/#comment-1525, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2452, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2826, https://ngs.ics.uci.edu/travel-to-singapore/#comment-1253, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2861, https://ngs.ics.uci.edu/travel-to-singapore/#comment-2371
+https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-2461, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-2478, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-2453, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-2055, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-1025, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-1332, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-2445, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-3648, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-2448, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comments, https://ngs.ics.uci.edu/revolutionary-changes-thru-inputs/#comment-2327
+https://ngs.ics.uci.edu/richer-maps, https://ngs.ics.uci.edu/richer-maps/#respond
+https://ngs.ics.uci.edu/maps-getting-richer, https://ngs.ics.uci.edu/maps-getting-richer/#comment-1026, https://ngs.ics.uci.edu/maps-getting-richer/#comment-1042, https://ngs.ics.uci.edu/maps-getting-richer/#comment-1261, https://ngs.ics.uci.edu/maps-getting-richer/#comments
+https://ngs.ics.uci.edu/colorful-reading, https://ngs.ics.uci.edu/colorful-reading/#comments, https://ngs.ics.uci.edu/colorful-reading/#comment-1029
+https://ngs.ics.uci.edu/photo-uploads-on-facebook, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-3673, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-3498, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-1081, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-2929, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-3752, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-1027, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-1024, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comments, https://ngs.ics.uci.edu/photo-uploads-on-facebook/#comment-1023
+https://ngs.ics.uci.edu/nagpur-the-big-orange, https://ngs.ics.uci.edu/nagpur-the-big-orange/#respond
+https://ngs.ics.uci.edu/social-networking-platform, https://ngs.ics.uci.edu/social-networking-platform/#comment-1022, https://ngs.ics.uci.edu/social-networking-platform/#comments
+https://ngs.ics.uci.edu/a-german-wedding, https://ngs.ics.uci.edu/a-german-wedding/#respond
+https://ngs.ics.uci.edu/protecting-ancient-indian-knowledge, https://ngs.ics.uci.edu/protecting-ancient-indian-knowledge/#comment-1014, https://ngs.ics.uci.edu/protecting-ancient-indian-knowledge/#comment-1015, https://ngs.ics.uci.edu/protecting-ancient-indian-knowledge/#comment-1106, https://ngs.ics.uci.edu/protecting-ancient-indian-knowledge/#comments
+https://ngs.ics.uci.edu/events-unaware-of-events, https://ngs.ics.uci.edu/events-unaware-of-events/#comments, https://ngs.ics.uci.edu/events-unaware-of-events/#comment-1020
+https://ngs.ics.uci.edu/interesting-trip-child-birth-on-a-flight, https://ngs.ics.uci.edu/interesting-trip-child-birth-on-a-flight/#comment-1043, https://ngs.ics.uci.edu/interesting-trip-child-birth-on-a-flight/#comment-1012, https://ngs.ics.uci.edu/interesting-trip-child-birth-on-a-flight/#comment-1019, https://ngs.ics.uci.edu/interesting-trip-child-birth-on-a-flight/#comment-1105, https://ngs.ics.uci.edu/interesting-trip-child-birth-on-a-flight/#comments
+https://ngs.ics.uci.edu/electricity-in-india, https://ngs.ics.uci.edu/electricity-in-india/#comments, https://ngs.ics.uci.edu/electricity-in-india/#comment-1040
+https://ngs.ics.uci.edu/nagpur-a-model-for-indian-cities, https://ngs.ics.uci.edu/nagpur-a-model-for-indian-cities/#comment-1009, https://ngs.ics.uci.edu/nagpur-a-model-for-indian-cities/#comments
+https://ngs.ics.uci.edu/internet-cameras-and-politics, https://ngs.ics.uci.edu/internet-cameras-and-politics/#respond
+https://ngs.ics.uci.edu/vacation-in-germany, https://ngs.ics.uci.edu/vacation-in-germany/#comments
+https://ngs.ics.uci.edu/social-networking-is-ephemeral, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-1002, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-4976, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-2559, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-1186, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-5070, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-2856, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-3797, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-1011, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-2287, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-1102, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-1006, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comments, https://ngs.ics.uci.edu/social-networking-is-ephemeral/#comment-3278
+https://ngs.ics.uci.edu/most-popular-but-little-known-photosite, https://ngs.ics.uci.edu/most-popular-but-little-known-photosite/#respond
+https://ngs.ics.uci.edu/goodbye-mouse, https://ngs.ics.uci.edu/goodbye-mouse/#comments
+https://ngs.ics.uci.edu/building-more-iits, https://ngs.ics.uci.edu/building-more-iits/#comment-996, https://ngs.ics.uci.edu/building-more-iits/#comment-997, https://ngs.ics.uci.edu/building-more-iits/#comments, https://ngs.ics.uci.edu/building-more-iits/#comment-1049
+https://ngs.ics.uci.edu/aggressiveness-in-start-ups, https://ngs.ics.uci.edu/aggressiveness-in-start-ups/#comments, https://ngs.ics.uci.edu/aggressiveness-in-start-ups/#comment-992, https://ngs.ics.uci.edu/aggressiveness-in-start-ups/#comment-1001, https://ngs.ics.uci.edu/aggressiveness-in-start-ups/#comment-3519
+https://ngs.ics.uci.edu/culture-or-politics-or-stupidity, https://ngs.ics.uci.edu/culture-or-politics-or-stupidity/#comment-987, https://ngs.ics.uci.edu/culture-or-politics-or-stupidity/#comment-984, https://ngs.ics.uci.edu/culture-or-politics-or-stupidity/#comments, https://ngs.ics.uci.edu/culture-or-politics-or-stupidity/#comment-994, https://ngs.ics.uci.edu/culture-or-politics-or-stupidity/#comment-2669, https://ngs.ics.uci.edu/culture-or-politics-or-stupidity/#comment-988
+https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers, https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers/#comment-1010, https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers/#comment-2356, https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers/#comment-1316, https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers/#comment-986, https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers/#comment-982, https://ngs.ics.uci.edu/india-has-more-than-200-million-telephone-subscribers/#comments
+https://ngs.ics.uci.edu/back-home-3, https://ngs.ics.uci.edu/back-home-3/#respond
+https://ngs.ics.uci.edu/amusing-event-in-religion-politics-in-india, https://ngs.ics.uci.edu/amusing-event-in-religion-politics-in-india/#respond
+https://ngs.ics.uci.edu/computer-vision-applications-in-cameras, https://ngs.ics.uci.edu/computer-vision-applications-in-cameras/#comment-1212, https://ngs.ics.uci.edu/computer-vision-applications-in-cameras/#comments, https://ngs.ics.uci.edu/computer-vision-applications-in-cameras/#comment-1197
+https://ngs.ics.uci.edu/semantics-in-multimedia, https://ngs.ics.uci.edu/semantics-in-multimedia/#comment-1224, https://ngs.ics.uci.edu/semantics-in-multimedia/#comment-1219, https://ngs.ics.uci.edu/semantics-in-multimedia/#comments, https://ngs.ics.uci.edu/semantics-in-multimedia/#comment-1217, https://ngs.ics.uci.edu/semantics-in-multimedia/#comment-1216
+https://ngs.ics.uci.edu/image-search-in-multiple-languages, https://ngs.ics.uci.edu/image-search-in-multiple-languages/#comment-1208, https://ngs.ics.uci.edu/image-search-in-multiple-languages/#comments, https://ngs.ics.uci.edu/image-search-in-multiple-languages/#comment-1220, https://ngs.ics.uci.edu/image-search-in-multiple-languages/#comment-1211
+https://ngs.ics.uci.edu/face-recognition-engine, https://ngs.ics.uci.edu/face-recognition-engine/#respond
+https://ngs.ics.uci.edu/perth-is-a-nice-place, https://ngs.ics.uci.edu/perth-is-a-nice-place/#respond
+https://ngs.ics.uci.edu/environment-to-environment-e2e-communication, https://ngs.ics.uci.edu/environment-to-environment-e2e-communication/#comment-1176, https://ngs.ics.uci.edu/environment-to-environment-e2e-communication/#comments, https://ngs.ics.uci.edu/environment-to-environment-e2e-communication/#comment-1166
+https://ngs.ics.uci.edu/geotagging, https://ngs.ics.uci.edu/geotagging/#comment-1171, https://ngs.ics.uci.edu/geotagging/#comment-1179, https://ngs.ics.uci.edu/geotagging/#comment-1172, https://ngs.ics.uci.edu/geotagging/#comments, https://ngs.ics.uci.edu/geotagging/#comment-1173, https://ngs.ics.uci.edu/geotagging/#comment-1193
+https://ngs.ics.uci.edu/academic-research, https://ngs.ics.uci.edu/academic-research/#comment-1214, https://ngs.ics.uci.edu/academic-research/#comments
+https://ngs.ics.uci.edu/back-home-070108, https://ngs.ics.uci.edu/back-home-070108/#comment-857, https://ngs.ics.uci.edu/back-home-070108/#comments
+https://ngs.ics.uci.edu/organic-books, https://ngs.ics.uci.edu/organic-books/#respond
+https://ngs.ics.uci.edu/busy-but-exciting-time-in-singapore, https://ngs.ics.uci.edu/busy-but-exciting-time-in-singapore/#respond
+https://ngs.ics.uci.edu/camera-with-face-detection-technology, https://ngs.ics.uci.edu/camera-with-face-detection-technology/#comments, https://ngs.ics.uci.edu/camera-with-face-detection-technology/#comment-852, https://ngs.ics.uci.edu/camera-with-face-detection-technology/#comment-858
+https://ngs.ics.uci.edu/year-of-events, https://ngs.ics.uci.edu/year-of-events/#respond
+https://ngs.ics.uci.edu/photography-in-india, https://ngs.ics.uci.edu/photography-in-india/#comment-1365, https://ngs.ics.uci.edu/photography-in-india/#comment-849, https://ngs.ics.uci.edu/photography-in-india/#comment-3637, https://ngs.ics.uci.edu/photography-in-india/#comment-847, https://ngs.ics.uci.edu/photography-in-india/#comment-3784, https://ngs.ics.uci.edu/photography-in-india/#comment-861, https://ngs.ics.uci.edu/photography-in-india/#comment-1320, https://ngs.ics.uci.edu/photography-in-india/#comment-1325, https://ngs.ics.uci.edu/photography-in-india/#comment-999, https://ngs.ics.uci.edu/photography-in-india/#comment-2745, https://ngs.ics.uci.edu/photography-in-india/#comment-1342, https://ngs.ics.uci.edu/photography-in-india/#comment-2598, https://ngs.ics.uci.edu/photography-in-india/#comment-846, https://ngs.ics.uci.edu/photography-in-india/#comment-900, https://ngs.ics.uci.edu/photography-in-india/#comment-2433, https://ngs.ics.uci.edu/photography-in-india/#comment-952, https://ngs.ics.uci.edu/photography-in-india/#comment-925, https://ngs.ics.uci.edu/photography-in-india/#comments
+https://ngs.ics.uci.edu/nostalgia, https://ngs.ics.uci.edu/nostalgia/#comments, https://ngs.ics.uci.edu/nostalgia/#comment-880, https://ngs.ics.uci.edu/nostalgia/#comment-848, https://ngs.ics.uci.edu/nostalgia/#comment-859, https://ngs.ics.uci.edu/nostalgia/#comment-903, https://ngs.ics.uci.edu/nostalgia/#comment-854, https://ngs.ics.uci.edu/nostalgia/#comment-4939, https://ngs.ics.uci.edu/nostalgia/#comment-850, https://ngs.ics.uci.edu/nostalgia/#comment-853
+https://ngs.ics.uci.edu/nagpur-061227, https://ngs.ics.uci.edu/nagpur-061227/#comments, https://ngs.ics.uci.edu/nagpur-061227/#comment-860, https://ngs.ics.uci.edu/nagpur-061227/#comment-889, https://ngs.ics.uci.edu/nagpur-061227/#comment-887
+https://ngs.ics.uci.edu/in-nagpur-061226, https://ngs.ics.uci.edu/in-nagpur-061226/#comment-1446, https://ngs.ics.uci.edu/in-nagpur-061226/#comments, https://ngs.ics.uci.edu/in-nagpur-061226/#comment-1450, https://ngs.ics.uci.edu/in-nagpur-061226/#comment-841, http://ngs.ics.uci.edu/blog/?p=688
+https://ngs.ics.uci.edu/at-kumarakom-resort, https://ngs.ics.uci.edu/at-kumarakom-resort/#comment-862, https://ngs.ics.uci.edu/at-kumarakom-resort/#comments
+https://ngs.ics.uci.edu/seraja-update-061220, https://ngs.ics.uci.edu/seraja-update-061220/#respond
+https://ngs.ics.uci.edu/long-tail-always-deams-of-becoming-the-head, https://ngs.ics.uci.edu/long-tail-always-deams-of-becoming-the-head/#comment-839, https://ngs.ics.uci.edu/long-tail-always-deams-of-becoming-the-head/#comment-838, https://ngs.ics.uci.edu/long-tail-always-deams-of-becoming-the-head/#comments, https://ngs.ics.uci.edu/long-tail-always-deams-of-becoming-the-head/#comment-3500
+https://ngs.ics.uci.edu/person-of-the-year-you, https://ngs.ics.uci.edu/person-of-the-year-you/#comment-863, https://ngs.ics.uci.edu/person-of-the-year-you/#comments
+https://ngs.ics.uci.edu/updates-from-seraja-2, https://ngs.ics.uci.edu/updates-from-seraja-2/#respond
+https://ngs.ics.uci.edu/visual-search-2, https://ngs.ics.uci.edu/visual-search-2/#respond
+https://ngs.ics.uci.edu/user-generated-content-self-expression, https://ngs.ics.uci.edu/user-generated-content-self-expression/#respond
+https://ngs.ics.uci.edu/joint-response-to-youtube, https://ngs.ics.uci.edu/joint-response-to-youtube/#comment-864, https://ngs.ics.uci.edu/joint-response-to-youtube/#comments
+https://ngs.ics.uci.edu/eventweb-16-web-20-does-not-necessarily-create-a-web, https://ngs.ics.uci.edu/eventweb-16-web-20-does-not-necessarily-create-a-web/#comment-831, https://ngs.ics.uci.edu/eventweb-16-web-20-does-not-necessarily-create-a-web/#comments, https://ngs.ics.uci.edu/eventweb-16-web-20-does-not-necessarily-create-a-web/#comment-837, https://ngs.ics.uci.edu/eventweb-16-web-20-does-not-necessarily-create-a-web/#comment-834
+https://ngs.ics.uci.edu/mashups-with-maps, https://ngs.ics.uci.edu/mashups-with-maps/#respond
+https://ngs.ics.uci.edu/citizen-journalism-going-experiential, https://ngs.ics.uci.edu/citizen-journalism-going-experiential/#comment-830, https://ngs.ics.uci.edu/citizen-journalism-going-experiential/#comments
+https://ngs.ics.uci.edu/computers-in-libraries-in-developing-countries, https://ngs.ics.uci.edu/computers-in-libraries-in-developing-countries/#comment-865, https://ngs.ics.uci.edu/computers-in-libraries-in-developing-countries/#comment-809, https://ngs.ics.uci.edu/computers-in-libraries-in-developing-countries/#comments
+https://ngs.ics.uci.edu/negropontes-100-computer-for-developing-world, https://ngs.ics.uci.edu/negropontes-100-computer-for-developing-world/#comments, https://ngs.ics.uci.edu/negropontes-100-computer-for-developing-world/#comment-927
+https://ngs.ics.uci.edu/seraja-updates-2, https://ngs.ics.uci.edu/seraja-updates-2/#respond
+https://ngs.ics.uci.edu/eventweb-15-participatory-urban-sensing, https://ngs.ics.uci.edu/eventweb-15-participatory-urban-sensing/#respond
+https://ngs.ics.uci.edu/end-of-dvd, https://ngs.ics.uci.edu/end-of-dvd/#comments, https://ngs.ics.uci.edu/end-of-dvd/#comment-866, https://ngs.ics.uci.edu/end-of-dvd/#comment-814
+https://ngs.ics.uci.edu/most-indian-grads-unemployable, https://ngs.ics.uci.edu/most-indian-grads-unemployable/#respond
+https://ngs.ics.uci.edu/barry-diller-wants-to-revolutionize-news, https://ngs.ics.uci.edu/barry-diller-wants-to-revolutionize-news/#comments, https://ngs.ics.uci.edu/barry-diller-wants-to-revolutionize-news/#comment-805
+https://ngs.ics.uci.edu/interesting-approach-to-make-your-team-victorious, https://ngs.ics.uci.edu/interesting-approach-to-make-your-team-victorious/#respond
+https://ngs.ics.uci.edu/uploading-photos, https://ngs.ics.uci.edu/uploading-photos/#comments, https://ngs.ics.uci.edu/uploading-photos/#comment-867
+https://ngs.ics.uci.edu/linking-physical-with-cyber, https://ngs.ics.uci.edu/linking-physical-with-cyber/#respond
+https://ngs.ics.uci.edu/progress-in-science-india-and-china, https://ngs.ics.uci.edu/progress-in-science-india-and-china/#comment-796, https://ngs.ics.uci.edu/progress-in-science-india-and-china/#comment-800, https://ngs.ics.uci.edu/progress-in-science-india-and-china/#comment-804, https://ngs.ics.uci.edu/progress-in-science-india-and-china/#comments
+https://ngs.ics.uci.edu/eventweb-14-lifecycle-pre-event-activities, https://ngs.ics.uci.edu/eventweb-14-lifecycle-pre-event-activities/#respond
+https://ngs.ics.uci.edu/multimedia-story-telling, https://ngs.ics.uci.edu/multimedia-story-telling/#respond
+https://ngs.ics.uci.edu/seraja-update-061115, https://ngs.ics.uci.edu/seraja-update-061115/#respond
+https://ngs.ics.uci.edu/in-switzerland, https://ngs.ics.uci.edu/in-switzerland/#respond
+https://ngs.ics.uci.edu/internet-video-on-tv, https://ngs.ics.uci.edu/internet-video-on-tv/#comment-2245, https://ngs.ics.uci.edu/internet-video-on-tv/#comment-868, https://ngs.ics.uci.edu/internet-video-on-tv/#comments
+https://ngs.ics.uci.edu/web-20-hype, https://ngs.ics.uci.edu/web-20-hype/#respond
+https://ngs.ics.uci.edu/nyt-likes-like, https://ngs.ics.uci.edu/nyt-likes-like/#comment-785, http://ngs.ics.uci.edu/blog/?p=658, https://ngs.ics.uci.edu/nyt-likes-like/#comments
+http://ngs.ics.uci.edu/blog/?p=654, http://ngs.ics.uci.edu/being-too-early-is-worse-than-being-late, http://ngs.ics.uci.edu/being-too-early-is-worse-than-being-late/#comments, http://ngs.ics.uci.edu/being-too-early-is-worse-than-being-late/#comment-3292
+http://ngs.ics.uci.edu/start-ups-on-shoestring, http://ngs.ics.uci.edu/start-ups-on-shoestring/#respond
+http://ngs.ics.uci.edu/eventweb-13-crowdsourcing, http://ngs.ics.uci.edu/eventweb-13-crowdsourcing/#comment-779, http://ngs.ics.uci.edu/eventweb-13-crowdsourcing/#comments, http://ngs.ics.uci.edu/eventweb-13-crowdsourcing/#comment-780
+http://ngs.ics.uci.edu/eventweb-11-a-scenario-conferences, http://ngs.ics.uci.edu/eventweb-11-a-scenario-conferences/#respond
+http://ngs.ics.uci.edu/seraja-updates-061105, http://ngs.ics.uci.edu/seraja-updates-061105/#respond
+http://ngs.ics.uci.edu/china-trip-nov-20064, http://ngs.ics.uci.edu/china-trip-nov-20064/#respond
+http://ngs.ics.uci.edu/china-trip-nov-20063, http://ngs.ics.uci.edu/china-trip-nov-20063/#comments, http://ngs.ics.uci.edu/china-trip-nov-20063/#comment-776, http://ngs.ics.uci.edu/china-trip-nov-20063/#comment-777
+http://ngs.ics.uci.edu/china-trip-nov-2006-2, http://ngs.ics.uci.edu/china-trip-nov-2006-2/#comments, http://ngs.ics.uci.edu/china-trip-nov-2006-2/#comment-774, http://ngs.ics.uci.edu/china-trip-nov-2006-2/#comment-773
+http://ngs.ics.uci.edu/pacific-rim-multimedia-conference-day-2, http://ngs.ics.uci.edu/pacific-rim-multimedia-conference-day-2/#respond
+http://ngs.ics.uci.edu/pacific-rim-multimedia-conference-day-1, http://ngs.ics.uci.edu/pacific-rim-multimedia-conference-day-1/#respond
+http://ngs.ics.uci.edu/china-trip-nov-2006-1, http://ngs.ics.uci.edu/china-trip-nov-2006-1/#respond
+http://ngs.ics.uci.edu/china-trip-research-in-china, http://ngs.ics.uci.edu/china-trip-research-in-china/#respond
+http://ngs.ics.uci.edu/human-centered-multimedia, http://ngs.ics.uci.edu/human-centered-multimedia/#comment-2379, http://ngs.ics.uci.edu/human-centered-multimedia/#comments, http://ngs.ics.uci.edu/human-centered-multimedia/#comment-2239
+http://ngs.ics.uci.edu/acm-multimedia-2006-day-3, http://ngs.ics.uci.edu/acm-multimedia-2006-day-3/#comment-770, http://ngs.ics.uci.edu/acm-multimedia-2006-day-3/#comments, http://ngs.ics.uci.edu/acm-multimedia-2006-day-3/#comment-769
+http://ngs.ics.uci.edu/acm-multimedia-2006-day-2, http://ngs.ics.uci.edu/acm-multimedia-2006-day-2/#respond
+http://ngs.ics.uci.edu/acm-multimedia-2006, http://ngs.ics.uci.edu/acm-multimedia-2006/#respond
+http://ngs.ics.uci.edu/telepresence, http://ngs.ics.uci.edu/telepresence/#respond
+http://ngs.ics.uci.edu/eventweb-11-causal-chains, http://ngs.ics.uci.edu/eventweb-11-causal-chains/#respond
+http://ngs.ics.uci.edu/indian-internet-future-in-mobiles, http://ngs.ics.uci.edu/indian-internet-future-in-mobiles/#comments, http://ngs.ics.uci.edu/indian-internet-future-in-mobiles/#comment-1195
+http://ngs.ics.uci.edu/education-in-india, http://ngs.ics.uci.edu/education-in-india/#respond
+http://ngs.ics.uci.edu/human-centered-computing-3, http://ngs.ics.uci.edu/human-centered-computing-3/#respond
+http://ngs.ics.uci.edu/osito-the-cutest-thing, http://ngs.ics.uci.edu/osito-the-cutest-thing/#comment-764, http://ngs.ics.uci.edu/osito-the-cutest-thing/#comment-763, http://ngs.ics.uci.edu/osito-the-cutest-thing/#comments
+http://ngs.ics.uci.edu/friendster-and-youtube-or-myspace, http://ngs.ics.uci.edu/friendster-and-youtube-or-myspace/#comments, http://ngs.ics.uci.edu/friendster-and-youtube-or-myspace/#comment-775, http://ngs.ics.uci.edu/friendster-and-youtube-or-myspace/#comment-765
+http://ngs.ics.uci.edu/married-couples-outnumbered-in-usa, http://ngs.ics.uci.edu/married-couples-outnumbered-in-usa/#respond
+http://ngs.ics.uci.edu/human-centered-computing-2, http://ngs.ics.uci.edu/human-centered-computing-2/#respond
+http://ngs.ics.uci.edu/human-centered-computing-1, http://ngs.ics.uci.edu/human-centered-computing-1/#comment-761, http://ngs.ics.uci.edu/human-centered-computing-1/#comment-762, http://ngs.ics.uci.edu/human-centered-computing-1/#comments
+http://ngs.ics.uci.edu/visual-search, http://ngs.ics.uci.edu/visual-search/#respond
+http://ngs.ics.uci.edu/an-entrepreneurial-researcher, http://ngs.ics.uci.edu/an-entrepreneurial-researcher/#respond
+http://ngs.ics.uci.edu/a-really-important-video-news-ieeetv, http://ngs.ics.uci.edu/a-really-important-video-news-ieeetv/#respond
+http://ngs.ics.uci.edu/hindi-movies, http://ngs.ics.uci.edu/hindi-movies/#comments, http://ngs.ics.uci.edu/hindi-movies/#comment-882
+http://ngs.ics.uci.edu/ten-myths-for-entrepreneurs, http://ngs.ics.uci.edu/ten-myths-for-entrepreneurs/#comments, http://ngs.ics.uci.edu/ten-myths-for-entrepreneurs/#comment-3530
+http://ngs.ics.uci.edu/using-youself-in-emoticons, http://ngs.ics.uci.edu/using-youself-in-emoticons/#respond
+http://ngs.ics.uci.edu/eventweb9-causality-deterministic, http://ngs.ics.uci.edu/eventweb9-causality-deterministic/#respond
+http://ngs.ics.uci.edu/a9-scaling-back-key-features, http://ngs.ics.uci.edu/a9-scaling-back-key-features/#respond
+http://ngs.ics.uci.edu/worst-service-experience, http://ngs.ics.uci.edu/worst-service-experience/#comments, http://ngs.ics.uci.edu/worst-service-experience/#comment-754, http://ngs.ics.uci.edu/worst-service-experience/#comment-751
+http://ngs.ics.uci.edu/more-is-not-better, http://ngs.ics.uci.edu/more-is-not-better/#comment-750, http://ngs.ics.uci.edu/more-is-not-better/#comment-748, http://ngs.ics.uci.edu/more-is-not-better/#comments
+http://ngs.ics.uci.edu/towards-immersive-telepresence, http://ngs.ics.uci.edu/towards-immersive-telepresence/#respond
+http://ngs.ics.uci.edu/progress-in-digital-cameras, http://ngs.ics.uci.edu/progress-in-digital-cameras/#comment-2274, http://ngs.ics.uci.edu/progress-in-digital-cameras/#comment-3547, http://ngs.ics.uci.edu/progress-in-digital-cameras/#comments
+http://ngs.ics.uci.edu/entrepreneurism-class, http://ngs.ics.uci.edu/entrepreneurism-class/#comment-747, http://ngs.ics.uci.edu/entrepreneurism-class/#comment-743, http://ngs.ics.uci.edu/entrepreneurism-class/#comment-746, http://ngs.ics.uci.edu/entrepreneurism-class/#comments, http://ngs.ics.uci.edu/entrepreneurism-class/#comment-745
+http://ngs.ics.uci.edu/bangalore-airport, http://ngs.ics.uci.edu/bangalore-airport/#comment-757, http://ngs.ics.uci.edu/bangalore-airport/#comments, http://ngs.ics.uci.edu/bangalore-airport/#comment-740
+http://ngs.ics.uci.edu/search-on-phones, http://ngs.ics.uci.edu/search-on-phones/#respond
+http://ngs.ics.uci.edu/eventweb7-spatio-temporal-links, http://ngs.ics.uci.edu/eventweb7-spatio-temporal-links/#respond
+http://ngs.ics.uci.edu/in-bali, http://ngs.ics.uci.edu/in-bali/#respond
+http://ngs.ics.uci.edu/growing-old, http://ngs.ics.uci.edu/growing-old/#respond
+http://ngs.ics.uci.edu/macrosopes, http://ngs.ics.uci.edu/macrosopes/#respond
+http://ngs.ics.uci.edu/on-tags, http://ngs.ics.uci.edu/on-tags/#respond
+http://ngs.ics.uci.edu/google-and-images, http://ngs.ics.uci.edu/google-and-images/#respond
+http://ngs.ics.uci.edu/eventweb6-explicit-referential-links, http://ngs.ics.uci.edu/eventweb6-explicit-referential-links/#respond
+http://ngs.ics.uci.edu/vision-andor-hype-in-search, http://ngs.ics.uci.edu/vision-andor-hype-in-search/#comments, http://ngs.ics.uci.edu/vision-andor-hype-in-search/#comment-758, http://ngs.ics.uci.edu/vision-andor-hype-in-search/#comment-679, http://ngs.ics.uci.edu/vision-andor-hype-in-search/#comment-755, http://ngs.ics.uci.edu/vision-andor-hype-in-search/#comment-678, http://ngs.ics.uci.edu/vision-andor-hype-in-search/#comment-681, http://ngs.ics.uci.edu/vision-andor-hype-in-search/#comment-680, http://ngs.ics.uci.edu/blog/?p=601
+http://ngs.ics.uci.edu/events-flickr-and-upcoming, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-2192, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-1222, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-2640, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-2585, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-3765, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comments, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-1252, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-1238, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-4915, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-1188, http://ngs.ics.uci.edu/events-flickr-and-upcoming/#comment-1187
+http://ngs.ics.uci.edu/photo-software-revised-reality, http://ngs.ics.uci.edu/photo-software-revised-reality/#comments, http://ngs.ics.uci.edu/photo-software-revised-reality/#comment-1386, http://ngs.ics.uci.edu/photo-software-revised-reality/#comment-738
+http://ngs.ics.uci.edu/eventweb5-creating-a-web, http://ngs.ics.uci.edu/eventweb5-creating-a-web/#comments, http://ngs.ics.uci.edu/eventweb5-creating-a-web/#comment-3263, http://ngs.ics.uci.edu/eventweb5-creating-a-web/#comment-3266
+http://ngs.ics.uci.edu/eventweb4-experiential-data, http://ngs.ics.uci.edu/eventweb4-experiential-data/#comments, http://ngs.ics.uci.edu/eventweb4-experiential-data/#comment-3420, http://ngs.ics.uci.edu/eventweb4-experiential-data/#comment-2893, http://ngs.ics.uci.edu/eventweb4-experiential-data/#comment-3416, http://ngs.ics.uci.edu/eventweb4-experiential-data/#comment-3421
+http://ngs.ics.uci.edu/important-factors-for-india, http://ngs.ics.uci.edu/important-factors-for-india/#respond
+http://ngs.ics.uci.edu/yahoo-stocking-up-on-academics, http://ngs.ics.uci.edu/yahoo-stocking-up-on-academics/#respond
+http://ngs.ics.uci.edu/novel-uses-of-cameraphones-diet, http://ngs.ics.uci.edu/novel-uses-of-cameraphones-diet/#respond
+http://ngs.ics.uci.edu/eventweb3-defining-event, http://ngs.ics.uci.edu/eventweb3-defining-event/#comment-549, http://ngs.ics.uci.edu/eventweb3-defining-event/#comments, http://ngs.ics.uci.edu/eventweb3-defining-event/#comment-548
+http://ngs.ics.uci.edu/from-documents-to-experiences, http://ngs.ics.uci.edu/from-documents-to-experiences/#respond
+http://ngs.ics.uci.edu/media-gap, http://ngs.ics.uci.edu/media-gap/#comment-539, http://ngs.ics.uci.edu/media-gap/#comments
+http://ngs.ics.uci.edu/google-in-computer-vision, http://ngs.ics.uci.edu/google-in-computer-vision/#respond
+http://ngs.ics.uci.edu/an-interesting-problem, http://ngs.ics.uci.edu/an-interesting-problem/#respond
+http://ngs.ics.uci.edu/seraja, http://ngs.ics.uci.edu/seraja/#respond
+http://ngs.ics.uci.edu/eventweb-what-is-an-event, http://ngs.ics.uci.edu/eventweb-what-is-an-event/#comment-541, http://ngs.ics.uci.edu/eventweb-what-is-an-event/#comments
+http://ngs.ics.uci.edu/fun-can-be-stressful, http://ngs.ics.uci.edu/fun-can-be-stressful/#comment-739, http://ngs.ics.uci.edu/fun-can-be-stressful/#comments
+http://ngs.ics.uci.edu/tagging-videos, http://ngs.ics.uci.edu/tagging-videos/#comment-511, http://ngs.ics.uci.edu/tagging-videos/#comment-507, http://ngs.ics.uci.edu/tagging-videos/#comments, http://ngs.ics.uci.edu/tagging-videos/#comment-513
+http://ngs.ics.uci.edu/eventweb-towards-events, http://ngs.ics.uci.edu/eventweb-towards-events/#comments, http://ngs.ics.uci.edu/eventweb-towards-events/#comment-506, http://ngs.ics.uci.edu/eventweb-towards-events/#comment-508, http://ngs.ics.uci.edu/eventweb-towards-events/#comment-512
+http://ngs.ics.uci.edu/live-art, http://ngs.ics.uci.edu/live-art/#respond
+http://ngs.ics.uci.edu/words-visual-words, http://ngs.ics.uci.edu/words-visual-words/#comment-510, http://ngs.ics.uci.edu/words-visual-words/#comments
+http://ngs.ics.uci.edu/photo-albums-into-navigable-3-d-worlds, http://ngs.ics.uci.edu/photo-albums-into-navigable-3-d-worlds/#respond
+http://ngs.ics.uci.edu/camera-with-3d-effects, http://ngs.ics.uci.edu/camera-with-3d-effects/#comment-1119, http://ngs.ics.uci.edu/camera-with-3d-effects/#comment-961, http://ngs.ics.uci.edu/camera-with-3d-effects/#comments
+http://ngs.ics.uci.edu/text-mining-nyt, http://ngs.ics.uci.edu/text-mining-nyt/#respond
+http://ngs.ics.uci.edu/long-tail-is-not-so-big, http://ngs.ics.uci.edu/long-tail-is-not-so-big/#respond
+http://ngs.ics.uci.edu/increasing-video-apps, http://ngs.ics.uci.edu/increasing-video-apps/#respond
+http://ngs.ics.uci.edu/raghu-ramakrishnan-at-yahoo, http://ngs.ics.uci.edu/raghu-ramakrishnan-at-yahoo/#respond
+http://ngs.ics.uci.edu/consistency-vs-wow, http://ngs.ics.uci.edu/consistency-vs-wow/#respond
+http://ngs.ics.uci.edu/uci-cap-council-on-academic-personnel, http://ngs.ics.uci.edu/uci-cap-council-on-academic-personnel/#respond
+http://ngs.ics.uci.edu/digital-photo-albums, http://ngs.ics.uci.edu/digital-photo-albums/#comment-497, http://ngs.ics.uci.edu/digital-photo-albums/#comment-489, http://ngs.ics.uci.edu/blog/?p=572, http://ngs.ics.uci.edu/digital-photo-albums/#comments
+http://ngs.ics.uci.edu/words-events, http://ngs.ics.uci.edu/words-events/#respond
+http://ngs.ics.uci.edu/gesture-based-image-navigation, http://ngs.ics.uci.edu/gesture-based-image-navigation/#respond
+http://ngs.ics.uci.edu/high-resolution-photos-of-cities, http://ngs.ics.uci.edu/high-resolution-photos-of-cities/#respond
+http://ngs.ics.uci.edu/events-around-us, http://ngs.ics.uci.edu/events-around-us/#respond
+http://ngs.ics.uci.edu/words-a-farewell, http://ngs.ics.uci.edu/words-a-farewell/#respond
+http://ngs.ics.uci.edu/wsj-on-citizen-journalism, http://ngs.ics.uci.edu/wsj-on-citizen-journalism/#respond
+http://ngs.ics.uci.edu/seraja-updates-060712, http://ngs.ics.uci.edu/seraja-updates-060712/#respond
+http://ngs.ics.uci.edu/bangalore-hotels, http://ngs.ics.uci.edu/bangalore-hotels/#respond
+http://ngs.ics.uci.edu/travel-experiences, http://ngs.ics.uci.edu/travel-experiences/#comment-3112, http://ngs.ics.uci.edu/travel-experiences/#comment-2900, http://ngs.ics.uci.edu/travel-experiences/#comment-482, http://ngs.ics.uci.edu/travel-experiences/#comments, http://ngs.ics.uci.edu/travel-experiences/#comment-2746, http://ngs.ics.uci.edu/travel-experiences/#comment-2906
+http://ngs.ics.uci.edu/visiting-nagpur, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1475, http://ngs.ics.uci.edu/visiting-nagpur/#comment-499, http://ngs.ics.uci.edu/visiting-nagpur/#comment-922, http://ngs.ics.uci.edu/visiting-nagpur/#comment-505, http://ngs.ics.uci.edu/visiting-nagpur/#comment-753, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1099, http://ngs.ics.uci.edu/visiting-nagpur/#comment-960, http://ngs.ics.uci.edu/visiting-nagpur/#comment-2589, http://ngs.ics.uci.edu/visiting-nagpur/#comment-899, http://ngs.ics.uci.edu/visiting-nagpur/#comment-2748, http://ngs.ics.uci.edu/visiting-nagpur/#comment-919, http://ngs.ics.uci.edu/visiting-nagpur/#comment-3056, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1311, http://ngs.ics.uci.edu/visiting-nagpur/#comment-498, http://ngs.ics.uci.edu/visiting-nagpur/#comments, http://ngs.ics.uci.edu/visiting-nagpur/#comment-3140, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1183, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1032, http://ngs.ics.uci.edu/visiting-nagpur/#comment-495, http://ngs.ics.uci.edu/visiting-nagpur/#comment-2753, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1097, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1080, http://ngs.ics.uci.edu/visiting-nagpur/#comment-752, http://ngs.ics.uci.edu/visiting-nagpur/#comment-939, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1231, http://ngs.ics.uci.edu/visiting-nagpur/#comment-926, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1233, http://ngs.ics.uci.edu/visiting-nagpur/#comment-509, http://ngs.ics.uci.edu/visiting-nagpur/#comment-4506, http://ngs.ics.uci.edu/visiting-nagpur/#comment-3055, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1449, http://ngs.ics.uci.edu/visiting-nagpur/#comment-1409, http://ngs.ics.uci.edu/visiting-nagpur/#comment-921, http://ngs.ics.uci.edu/blog/?p=562
+http://ngs.ics.uci.edu/words-space-and-time, http://ngs.ics.uci.edu/words-space-and-time/#respond
+http://ngs.ics.uci.edu/modern-travel-requirements, http://ngs.ics.uci.edu/modern-travel-requirements/#comments, http://ngs.ics.uci.edu/modern-travel-requirements/#comment-1228
+http://ngs.ics.uci.edu/immersive-world-cup-football, http://ngs.ics.uci.edu/immersive-world-cup-football/#respond
+http://ngs.ics.uci.edu/search-infrastructure, http://ngs.ics.uci.edu/search-infrastructure/#comment-473, http://ngs.ics.uci.edu/search-infrastructure/#comments
+http://ngs.ics.uci.edu/july-4th, http://ngs.ics.uci.edu/july-4th/#respond
+http://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words, http://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words/#comment-468, http://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words/#comments, http://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words/#comment-465, http://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words/#comment-470, http://ngs.ics.uci.edu/words-apicture-is-worth-a-thousand-words/#comment-469
+http://ngs.ics.uci.edu/words-atoms-of-semantics, http://ngs.ics.uci.edu/words-atoms-of-semantics/#respond
+http://ngs.ics.uci.edu/seraja-updates, http://ngs.ics.uci.edu/seraja-updates/#comment-467, http://ngs.ics.uci.edu/seraja-updates/#comment-466, http://ngs.ics.uci.edu/seraja-updates/#comments
+http://ngs.ics.uci.edu/web-video-and-cable, http://ngs.ics.uci.edu/web-video-and-cable/#comment-464, http://ngs.ics.uci.edu/web-video-and-cable/#comment-463, http://ngs.ics.uci.edu/web-video-and-cable/#comments
+http://ngs.ics.uci.edu/phone-as-a-guide-in-real-world, http://ngs.ics.uci.edu/phone-as-a-guide-in-real-world/#comment-977, http://ngs.ics.uci.edu/phone-as-a-guide-in-real-world/#comment-845, http://ngs.ics.uci.edu/phone-as-a-guide-in-real-world/#comments, http://ngs.ics.uci.edu/phone-as-a-guide-in-real-world/#comment-2587, http://ngs.ics.uci.edu/phone-as-a-guide-in-real-world/#comment-2567, http://ngs.ics.uci.edu/phone-as-a-guide-in-real-world/#comment-462
+http://ngs.ics.uci.edu/vace2-close-out-workshop, http://ngs.ics.uci.edu/vace2-close-out-workshop/#respond
+http://ngs.ics.uci.edu/giving-back-to-society-gates-and-buffett, http://ngs.ics.uci.edu/giving-back-to-society-gates-and-buffett/#comment-1092, http://ngs.ics.uci.edu/giving-back-to-society-gates-and-buffett/#comments
+http://ngs.ics.uci.edu/greece-vacation, http://ngs.ics.uci.edu/greece-vacation/#comment-1053, http://ngs.ics.uci.edu/greece-vacation/#comments, http://ngs.ics.uci.edu/greece-vacation/#comment-2918
+http://ngs.ics.uci.edu/words-the-bow, http://ngs.ics.uci.edu/words-the-bow/#respond
+http://ngs.ics.uci.edu/words-the-world-of-words, http://ngs.ics.uci.edu/words-the-world-of-words/#comment-458, http://ngs.ics.uci.edu/words-the-world-of-words/#comments, http://ngs.ics.uci.edu/words-the-world-of-words/#comment-459, http://ngs.ics.uci.edu/words-the-world-of-words/#comment-461
+http://ngs.ics.uci.edu/in-greece, http://ngs.ics.uci.edu/in-greece/#comments, http://ngs.ics.uci.edu/in-greece/#comment-460
+http://ngs.ics.uci.edu/capturing-experiences, http://ngs.ics.uci.edu/capturing-experiences/#respond
+http://ngs.ics.uci.edu/representing-events, http://ngs.ics.uci.edu/representing-events/#respond
+http://ngs.ics.uci.edu/digital-photo-album, http://ngs.ics.uci.edu/digital-photo-album/#comment-457, http://ngs.ics.uci.edu/digital-photo-album/#comments, http://ngs.ics.uci.edu/blog/?p=543
+http://ngs.ics.uci.edu/vloggercon, http://ngs.ics.uci.edu/vloggercon/#respond
+http://ngs.ics.uci.edu/new-channels, http://ngs.ics.uci.edu/new-channels/#respond
+http://ngs.ics.uci.edu/personal-media-management-pmm, http://ngs.ics.uci.edu/personal-media-management-pmm/#respond
+http://ngs.ics.uci.edu/video-as-primary-media, http://ngs.ics.uci.edu/video-as-primary-media/#respond
+http://ngs.ics.uci.edu/slow, http://ngs.ics.uci.edu/slow/#respond
+http://ngs.ics.uci.edu/techies-are-coming-back, http://ngs.ics.uci.edu/techies-are-coming-back/#respond
+http://ngs.ics.uci.edu/visual-search-challenge-and-status, http://ngs.ics.uci.edu/visual-search-challenge-and-status/#respond
+http://ngs.ics.uci.edu/visiting-ann-arbor, http://ngs.ics.uci.edu/visiting-ann-arbor/#respond
+http://ngs.ics.uci.edu/100-laptop-from-olpc, http://ngs.ics.uci.edu/100-laptop-from-olpc/#comments, http://ngs.ics.uci.edu/100-laptop-from-olpc/#comment-450
+http://ngs.ics.uci.edu/hectic-days, http://ngs.ics.uci.edu/hectic-days/#respond
+http://ngs.ics.uci.edu/second-anniversary-of-freedom-from-cancer, http://ngs.ics.uci.edu/second-anniversary-of-freedom-from-cancer/#comments, http://ngs.ics.uci.edu/second-anniversary-of-freedom-from-cancer/#comment-447, http://ngs.ics.uci.edu/second-anniversary-of-freedom-from-cancer/#comment-451, http://ngs.ics.uci.edu/second-anniversary-of-freedom-from-cancer/#comment-448, http://ngs.ics.uci.edu/second-anniversary-of-freedom-from-cancer/#comment-767
+http://ngs.ics.uci.edu/clickable-video-ads, http://ngs.ics.uci.edu/clickable-video-ads/#comments, http://ngs.ics.uci.edu/clickable-video-ads/#comment-1072, http://ngs.ics.uci.edu/clickable-video-ads/#comment-930, http://ngs.ics.uci.edu/clickable-video-ads/#comment-1148
+http://ngs.ics.uci.edu/micrsoft-in-enterprise-search, http://ngs.ics.uci.edu/micrsoft-in-enterprise-search/#respond
+http://ngs.ics.uci.edu/convergence-in-search-and-databases, http://ngs.ics.uci.edu/convergence-in-search-and-databases/#comments, http://ngs.ics.uci.edu/convergence-in-search-and-databases/#comment-453
+http://ngs.ics.uci.edu/human-and-search, http://ngs.ics.uci.edu/human-and-search/#comment-444, http://ngs.ics.uci.edu/human-and-search/#comments, http://ngs.ics.uci.edu/human-and-search/#comment-440
+http://ngs.ics.uci.edu/senseweb, http://ngs.ics.uci.edu/senseweb/#respond
+http://ngs.ics.uci.edu/real-time-maps, http://ngs.ics.uci.edu/real-time-maps/#respond
+http://ngs.ics.uci.edu/future-of-news, http://ngs.ics.uci.edu/future-of-news/#comment-436, http://ngs.ics.uci.edu/future-of-news/#comment-437, http://ngs.ics.uci.edu/future-of-news/#comments, http://ngs.ics.uci.edu/future-of-news/#comment-439
+http://ngs.ics.uci.edu/latent-web, http://ngs.ics.uci.edu/latent-web/#respond
+http://ngs.ics.uci.edu/innertube-a-new-cbs-online-channel, http://ngs.ics.uci.edu/innertube-a-new-cbs-online-channel/#comment-1163, http://ngs.ics.uci.edu/innertube-a-new-cbs-online-channel/#comments
+http://ngs.ics.uci.edu/changing-academic-climate, http://ngs.ics.uci.edu/changing-academic-climate/#comment-435, http://ngs.ics.uci.edu/changing-academic-climate/#comment-1162, http://ngs.ics.uci.edu/changing-academic-climate/#comments
+http://ngs.ics.uci.edu/3-d-mash-ups, http://ngs.ics.uci.edu/3-d-mash-ups/#comments, http://ngs.ics.uci.edu/3-d-mash-ups/#comment-1161
+http://ngs.ics.uci.edu/better-search-through-people, http://ngs.ics.uci.edu/better-search-through-people/#comment-1160, http://ngs.ics.uci.edu/better-search-through-people/#comments
+http://ngs.ics.uci.edu/multimedia-search-in-france, http://ngs.ics.uci.edu/multimedia-search-in-france/#comments, http://ngs.ics.uci.edu/multimedia-search-in-france/#comment-1159
+http://ngs.ics.uci.edu/worship-tech, http://ngs.ics.uci.edu/worship-tech/#comment-3001, http://ngs.ics.uci.edu/worship-tech/#comment-1223, http://ngs.ics.uci.edu/worship-tech/#comment-1126, http://ngs.ics.uci.edu/worship-tech/#comment-1526, http://ngs.ics.uci.edu/worship-tech/#comment-3004, http://ngs.ics.uci.edu/worship-tech/#comments
+http://ngs.ics.uci.edu/responsive-to-customser, http://ngs.ics.uci.edu/responsive-to-customser/#comment-794, http://ngs.ics.uci.edu/responsive-to-customser/#comments
+http://ngs.ics.uci.edu/fingerprints-of-a-camera, http://ngs.ics.uci.edu/fingerprints-of-a-camera/#respond
+http://ngs.ics.uci.edu/eventweb-is-born, http://ngs.ics.uci.edu/eventweb-is-born/#comments, http://ngs.ics.uci.edu/eventweb-is-born/#comment-429
+http://ngs.ics.uci.edu/ever-widening-web, http://ngs.ics.uci.edu/ever-widening-web/#comment-425, http://ngs.ics.uci.edu/ever-widening-web/#comments
+http://ngs.ics.uci.edu/google-calendar, http://ngs.ics.uci.edu/google-calendar/#respond
+http://ngs.ics.uci.edu/seraja-progress, http://ngs.ics.uci.edu/seraja-progress/#respond
+http://ngs.ics.uci.edu/best-jobs-well-i-am-in-one, http://ngs.ics.uci.edu/best-jobs-well-i-am-in-one/#respond
+http://ngs.ics.uci.edu/the-web-you-trust, http://ngs.ics.uci.edu/the-web-you-trust/#comment-1324, http://ngs.ics.uci.edu/the-web-you-trust/#comments
+http://ngs.ics.uci.edu/user-video-on-microsoft, http://ngs.ics.uci.edu/user-video-on-microsoft/#respond
+http://ngs.ics.uci.edu/google-search, http://ngs.ics.uci.edu/google-search/#respond
+http://ngs.ics.uci.edu/video-revolution-continues, http://ngs.ics.uci.edu/video-revolution-continues/#comment-3178, http://ngs.ics.uci.edu/video-revolution-continues/#comment-434, http://ngs.ics.uci.edu/video-revolution-continues/#comment-3248, http://ngs.ics.uci.edu/video-revolution-continues/#comments
+http://ngs.ics.uci.edu/world-wide-tv-network, http://ngs.ics.uci.edu/world-wide-tv-network/#respond
+http://ngs.ics.uci.edu/social-search-2, http://ngs.ics.uci.edu/social-search-2/#respond
+http://ngs.ics.uci.edu/escience, http://ngs.ics.uci.edu/escience/#respond
+http://ngs.ics.uci.edu/popular-videos, http://ngs.ics.uci.edu/popular-videos/#respond
+http://ngs.ics.uci.edu/data-in-motion, http://ngs.ics.uci.edu/data-in-motion/#respond
+http://ngs.ics.uci.edu/video-search-presenting-results, http://ngs.ics.uci.edu/video-search-presenting-results/#respond
+http://ngs.ics.uci.edu/german-memories, http://ngs.ics.uci.edu/german-memories/#comments, http://ngs.ics.uci.edu/german-memories/#comment-836
+http://ngs.ics.uci.edu/wifi-at-mumbai-airport, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-881, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-1146, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-840, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-2568, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-449, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-3021, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-2223, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-842, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comment-452, http://ngs.ics.uci.edu/wifi-at-mumbai-airport/#comments
+http://ngs.ics.uci.edu/seraja-product-development, http://ngs.ics.uci.edu/seraja-product-development/#comment-1455, http://ngs.ics.uci.edu/seraja-product-development/#comments, http://ngs.ics.uci.edu/seraja-product-development/#comment-1391
+http://ngs.ics.uci.edu/freezen-in-time-or, http://ngs.ics.uci.edu/freezen-in-time-or/#respond
+http://ngs.ics.uci.edu/too-much-travel, http://ngs.ics.uci.edu/too-much-travel/#respond
+http://ngs.ics.uci.edu/seraja-9-goes-live, http://ngs.ics.uci.edu/seraja-9-goes-live/#respond
+http://ngs.ics.uci.edu/binford-in-bangalore, http://ngs.ics.uci.edu/blog/?p=491, http://ngs.ics.uci.edu/binford-in-bangalore/#respond
+http://ngs.ics.uci.edu/blog/?p=413, http://ngs.ics.uci.edu/a-memorable-evening-in-bangalore/#comment-422, http://ngs.ics.uci.edu/a-memorable-evening-in-bangalore, http://ngs.ics.uci.edu/a-memorable-evening-in-bangalore/#comment-3073, http://ngs.ics.uci.edu/a-memorable-evening-in-bangalore/#comment-797, http://ngs.ics.uci.edu/a-memorable-evening-in-bangalore/#comment-799, http://ngs.ics.uci.edu/a-memorable-evening-in-bangalore/#comment-421, http://ngs.ics.uci.edu/a-memorable-evening-in-bangalore/#comments
+http://ngs.ics.uci.edu/bangalore-and-hyderabad, http://ngs.ics.uci.edu/bangalore-and-hyderabad/#comments, http://ngs.ics.uci.edu/bangalore-and-hyderabad/#comment-371
+http://ngs.ics.uci.edu/411, http://ngs.ics.uci.edu/411/#respond
+http://ngs.ics.uci.edu/more-video-coming, http://ngs.ics.uci.edu/more-video-coming/#respond
+http://ngs.ics.uci.edu/from-gopher-to-google-for-eventweb, http://ngs.ics.uci.edu/from-gopher-to-google-for-eventweb/#respond
+http://ngs.ics.uci.edu/sourav-ganguli-issue, http://ngs.ics.uci.edu/sourav-ganguli-issue/#comment-369, http://ngs.ics.uci.edu/sourav-ganguli-issue/#comment-390, http://ngs.ics.uci.edu/sourav-ganguli-issue/#comments, http://ngs.ics.uci.edu/sourav-ganguli-issue/#comment-365
+http://ngs.ics.uci.edu/presentation-of-flickr-story-on-newscom, http://ngs.ics.uci.edu/presentation-of-flickr-story-on-newscom/#comment-364, http://ngs.ics.uci.edu/presentation-of-flickr-story-on-newscom/#comments
+http://ngs.ics.uci.edu/government-in-india, http://ngs.ics.uci.edu/government-in-india/#respond
+http://ngs.ics.uci.edu/live-video-on-cnn-glimpse-into-the-future, http://ngs.ics.uci.edu/live-video-on-cnn-glimpse-into-the-future/#respond
+http://ngs.ics.uci.edu/microsoft-vs-netscape-and-microsoft-vs-google, http://ngs.ics.uci.edu/microsoft-vs-netscape-and-microsoft-vs-google/#comment-361, http://ngs.ics.uci.edu/microsoft-vs-netscape-and-microsoft-vs-google/#comments
+http://ngs.ics.uci.edu/academia-and-visual-maps, http://ngs.ics.uci.edu/academia-and-visual-maps/#respond
+http://ngs.ics.uci.edu/social-search, http://ngs.ics.uci.edu/social-search/#respond
+http://ngs.ics.uci.edu/young-innovators-in-ics-180280, http://ngs.ics.uci.edu/young-innovators-in-ics-180280/#respond
+http://ngs.ics.uci.edu/future-of-visual-maps, http://ngs.ics.uci.edu/future-of-visual-maps/#respond
+http://ngs.ics.uci.edu/maps-become-more-visual, http://ngs.ics.uci.edu/maps-become-more-visual/#comment-362, http://ngs.ics.uci.edu/maps-become-more-visual/#comments, http://ngs.ics.uci.edu/maps-become-more-visual/#comment-360
+http://ngs.ics.uci.edu/time-is-of-the-essence, http://ngs.ics.uci.edu/time-is-of-the-essence/#respond
+http://ngs.ics.uci.edu/when-20, http://ngs.ics.uci.edu/when-20/#comment-357, http://ngs.ics.uci.edu/when-20/#comments, http://ngs.ics.uci.edu/when-20/#comment-356, http://ngs.ics.uci.edu/when-20/#comment-355, http://ngs.ics.uci.edu/when-20/#comment-354
+http://ngs.ics.uci.edu/controls-at-wikipedia, http://ngs.ics.uci.edu/controls-at-wikipedia/#respond
+http://ngs.ics.uci.edu/systems-in-india, http://ngs.ics.uci.edu/systems-in-india/#comments, http://ngs.ics.uci.edu/systems-in-india/#comment-376
+http://ngs.ics.uci.edu/nagpur, http://ngs.ics.uci.edu/nagpur/#comment-1036, http://ngs.ics.uci.edu/nagpur/#comment-1168, http://ngs.ics.uci.edu/nagpur/#comment-380, http://ngs.ics.uci.edu/nagpur/#comment-1411, http://ngs.ics.uci.edu/nagpur/#comment-3639, http://ngs.ics.uci.edu/nagpur/#comment-1313, http://ngs.ics.uci.edu/nagpur/#comment-1034, http://ngs.ics.uci.edu/nagpur/#comment-766, http://ngs.ics.uci.edu/nagpur/#comment-4123, http://ngs.ics.uci.edu/nagpur/#comment-1178, http://ngs.ics.uci.edu/nagpur/#comment-1235, http://ngs.ics.uci.edu/nagpur/#comment-3586, http://ngs.ics.uci.edu/nagpur/#comment-1047, http://ngs.ics.uci.edu/nagpur/#comment-1061, http://ngs.ics.uci.edu/nagpur/#comment-989, http://ngs.ics.uci.edu/nagpur/#comment-3101, http://ngs.ics.uci.edu/nagpur/#comment-1136, http://ngs.ics.uci.edu/nagpur/#comment-2259, http://ngs.ics.uci.edu/nagpur/#comment-1037, http://ngs.ics.uci.edu/nagpur/#comment-2619, http://ngs.ics.uci.edu/nagpur/#comment-378, http://ngs.ics.uci.edu/nagpur/#comment-1467, http://ngs.ics.uci.edu/nagpur/#comment-1101, http://ngs.ics.uci.edu/nagpur/#comment-3580, http://ngs.ics.uci.edu/nagpur/#comment-1013, http://ngs.ics.uci.edu/nagpur/#comment-3630, http://ngs.ics.uci.edu/nagpur/#comment-1074, http://ngs.ics.uci.edu/nagpur/#comment-1086, http://ngs.ics.uci.edu/nagpur/#comment-2540, http://ngs.ics.uci.edu/nagpur/#comment-990, http://ngs.ics.uci.edu/nagpur/#comment-1407, http://ngs.ics.uci.edu/nagpur/#comment-1082, http://ngs.ics.uci.edu/nagpur/#comments, http://ngs.ics.uci.edu/nagpur/#comment-778, http://ngs.ics.uci.edu/nagpur/#comment-3045, http://ngs.ics.uci.edu/nagpur/#comment-2257, http://ngs.ics.uci.edu/nagpur/#comment-1052, http://ngs.ics.uci.edu/nagpur/#comment-1041, http://ngs.ics.uci.edu/nagpur/#comment-4973, http://ngs.ics.uci.edu/nagpur/#comment-1095, http://ngs.ics.uci.edu/nagpur/#comment-1031, http://ngs.ics.uci.edu/nagpur/#comment-1491, http://ngs.ics.uci.edu/nagpur/#comment-2770, http://ngs.ics.uci.edu/nagpur/#comment-1501
+http://ngs.ics.uci.edu/product-company-in-nagpur, http://ngs.ics.uci.edu/product-company-in-nagpur/#respond
+http://ngs.ics.uci.edu/reflections, http://ngs.ics.uci.edu/reflections/#respond
+http://ngs.ics.uci.edu/bill-gates-on-speech-recognition, http://ngs.ics.uci.edu/bill-gates-on-speech-recognition/#comments, http://ngs.ics.uci.edu/bill-gates-on-speech-recognition/#comment-1382
+http://ngs.ics.uci.edu/folk-computing-sub-100-computer, http://ngs.ics.uci.edu/folk-computing-sub-100-computer/#respond
+http://ngs.ics.uci.edu/india-a-mystery-land, http://ngs.ics.uci.edu/india-a-mystery-land/#comment-383, http://ngs.ics.uci.edu/india-a-mystery-land/#comments, http://ngs.ics.uci.edu/india-a-mystery-land/#comment-384
+http://ngs.ics.uci.edu/face-processing-technology, http://ngs.ics.uci.edu/face-processing-technology/#respond
+http://ngs.ics.uci.edu/gutenbergs-revenge, http://ngs.ics.uci.edu/gutenbergs-revenge/#respond
+http://ngs.ics.uci.edu/godcasting, http://ngs.ics.uci.edu/godcasting/#respond
+http://ngs.ics.uci.edu/recognition-at-microsoft, http://ngs.ics.uci.edu/recognition-at-microsoft/#respond
+http://ngs.ics.uci.edu/5-million-channel-tv-is-here, http://ngs.ics.uci.edu/5-million-channel-tv-is-here/#respond
+http://ngs.ics.uci.edu/eventweb-is-here-now, http://ngs.ics.uci.edu/eventweb-is-here-now/#comment-386, http://ngs.ics.uci.edu/eventweb-is-here-now/#comment-388, http://ngs.ics.uci.edu/eventweb-is-here-now/#comments
+http://ngs.ics.uci.edu/singapore-and-multimedia, http://ngs.ics.uci.edu/singapore-and-multimedia/#respond
+http://ngs.ics.uci.edu/google-and-video, http://ngs.ics.uci.edu/google-and-video/#respond
+http://ngs.ics.uci.edu/back-home, http://ngs.ics.uci.edu/back-home/#respond
+http://ngs.ics.uci.edu/searching-maps, http://ngs.ics.uci.edu/searching-maps/#comments
+http://ngs.ics.uci.edu/gym-and-cabletvtelco, http://ngs.ics.uci.edu/gym-and-cabletvtelco/#respond
+http://ngs.ics.uci.edu/image-search-retrievr, http://ngs.ics.uci.edu/image-search-retrievr/#comment-392, http://ngs.ics.uci.edu/image-search-retrievr/#comments
+http://ngs.ics.uci.edu/eventweb-is-getting-ready, http://ngs.ics.uci.edu/eventweb-is-getting-ready/#comment-393, http://ngs.ics.uci.edu/eventweb-is-getting-ready/#comment-407, http://ngs.ics.uci.edu/eventweb-is-getting-ready/#comments
+http://ngs.ics.uci.edu/globe-divide, http://ngs.ics.uci.edu/globe-divide/#comments, http://ngs.ics.uci.edu/globe-divide/#comment-405, http://ngs.ics.uci.edu/globe-divide/#comment-394
+http://ngs.ics.uci.edu/internet-growth-in-china, http://ngs.ics.uci.edu/internet-growth-in-china/#comments, http://ngs.ics.uci.edu/internet-growth-in-china/#comment-406, http://ngs.ics.uci.edu/internet-growth-in-china/#comment-395
+http://ngs.ics.uci.edu/where-is-this, http://ngs.ics.uci.edu/where-is-this/#respond
+http://ngs.ics.uci.edu/437, http://ngs.ics.uci.edu/437/#comments, http://ngs.ics.uci.edu/437/#comment-4165
+http://ngs.ics.uci.edu/india-today, http://ngs.ics.uci.edu/india-today/#respond
+http://ngs.ics.uci.edu/picture-search-at-ask, http://ngs.ics.uci.edu/picture-search-at-ask/#respond
+http://ngs.ics.uci.edu/mcluhan-is-out, http://ngs.ics.uci.edu/mcluhan-is-out/#respond
+http://ngs.ics.uci.edu/academic-reviewing, http://ngs.ics.uci.edu/academic-reviewing/#comments, http://ngs.ics.uci.edu/academic-reviewing/#comment-396, http://ngs.ics.uci.edu/academic-reviewing/#comment-397
+http://ngs.ics.uci.edu/new-search-companies, http://ngs.ics.uci.edu/new-search-companies/#respond
+http://ngs.ics.uci.edu/the-ubiquitous-web, http://ngs.ics.uci.edu/the-ubiquitous-web/#respond
+http://ngs.ics.uci.edu/india-is-getting-expensive, http://ngs.ics.uci.edu/india-is-getting-expensive/#respond
+http://ngs.ics.uci.edu/cancer-survivor, http://ngs.ics.uci.edu/cancer-survivor/#comment-403, http://ngs.ics.uci.edu/cancer-survivor/#comment-402, http://ngs.ics.uci.edu/cancer-survivor/#comment-493, http://ngs.ics.uci.edu/cancer-survivor/#comments
+http://ngs.ics.uci.edu/research-in-search-really, http://ngs.ics.uci.edu/research-in-search-really/#comments, http://ngs.ics.uci.edu/research-in-search-really/#comment-399, http://ngs.ics.uci.edu/research-in-search-really/#comment-400, http://ngs.ics.uci.edu/research-in-search-really/#comment-404
+http://ngs.ics.uci.edu/professor-wins-academy-award, http://ngs.ics.uci.edu/professor-wins-academy-award/#respond
+http://ngs.ics.uci.edu/movies-by-and-for-phones, http://ngs.ics.uci.edu/movies-by-and-for-phones/#respond
+http://ngs.ics.uci.edu/family, http://ngs.ics.uci.edu/family/#respond
+http://ngs.ics.uci.edu/progress-in-speech-recognition, http://ngs.ics.uci.edu/progress-in-speech-recognition/#comment-412, http://ngs.ics.uci.edu/progress-in-speech-recognition/#comment-413, http://ngs.ics.uci.edu/progress-in-speech-recognition/#comments
+http://ngs.ics.uci.edu/video-analysis-and-content-extraction-vace, http://ngs.ics.uci.edu/video-analysis-and-content-extraction-vace/#comment-1367, http://ngs.ics.uci.edu/video-analysis-and-content-extraction-vace/#comments
+http://ngs.ics.uci.edu/riya-computer-vision-in-search, http://ngs.ics.uci.edu/riya-computer-vision-in-search/#respond
+http://ngs.ics.uci.edu/need-for-theory-and-models-of-events, http://ngs.ics.uci.edu/need-for-theory-and-models-of-events/#respond
+http://ngs.ics.uci.edu/458, http://ngs.ics.uci.edu/458/#respond
+http://ngs.ics.uci.edu/fair-weather-patriotism, http://ngs.ics.uci.edu/fair-weather-patriotism/#comment-409, http://ngs.ics.uci.edu/fair-weather-patriotism/#comment-408, http://ngs.ics.uci.edu/fair-weather-patriotism/#comments
+http://ngs.ics.uci.edu/460, http://ngs.ics.uci.edu/460/#respond
+http://ngs.ics.uci.edu/test-driving-seraja-the-eventweb, http://ngs.ics.uci.edu/test-driving-seraja-the-eventweb/#respond
+http://ngs.ics.uci.edu/kosmix-one-more-from-stanford, http://ngs.ics.uci.edu/kosmix-one-more-from-stanford/#respond
+http://ngs.ics.uci.edu/timeline-segmentation-holistic-perspective, http://ngs.ics.uci.edu/timeline-segmentation-holistic-perspective/#respond
+http://ngs.ics.uci.edu/invented-in-india, http://ngs.ics.uci.edu/invented-in-india/#respond
+http://ngs.ics.uci.edu/a-new-folk-art-self-photographs, http://ngs.ics.uci.edu/a-new-folk-art-self-photographs/#respond
+http://ngs.ics.uci.edu/memories-uday-sengupta, http://ngs.ics.uci.edu/memories-uday-sengupta/#comment-2188, http://ngs.ics.uci.edu/memories-uday-sengupta/#comment-3493, http://ngs.ics.uci.edu/memories-uday-sengupta/#comment-1504, http://ngs.ics.uci.edu/memories-uday-sengupta/#comment-455, http://ngs.ics.uci.edu/memories-uday-sengupta/#comments, http://ngs.ics.uci.edu/memories-uday-sengupta/#comment-456
+http://ngs.ics.uci.edu/till-divorce-do-us-apart, http://ngs.ics.uci.edu/till-divorce-do-us-apart/#respond
+http://ngs.ics.uci.edu/online-video, http://ngs.ics.uci.edu/online-video/#respond
+http://ngs.ics.uci.edu/war-agains-cancer, http://ngs.ics.uci.edu/war-agains-cancer/#respond
+http://ngs.ics.uci.edu/proposals-and-proposals, http://ngs.ics.uci.edu/proposals-and-proposals/#respond
+http://ngs.ics.uci.edu/data-mining, http://ngs.ics.uci.edu/data-mining/#comments, http://ngs.ics.uci.edu/data-mining/#comment-1050
+http://ngs.ics.uci.edu/great-opportunity-for-video-researchers, http://ngs.ics.uci.edu/great-opportunity-for-video-researchers/#comment-1068, http://ngs.ics.uci.edu/great-opportunity-for-video-researchers/#comments, http://ngs.ics.uci.edu/great-opportunity-for-video-researchers/#comment-1069
+http://ngs.ics.uci.edu/future-surveillance, http://ngs.ics.uci.edu/future-surveillance/#comments, http://ngs.ics.uci.edu/future-surveillance/#comment-2621, http://ngs.ics.uci.edu/future-surveillance/#comment-2618, http://ngs.ics.uci.edu/future-surveillance/#comment-3747, http://ngs.ics.uci.edu/future-surveillance/#comment-1064, http://ngs.ics.uci.edu/future-surveillance/#comment-3642
+http://ngs.ics.uci.edu/newscorp-going-mobile, http://ngs.ics.uci.edu/newscorp-going-mobile/#respond
+http://ngs.ics.uci.edu/new-askcom, http://ngs.ics.uci.edu/new-askcom/#comment-2275, http://ngs.ics.uci.edu/new-askcom/#comment-414, http://ngs.ics.uci.edu/new-askcom/#comments
+http://ngs.ics.uci.edu/creators-synthesizers-and-consumers, http://ngs.ics.uci.edu/creators-synthesizers-and-consumers/#respond
+http://ngs.ics.uci.edu/review-of-video-search-on-the-web, http://ngs.ics.uci.edu/review-of-video-search-on-the-web/#respond
+http://ngs.ics.uci.edu/microsoft-search-lab, http://ngs.ics.uci.edu/microsoft-search-lab/#respond
+http://ngs.ics.uci.edu/blinkx-introduces-implicit-search, http://ngs.ics.uci.edu/blinkx-introduces-implicit-search/#comment-416, http://ngs.ics.uci.edu/blinkx-introduces-implicit-search/#comments, http://ngs.ics.uci.edu/blinkx-introduces-implicit-search/#comment-417
+http://ngs.ics.uci.edu/computing3o, http://ngs.ics.uci.edu/computing3o/#comment-415, http://ngs.ics.uci.edu/computing3o/#comments
+http://ngs.ics.uci.edu/cisco-and-video-surveillance, http://ngs.ics.uci.edu/cisco-and-video-surveillance/#comment-540, http://ngs.ics.uci.edu/cisco-and-video-surveillance/#comments
+http://ngs.ics.uci.edu/iptv-and-eventweb, http://ngs.ics.uci.edu/iptv-and-eventweb/#respond
+http://ngs.ics.uci.edu/483, http://ngs.ics.uci.edu/483/#comments, http://ngs.ics.uci.edu/483/#comment-2814
+http://ngs.ics.uci.edu/novatiums-sub-100-netpc, http://ngs.ics.uci.edu/novatiums-sub-100-netpc/#comment-1274, http://ngs.ics.uci.edu/novatiums-sub-100-netpc/#comments, http://ngs.ics.uci.edu/novatiums-sub-100-netpc/#comment-420, http://ngs.ics.uci.edu/novatiums-sub-100-netpc/#comment-419
+http://ngs.ics.uci.edu/new-media-business, http://ngs.ics.uci.edu/new-media-business/#respond
+http://ngs.ics.uci.edu/world-wide-event-web, http://ngs.ics.uci.edu/world-wide-event-web/#comment-3260, http://ngs.ics.uci.edu/world-wide-event-web/#comment-2438, http://ngs.ics.uci.edu/world-wide-event-web/#comments, http://ngs.ics.uci.edu/world-wide-event-web/#comment-3789, http://ngs.ics.uci.edu/world-wide-event-web/#comment-3691, http://ngs.ics.uci.edu/world-wide-event-web/#comment-3781, http://ngs.ics.uci.edu/world-wide-event-web/#comment-5028, http://ngs.ics.uci.edu/world-wide-event-web/#comment-3091, http://ngs.ics.uci.edu/world-wide-event-web/#comment-3775, http://ngs.ics.uci.edu/world-wide-event-web/#comment-2752
+http://ngs.ics.uci.edu/iptv, http://ngs.ics.uci.edu/iptv/#comment-1258, http://ngs.ics.uci.edu/iptv/#comments
+http://ngs.ics.uci.edu/iptv-and-eventweb-2, http://ngs.ics.uci.edu/iptv-and-eventweb-2/#respond
+http://ngs.ics.uci.edu/watershed-event-for-web, http://ngs.ics.uci.edu/watershed-event-for-web/#respond
+http://ngs.ics.uci.edu/improving-speech-recognition-for-video-indexing, http://ngs.ics.uci.edu/improving-speech-recognition-for-video-indexing/#respond
+https://ngs.ics.uci.edu/web-30, https://ngs.ics.uci.edu/web-30/#comments
+https://ngs.ics.uci.edu/events-in-singapore, https://ngs.ics.uci.edu/events-in-singapore/#respond
+https://ngs.ics.uci.edu/iphone-is-a-step-towards-folk-computing, https://ngs.ics.uci.edu/iphone-is-a-step-towards-folk-computing/#comment-856, https://ngs.ics.uci.edu/iphone-is-a-step-towards-folk-computing/#comment-874, https://ngs.ics.uci.edu/iphone-is-a-step-towards-folk-computing/#comment-873, https://ngs.ics.uci.edu/iphone-is-a-step-towards-folk-computing/#comments
+https://ngs.ics.uci.edu/anytown-online, https://ngs.ics.uci.edu/anytown-online/#respond
+https://ngs.ics.uci.edu/mental-toughness, https://ngs.ics.uci.edu/mental-toughness/#comments, https://ngs.ics.uci.edu/mental-toughness/#comment-877
+https://ngs.ics.uci.edu/indians-can-not-work-together, https://ngs.ics.uci.edu/indians-can-not-work-together/#comment-878, https://ngs.ics.uci.edu/indians-can-not-work-together/#comments
+https://ngs.ics.uci.edu/future-set-top-boxes, https://ngs.ics.uci.edu/future-set-top-boxes/#comment-879, https://ngs.ics.uci.edu/future-set-top-boxes/#comments
+https://ngs.ics.uci.edu/live-sex-on-demand-in-hotels, https://ngs.ics.uci.edu/live-sex-on-demand-in-hotels/#respond
+https://ngs.ics.uci.edu/obvious-vs-complex, https://ngs.ics.uci.edu/obvious-vs-complex/#respond
+https://ngs.ics.uci.edu/internet-advertising, https://ngs.ics.uci.edu/internet-advertising/#respond
+https://ngs.ics.uci.edu/iit-students, https://ngs.ics.uci.edu/iit-students/#comment-928, https://ngs.ics.uci.edu/iit-students/#comments
+https://ngs.ics.uci.edu/history-preservation-in-digital-age, https://ngs.ics.uci.edu/history-preservation-in-digital-age/#respond
+https://ngs.ics.uci.edu/changing-marriages-bedrooms, https://ngs.ics.uci.edu/changing-marriages-bedrooms/#comment-947, https://ngs.ics.uci.edu/changing-marriages-bedrooms/#comments
+https://ngs.ics.uci.edu/wikia, https://ngs.ics.uci.edu/wikia/#respond
+https://ngs.ics.uci.edu/future-search, https://ngs.ics.uci.edu/future-search/#comment-983, https://ngs.ics.uci.edu/future-search/#comments
+https://ngs.ics.uci.edu/special-effects-in-indian-tv, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-1108, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-918, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-920, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-916, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-1239, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-1240, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-917, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-1030, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-2560, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-1419, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comment-3135, https://ngs.ics.uci.edu/special-effects-in-indian-tv/#comments
+https://ngs.ics.uci.edu/eventweb-18-bliki-continued, https://ngs.ics.uci.edu/eventweb-18-bliki-continued/#comments, https://ngs.ics.uci.edu/eventweb-18-bliki-continued/#comment-959
+https://ngs.ics.uci.edu/eventweb-17-bliki, https://ngs.ics.uci.edu/eventweb-17-bliki/#respond
+https://ngs.ics.uci.edu/head-and-long-tail, https://ngs.ics.uci.edu/head-and-long-tail/#respond
+https://ngs.ics.uci.edu/unemployable-mba-graduates, https://ngs.ics.uci.edu/unemployable-mba-graduates/#comment-913, https://ngs.ics.uci.edu/unemployable-mba-graduates/#comments
+https://ngs.ics.uci.edu/the-next-youtube, https://ngs.ics.uci.edu/the-next-youtube/#comments, https://ngs.ics.uci.edu/the-next-youtube/#comment-1250, https://ngs.ics.uci.edu/the-next-youtube/#comment-2418, https://ngs.ics.uci.edu/the-next-youtube/#comment-935, https://ngs.ics.uci.edu/the-next-youtube/#comment-1232
+https://ngs.ics.uci.edu/piracy-protection-using-content-video-recognition, https://ngs.ics.uci.edu/piracy-protection-using-content-video-recognition/#comment-902, https://ngs.ics.uci.edu/piracy-protection-using-content-video-recognition/#comments
+https://ngs.ics.uci.edu/new-media-and-face-to-face-interactions, https://ngs.ics.uci.edu/new-media-and-face-to-face-interactions/#respond
+https://ngs.ics.uci.edu/progress-in-immersive-sports, https://ngs.ics.uci.edu/progress-in-immersive-sports/#respond
+https://ngs.ics.uci.edu/revenue-sharing-comes-to-video, https://ngs.ics.uci.edu/revenue-sharing-comes-to-video/#respond
+https://ngs.ics.uci.edu/now-video-in-radio, https://ngs.ics.uci.edu/now-video-in-radio/#respond
+https://ngs.ics.uci.edu/pervasive-computing, https://ngs.ics.uci.edu/pervasive-computing/#respond
+https://ngs.ics.uci.edu/entrepreneurship-and-processes, https://ngs.ics.uci.edu/entrepreneurship-and-processes/#respond
+https://ngs.ics.uci.edu/india-in-cricket-world-cup, https://ngs.ics.uci.edu/india-in-cricket-world-cup/#comment-3237, https://ngs.ics.uci.edu/india-in-cricket-world-cup/#comment-950, https://ngs.ics.uci.edu/india-in-cricket-world-cup/#comment-2894, https://ngs.ics.uci.edu/india-in-cricket-world-cup/#comments, https://ngs.ics.uci.edu/india-in-cricket-world-cup/#comment-962
+https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood, https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood/#comments, https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood/#comment-949, https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood/#comment-4513, https://ngs.ics.uci.edu/vidhu-vinod-chopra-and-bollywood/#comment-951
+https://ngs.ics.uci.edu/long-tail-using-recognition-by-crowds, https://ngs.ics.uci.edu/long-tail-using-recognition-by-crowds/#respond
+https://ngs.ics.uci.edu/towards-natural-interfaces, https://ngs.ics.uci.edu/towards-natural-interfaces/#comment-2237, https://ngs.ics.uci.edu/towards-natural-interfaces/#comment-956, https://ngs.ics.uci.edu/towards-natural-interfaces/#comments, https://ngs.ics.uci.edu/towards-natural-interfaces/#comment-1346, https://ngs.ics.uci.edu/towards-natural-interfaces/#comment-1209
+https://ngs.ics.uci.edu/phone-as-modern-swiss-army-knife, https://ngs.ics.uci.edu/phone-as-modern-swiss-army-knife/#comment-964, https://ngs.ics.uci.edu/phone-as-modern-swiss-army-knife/#comments
+https://ngs.ics.uci.edu/on-hiring-an-australian-to-become-an-indian, https://ngs.ics.uci.edu/on-hiring-an-australian-to-become-an-indian/#respond
+https://ngs.ics.uci.edu/is-this-bitterness-or-real-belief, https://ngs.ics.uci.edu/is-this-bitterness-or-real-belief/#respond
+https://ngs.ics.uci.edu/ignorance-of-crowds, https://ngs.ics.uci.edu/ignorance-of-crowds/#comment-966, https://ngs.ics.uci.edu/ignorance-of-crowds/#comment-965, https://ngs.ics.uci.edu/ignorance-of-crowds/#comment-963, https://ngs.ics.uci.edu/ignorance-of-crowds/#comments
+https://ngs.ics.uci.edu/3-d-fax, https://ngs.ics.uci.edu/3-d-fax/#respond
+https://ngs.ics.uci.edu/east-west-and-object-event, https://ngs.ics.uci.edu/east-west-and-object-event/#comments
+https://ngs.ics.uci.edu/cyber-spirituality, https://ngs.ics.uci.edu/cyber-spirituality/#comment-979, https://ngs.ics.uci.edu/cyber-spirituality/#comment-2328, https://ngs.ics.uci.edu/cyber-spirituality/#comments, https://ngs.ics.uci.edu/cyber-spirituality/#comment-971
+https://ngs.ics.uci.edu/one-day-in-london/#respond, https://ngs.ics.uci.edu/one-day-in-london
+https://ngs.ics.uci.edu/moving-from-san-diego-to-irvine/#respond, https://ngs.ics.uci.edu/moving-from-san-diego-to-irvine
+https://ngs.ics.uci.edu/sitting-among-packed-boxes/#comments, https://ngs.ics.uci.edu/sitting-among-packed-boxes
+https://ngs.ics.uci.edu/getting-back-to-routine/#respond, https://ngs.ics.uci.edu/getting-back-to-routine
+https://ngs.ics.uci.edu/new-house-filled-with-boxes, https://ngs.ics.uci.edu/new-house-filled-with-boxes/#comment-278, https://ngs.ics.uci.edu/new-house-filled-with-boxes/#comments
+https://ngs.ics.uci.edu/privacy-preserving-cameras, https://ngs.ics.uci.edu/privacy-preserving-cameras/#respond
+https://ngs.ics.uci.edu/close-to-normal-at-home, https://ngs.ics.uci.edu/close-to-normal-at-home/#respond
+https://ngs.ics.uci.edu/what-is-the-your-business, https://ngs.ics.uci.edu/what-is-the-your-business/#respond
+https://ngs.ics.uci.edu/immersive-search, https://ngs.ics.uci.edu/immersive-search/#respond
+https://ngs.ics.uci.edu/teaching-entrepreneurism, https://ngs.ics.uci.edu/teaching-entrepreneurism/#respond
+https://ngs.ics.uci.edu/death-to-folders, https://ngs.ics.uci.edu/death-to-folders/#comment-389, https://ngs.ics.uci.edu/death-to-folders/#comments, https://ngs.ics.uci.edu/death-to-folders/#comment-387, https://ngs.ics.uci.edu/death-to-folders/#comment-1123
+https://ngs.ics.uci.edu/is-this-true-about-we-indians, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comments, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-1122, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-741, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-1236, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-294, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-293, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-410, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-2886, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-1077, https://ngs.ics.uci.edu/is-this-true-about-we-indians/#comment-896
+https://ngs.ics.uci.edu/outsourcing-to-estonia, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-304, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comments, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-2879, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-1357, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-2870, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-3169, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-2835, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-2897, https://ngs.ics.uci.edu/outsourcing-to-estonia/#comment-1296
+https://ngs.ics.uci.edu/blinkx-has-better-interface, https://ngs.ics.uci.edu/blinkx-has-better-interface/#respond
+https://ngs.ics.uci.edu/photojournalism, https://ngs.ics.uci.edu/photojournalism/#respond
+https://ngs.ics.uci.edu/yahoo-acquires-upcomingorg, https://ngs.ics.uci.edu/yahoo-acquires-upcomingorg/#comment-3541, https://ngs.ics.uci.edu/yahoo-acquires-upcomingorg/#comments
+https://ngs.ics.uci.edu/verbs-and-nouns-on-the-web, https://ngs.ics.uci.edu/verbs-and-nouns-on-the-web/#respond
+https://ngs.ics.uci.edu/ubiquitous-city, https://ngs.ics.uci.edu/ubiquitous-city/#respond
+https://ngs.ics.uci.edu/grand-challenge-for-ai, https://ngs.ics.uci.edu/grand-challenge-for-ai/#respond
+https://ngs.ics.uci.edu/all-the-worlds-information, https://ngs.ics.uci.edu/all-the-worlds-information/#respond
+https://ngs.ics.uci.edu/eventfulcom, https://ngs.ics.uci.edu/eventfulcom/#respond
+https://ngs.ics.uci.edu/ipod-for-print, https://ngs.ics.uci.edu/ipod-for-print/#respond
+https://ngs.ics.uci.edu/google-will-touch-everything, https://ngs.ics.uci.edu/google-will-touch-everything/#respond
+https://ngs.ics.uci.edu/data-data-everywhere-and-more-data-coming, https://ngs.ics.uci.edu/data-data-everywhere-and-more-data-coming/#respond
+https://ngs.ics.uci.edu/metadata-for-images-video-and-other-data, https://ngs.ics.uci.edu/metadata-for-images-video-and-other-data/#respond
+https://ngs.ics.uci.edu/inspirational-thoughts, https://ngs.ics.uci.edu/inspirational-thoughts/#respond
+https://ngs.ics.uci.edu/experiencing-sports-using-technology, https://ngs.ics.uci.edu/experiencing-sports-using-technology/#respond
+https://ngs.ics.uci.edu/thin-mobile-clients, https://ngs.ics.uci.edu/thin-mobile-clients/#respond
+https://ngs.ics.uci.edu/search-steering-wheel, https://ngs.ics.uci.edu/search-steering-wheel/#respond
+https://ngs.ics.uci.edu/research-areas, https://ngs.ics.uci.edu/research-areas/#respond
+https://ngs.ics.uci.edu/research-areacomputer-vision, https://ngs.ics.uci.edu/research-areacomputer-vision/#comment-3997, https://ngs.ics.uci.edu/research-areacomputer-vision/#comment-3583, https://ngs.ics.uci.edu/research-areacomputer-vision/#comment-4022, https://ngs.ics.uci.edu/research-areacomputer-vision/#comments, https://ngs.ics.uci.edu/research-areacomputer-vision/#comment-3143
+https://ngs.ics.uci.edu/multimedia-information-systems, https://ngs.ics.uci.edu/multimedia-information-systems/#respond
+https://ngs.ics.uci.edu/experiential-environments, https://ngs.ics.uci.edu/experiential-environments/#respond
+https://ngs.ics.uci.edu/professional-affiliations, https://ngs.ics.uci.edu/professional-affiliations/#respond
+https://ngs.ics.uci.edu/entrepreneurial-activities, https://ngs.ics.uci.edu/entrepreneurial-activities/#comment-2983, https://ngs.ics.uci.edu/entrepreneurial-activities/#comments
+https://ngs.ics.uci.edu/publications, https://ngs.ics.uci.edu/publications/#respond
+https://ngs.ics.uci.edu/recent-papers, https://ngs.ics.uci.edu/recent-papers/#respond
+https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia, https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia/#comments, https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia/#comment-5108, https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia/#comment-5927, https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia/#comment-4038, https://ngs.ics.uci.edu/media-vision-column-in-ieee-multimedia/#comment-5037
+https://ngs.ics.uci.edu/list-of-publications, https://ngs.ics.uci.edu/list-of-publications/#respond
+https://ngs.ics.uci.edu/white-papers, https://ngs.ics.uci.edu/white-papers/#respond
+https://ngs.ics.uci.edu/presentations, https://ngs.ics.uci.edu/presentations/#respond
+https://ngs.ics.uci.edu/yahoos-mission-future-media, https://ngs.ics.uci.edu/yahoos-mission-future-media/#respond
+https://ngs.ics.uci.edu/time-machine, https://ngs.ics.uci.edu/time-machine/#comment-756, https://ngs.ics.uci.edu/time-machine/#comments, https://ngs.ics.uci.edu/time-machine/#comment-2490
+https://ngs.ics.uci.edu/destinator, https://ngs.ics.uci.edu/destinator/#respond
+https://ngs.ics.uci.edu/cruising/#respond, https://ngs.ics.uci.edu/cruising
+https://ngs.ics.uci.edu/bulgarian-experience, https://ngs.ics.uci.edu/bulgarian-experience/#comment-279, https://ngs.ics.uci.edu/bulgarian-experience/#comments
+https://ngs.ics.uci.edu/prague-is-pretty-impressive, https://ngs.ics.uci.edu/prague-is-pretty-impressive/#respond
+https://ngs.ics.uci.edu/computer-vision, https://ngs.ics.uci.edu/computer-vision/#comments, https://ngs.ics.uci.edu/computer-vision/#comment-352, https://ngs.ics.uci.edu/computer-vision/#comment-363
+https://ngs.ics.uci.edu/new-research-directions, https://ngs.ics.uci.edu/new-research-directions/#comment-213, https://ngs.ics.uci.edu/new-research-directions/#comment-1392, https://ngs.ics.uci.edu/new-research-directions/#comments
+https://ngs.ics.uci.edu/first-morning-of-where-20, https://ngs.ics.uci.edu/first-morning-of-where-20/#respond
+https://ngs.ics.uci.edu/where-20-first-afternoon, https://ngs.ics.uci.edu/where-20-first-afternoon/#respond
+https://ngs.ics.uci.edu/events-and-paradigms, https://ngs.ics.uci.edu/events-and-paradigms/#comments
+https://ngs.ics.uci.edu/cruise-first-day, https://ngs.ics.uci.edu/cruise-first-day/#comments, https://ngs.ics.uci.edu/cruise-first-day/#comment-211
+https://ngs.ics.uci.edu/landmarks-in-life/#respond, https://ngs.ics.uci.edu/landmarks-in-life
+https://ngs.ics.uci.edu/welcome-to-my-blog-at-uci/#respond, https://ngs.ics.uci.edu/welcome-to-my-blog-at-uci
+https://ngs.ics.uci.edu/1st-anniversary/#comments, https://ngs.ics.uci.edu/1st-anniversary
+https://ngs.ics.uci.edu/memories-from-ann-arbor-mi/#respond, https://ngs.ics.uci.edu/memories-from-ann-arbor-mi
+https://ngs.ics.uci.edu/honorary-professorship/#comments, https://ngs.ics.uci.edu/honorary-professorship
+https://ngs.ics.uci.edu/long-and-short-trip-ending, https://ngs.ics.uci.edu/long-and-short-trip-ending/#respond
+https://ngs.ics.uci.edu/dave-lehman, https://ngs.ics.uci.edu/dave-lehman/#respond
+https://ngs.ics.uci.edu/real-time-search-4-driving-using-only-the-rear-view-mirror, https://ngs.ics.uci.edu/real-time-search-4-driving-using-only-the-rear-view-mirror/#comments, https://ngs.ics.uci.edu/real-time-search-4-driving-using-only-the-rear-view-mirror/#comment-2832
+https://ngs.ics.uci.edu/real-time-search-3-twitter, https://ngs.ics.uci.edu/real-time-search-3-twitter/#comment-2855, https://ngs.ics.uci.edu/real-time-search-3-twitter/#comment-2829, https://ngs.ics.uci.edu/real-time-search-3-twitter/#comments, https://ngs.ics.uci.edu/real-time-search-3-twitter/#comment-2824
+https://ngs.ics.uci.edu/real-time-search-2, https://ngs.ics.uci.edu/real-time-search-2/#respond
+https://ngs.ics.uci.edu/personal-butler-on-iphone-siri, https://ngs.ics.uci.edu/personal-butler-on-iphone-siri/#comments, https://ngs.ics.uci.edu/personal-butler-on-iphone-siri/#comment-2817
+https://ngs.ics.uci.edu/prospective-of-multimedia-search, https://ngs.ics.uci.edu/prospective-of-multimedia-search/#comment-3109, https://ngs.ics.uci.edu/prospective-of-multimedia-search/#comments
+https://ngs.ics.uci.edu/finding-is-better-than-searching, https://ngs.ics.uci.edu/finding-is-better-than-searching/#respond
+https://ngs.ics.uci.edu/reverse-search-is-just-search, https://ngs.ics.uci.edu/reverse-search-is-just-search/#respond
+https://ngs.ics.uci.edu/real-time-search, https://ngs.ics.uci.edu/real-time-search/#comment-3068, https://ngs.ics.uci.edu/real-time-search/#comment-3451, https://ngs.ics.uci.edu/real-time-search/#comments, https://ngs.ics.uci.edu/real-time-search/#comment-2798
+https://ngs.ics.uci.edu/smell-comes-to-operas, https://ngs.ics.uci.edu/smell-comes-to-operas/#comment-2802, https://ngs.ics.uci.edu/smell-comes-to-operas/#comment-2794, https://ngs.ics.uci.edu/smell-comes-to-operas/#comment-2796, https://ngs.ics.uci.edu/smell-comes-to-operas/#comment-2804, https://ngs.ics.uci.edu/smell-comes-to-operas/#comments
+https://ngs.ics.uci.edu/visual-computing-institute, https://ngs.ics.uci.edu/visual-computing-institute/#respond
+https://ngs.ics.uci.edu/life-and-memories, https://ngs.ics.uci.edu/life-and-memories/#respond
+https://ngs.ics.uci.edu/aggregating-user-generated-video, https://ngs.ics.uci.edu/aggregating-user-generated-video/#comment-2775, https://ngs.ics.uci.edu/aggregating-user-generated-video/#comments, https://ngs.ics.uci.edu/aggregating-user-generated-video/#comment-2776
+https://ngs.ics.uci.edu/in-london, https://ngs.ics.uci.edu/in-london/#comment-3161, https://ngs.ics.uci.edu/in-london/#comment-3245, https://ngs.ics.uci.edu/in-london/#comments, https://ngs.ics.uci.edu/in-london/#comment-2773, https://ngs.ics.uci.edu/in-london/#comment-2782, https://ngs.ics.uci.edu/in-london/#comment-2777, https://ngs.ics.uci.edu/in-london/#comment-2851, https://ngs.ics.uci.edu/in-london/#comment-2786
+https://ngs.ics.uci.edu/similarity-search-introduced-by-google, https://ngs.ics.uci.edu/similarity-search-introduced-by-google/#comment-2757, https://ngs.ics.uci.edu/similarity-search-introduced-by-google/#comment-2756, https://ngs.ics.uci.edu/similarity-search-introduced-by-google/#comment-2761, https://ngs.ics.uci.edu/similarity-search-introduced-by-google/#comments, https://ngs.ics.uci.edu/similarity-search-introduced-by-google/#comment-2769, https://ngs.ics.uci.edu/similarity-search-introduced-by-google/#comment-2771
+https://ngs.ics.uci.edu/connection-among-events, https://ngs.ics.uci.edu/connection-among-events/#comment-2785, https://ngs.ics.uci.edu/connection-among-events/#comments, https://ngs.ics.uci.edu/connection-among-events/#comment-3265
+https://ngs.ics.uci.edu/progress-in-mkrishi-project, https://ngs.ics.uci.edu/progress-in-mkrishi-project/#comment-2750, https://ngs.ics.uci.edu/progress-in-mkrishi-project/#comments
+https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-communication-2, https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-communication-2/#comment-2747, https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-communication-2/#comments, https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-communication-2/#comment-2759
+https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-commpunication-1, https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-commpunication-1/#comment-2765, https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-commpunication-1/#comment-2749, https://ngs.ics.uci.edu/a-perspective-on-multimedia-computing-and-commpunication-1/#comments
+https://ngs.ics.uci.edu/excellence-in-singapore-but, https://ngs.ics.uci.edu/excellence-in-singapore-but/#comments, https://ngs.ics.uci.edu/excellence-in-singapore-but/#comment-2738
+https://ngs.ics.uci.edu/talking-in-color, https://ngs.ics.uci.edu/talking-in-color/#respond
+https://ngs.ics.uci.edu/smarter-planet-by-ibm, https://ngs.ics.uci.edu/smarter-planet-by-ibm/#comment-2733, https://ngs.ics.uci.edu/smarter-planet-by-ibm/#comment-2734, https://ngs.ics.uci.edu/smarter-planet-by-ibm/#comments
+https://ngs.ics.uci.edu/planetary-skin, https://ngs.ics.uci.edu/planetary-skin/#respond
+https://ngs.ics.uci.edu/ideological-search, https://ngs.ics.uci.edu/ideological-search/#respond
+https://ngs.ics.uci.edu/complete-sensual-immersion-holodeck-reality, https://ngs.ics.uci.edu/complete-sensual-immersion-holodeck-reality/#respond
+https://ngs.ics.uci.edu/formalism-and-research, https://ngs.ics.uci.edu/formalism-and-research/#respond
+https://ngs.ics.uci.edu/3d-tv-a-new-version, https://ngs.ics.uci.edu/3d-tv-a-new-version/#comment-2729, https://ngs.ics.uci.edu/3d-tv-a-new-version/#comment-2724, https://ngs.ics.uci.edu/3d-tv-a-new-version/#comments
+https://ngs.ics.uci.edu/semantics-comes-to-google-search, https://ngs.ics.uci.edu/semantics-comes-to-google-search/#comments, https://ngs.ics.uci.edu/semantics-comes-to-google-search/#comment-2721, https://ngs.ics.uci.edu/semantics-comes-to-google-search/#comment-2755, https://ngs.ics.uci.edu/semantics-comes-to-google-search/#comment-2725
+https://ngs.ics.uci.edu/multimedia-text-book, https://ngs.ics.uci.edu/multimedia-text-book/#comment-2715, https://ngs.ics.uci.edu/multimedia-text-book/#comments
+https://ngs.ics.uci.edu/mm-grand-challenges, https://ngs.ics.uci.edu/mm-grand-challenges/#comment-2712, https://ngs.ics.uci.edu/mm-grand-challenges/#comments, https://ngs.ics.uci.edu/mm-grand-challenges/#comment-2714
+https://ngs.ics.uci.edu/faceweb, https://ngs.ics.uci.edu/faceweb/#comments, https://ngs.ics.uci.edu/faceweb/#comment-3078, https://ngs.ics.uci.edu/faceweb/#comment-2778
+https://ngs.ics.uci.edu/search-inside, https://ngs.ics.uci.edu/search-inside/#comment-2705, https://ngs.ics.uci.edu/search-inside/#comments, https://ngs.ics.uci.edu/search-inside/#comment-2707
+https://ngs.ics.uci.edu/british-grand-challenges, https://ngs.ics.uci.edu/british-grand-challenges/#comment-2703, https://ngs.ics.uci.edu/british-grand-challenges/#comments, https://ngs.ics.uci.edu/british-grand-challenges/#comment-2708, https://ngs.ics.uci.edu/british-grand-challenges/#comment-2701
+https://ngs.ics.uci.edu/cyber-persona, https://ngs.ics.uci.edu/cyber-persona/#comment-2699, https://ngs.ics.uci.edu/cyber-persona/#comment-2693, https://ngs.ics.uci.edu/cyber-persona/#comments, https://ngs.ics.uci.edu/cyber-persona/#comment-2790, https://ngs.ics.uci.edu/cyber-persona/#comment-2700, https://ngs.ics.uci.edu/cyber-persona/#comment-2692, https://ngs.ics.uci.edu/cyber-persona/#comment-2695, https://ngs.ics.uci.edu/cyber-persona/#comment-2689
+https://ngs.ics.uci.edu/real-virtuality, https://ngs.ics.uci.edu/real-virtuality/#respond
+https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis, https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis/#comment-2682, https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis/#comment-2694, https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis/#comments, https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis/#comment-2789, https://ngs.ics.uci.edu/a-japanese-view-on-the-japneses-crisis/#comment-2779
+https://ngs.ics.uci.edu/slumdog, https://ngs.ics.uci.edu/slumdog/#comment-2697, https://ngs.ics.uci.edu/slumdog/#comment-2678, https://ngs.ics.uci.edu/slumdog/#comments, https://ngs.ics.uci.edu/slumdog/#comment-2675, https://ngs.ics.uci.edu/slumdog/#comment-2676, https://ngs.ics.uci.edu/slumdog/#comment-2680, https://ngs.ics.uci.edu/slumdog/#comment-2743, https://ngs.ics.uci.edu/slumdog/#comment-2685
+https://ngs.ics.uci.edu/1077, https://ngs.ics.uci.edu/1077/#comments
+https://ngs.ics.uci.edu/to-do-or-to-have-that-is-the-question, https://ngs.ics.uci.edu/to-do-or-to-have-that-is-the-question/#comment-2668, https://ngs.ics.uci.edu/to-do-or-to-have-that-is-the-question/#comments
+https://ngs.ics.uci.edu/five-year-check-up, https://ngs.ics.uci.edu/five-year-check-up/#comment-2644, https://ngs.ics.uci.edu/five-year-check-up/#comments
+https://ngs.ics.uci.edu/mmgc-multimedia-grand-challenge, https://ngs.ics.uci.edu/mmgc-multimedia-grand-challenge/#comment-4121, https://ngs.ics.uci.edu/mmgc-multimedia-grand-challenge/#comment-2650, https://ngs.ics.uci.edu/mmgc-multimedia-grand-challenge/#comment-2652, https://ngs.ics.uci.edu/mmgc-multimedia-grand-challenge/#comments, https://ngs.ics.uci.edu/mmgc-multimedia-grand-challenge/#comment-2737
+https://ngs.ics.uci.edu/protectionism-in-difficult-time, https://ngs.ics.uci.edu/protectionism-in-difficult-time/#comments, https://ngs.ics.uci.edu/protectionism-in-difficult-time/#comment-2670
+https://ngs.ics.uci.edu/google-maps-and-latitude, https://ngs.ics.uci.edu/google-maps-and-latitude/#comment-2665, https://ngs.ics.uci.edu/google-maps-and-latitude/#comments, https://ngs.ics.uci.edu/google-maps-and-latitude/#comment-2880
+https://ngs.ics.uci.edu/a-great-opportunity-mobile-phones-in-rural-india, https://ngs.ics.uci.edu/a-great-opportunity-mobile-phones-in-rural-india/#comment-3088, https://ngs.ics.uci.edu/a-great-opportunity-mobile-phones-in-rural-india/#comment-2635, https://ngs.ics.uci.edu/a-great-opportunity-mobile-phones-in-rural-india/#comments
+https://ngs.ics.uci.edu/all-those-lifelogs-and-mobile-phones, https://ngs.ics.uci.edu/all-those-lifelogs-and-mobile-phones/#respond
+https://ngs.ics.uci.edu/uncertainty-in-databases, https://ngs.ics.uci.edu/uncertainty-in-databases/#comment-2632, https://ngs.ics.uci.edu/uncertainty-in-databases/#comments
+https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher, https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher/#comment-2636, https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher/#comment-2633, https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher/#comment-2637, https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher/#comment-2648, https://ngs.ics.uci.edu/getting-funding-for-startups-getting-tougher/#comments
+https://ngs.ics.uci.edu/grand-challenge-problems-at-acm-multimedia-2009, https://ngs.ics.uci.edu/grand-challenge-problems-at-acm-multimedia-2009/#comments, https://ngs.ics.uci.edu/grand-challenge-problems-at-acm-multimedia-2009/#comment-2629, https://ngs.ics.uci.edu/grand-challenge-problems-at-acm-multimedia-2009/#comment-2627
+https://ngs.ics.uci.edu/explore-ocean-floor-using-google-maps, https://ngs.ics.uci.edu/explore-ocean-floor-using-google-maps/#comment-2646, https://ngs.ics.uci.edu/explore-ocean-floor-using-google-maps/#comments
+https://ngs.ics.uci.edu/the-white-tiger, https://ngs.ics.uci.edu/the-white-tiger/#comments, https://ngs.ics.uci.edu/the-white-tiger/#comment-2691
+https://ngs.ics.uci.edu/unplanned-expansion-of-iits, https://ngs.ics.uci.edu/unplanned-expansion-of-iits/#respond
+https://ngs.ics.uci.edu/new-ilife-and-face-recognition, https://ngs.ics.uci.edu/new-ilife-and-face-recognition/#comment-2626, https://ngs.ics.uci.edu/new-ilife-and-face-recognition/#comments
+https://ngs.ics.uci.edu/obamas-popularity, https://ngs.ics.uci.edu/obamas-popularity/#comment-2903, https://ngs.ics.uci.edu/obamas-popularity/#comments, https://ngs.ics.uci.edu/obamas-popularity/#comment-2620
+https://ngs.ics.uci.edu/research-at-fuji-xerox-lab-fxpal, https://ngs.ics.uci.edu/research-at-fuji-xerox-lab-fxpal/#comments, https://ngs.ics.uci.edu/research-at-fuji-xerox-lab-fxpal/#comment-2610
+https://ngs.ics.uci.edu/kingdom-of-context, https://ngs.ics.uci.edu/kingdom-of-context/#comment-2601, https://ngs.ics.uci.edu/kingdom-of-context/#comment-2608, https://ngs.ics.uci.edu/kingdom-of-context/#comment-2617, https://ngs.ics.uci.edu/kingdom-of-context/#comments, https://ngs.ics.uci.edu/kingdom-of-context/#comment-2612
+https://ngs.ics.uci.edu/obama-era-of-responsible-optimism, https://ngs.ics.uci.edu/obama-era-of-responsible-optimism/#comment-2605, https://ngs.ics.uci.edu/obama-era-of-responsible-optimism/#comment-2609, https://ngs.ics.uci.edu/obama-era-of-responsible-optimism/#comment-2599, https://ngs.ics.uci.edu/obama-era-of-responsible-optimism/#comment-2606, https://ngs.ics.uci.edu/obama-era-of-responsible-optimism/#comment-2603, https://ngs.ics.uci.edu/obama-era-of-responsible-optimism/#comments
+https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video, https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video/#comment-2604, https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video/#comment-2600, https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video/#comment-2607, https://ngs.ics.uci.edu/text-or-video-no-it-should-be-text-and-video/#comments
+https://ngs.ics.uci.edu/structured-and-unstructured-data-3-competence-and-performance, https://ngs.ics.uci.edu/structured-and-unstructured-data-3-competence-and-performance/#respond
+https://ngs.ics.uci.edu/barack-obama-one-of-the-most-impressive-man, https://ngs.ics.uci.edu/barack-obama-one-of-the-most-impressive-man/#comment-2614, https://ngs.ics.uci.edu/barack-obama-one-of-the-most-impressive-man/#comment-2597, https://ngs.ics.uci.edu/barack-obama-one-of-the-most-impressive-man/#comments
+https://ngs.ics.uci.edu/where-sweatshops-are-a-dream, https://ngs.ics.uci.edu/where-sweatshops-are-a-dream/#comment-2828, https://ngs.ics.uci.edu/where-sweatshops-are-a-dream/#comments, https://ngs.ics.uci.edu/where-sweatshops-are-a-dream/#comment-2596
+https://ngs.ics.uci.edu/structured-and-unstructured-data-2, https://ngs.ics.uci.edu/structured-and-unstructured-data-2/#respond
+https://ngs.ics.uci.edu/structured-and-unstructured-data-1, https://ngs.ics.uci.edu/structured-and-unstructured-data-1/#comment-2592, https://ngs.ics.uci.edu/structured-and-unstructured-data-1/#comment-5932, https://ngs.ics.uci.edu/structured-and-unstructured-data-1/#comment-2593, https://ngs.ics.uci.edu/structured-and-unstructured-data-1/#comments
+https://ngs.ics.uci.edu/apple-becoming-more-multimedia, https://ngs.ics.uci.edu/apple-becoming-more-multimedia/#comments, https://ngs.ics.uci.edu/apple-becoming-more-multimedia/#comment-2594
+https://ngs.ics.uci.edu/no-text-book-on-search-systems, https://ngs.ics.uci.edu/no-text-book-on-search-systems/#respond
+https://ngs.ics.uci.edu/entrepreneurship-education, https://ngs.ics.uci.edu/entrepreneurship-education/#respond
+https://ngs.ics.uci.edu/india-and-china, https://ngs.ics.uci.edu/india-and-china/#comments, https://ngs.ics.uci.edu/india-and-china/#comment-2588
+https://ngs.ics.uci.edu/sharing-your-photos-fotonaut, https://ngs.ics.uci.edu/sharing-your-photos-fotonaut/#respond
+https://ngs.ics.uci.edu/the-state-of-venture-capital, https://ngs.ics.uci.edu/the-state-of-venture-capital/#respond
+https://ngs.ics.uci.edu/digital-medical-records, https://ngs.ics.uci.edu/digital-medical-records/#respond
+https://ngs.ics.uci.edu/sharing-your-photos-orsiso, https://ngs.ics.uci.edu/sharing-your-photos-orsiso/#respond
+https://ngs.ics.uci.edu/sharing-your-photos-animoto, https://ngs.ics.uci.edu/sharing-your-photos-animoto/#respond
+https://ngs.ics.uci.edu/usa-has-become-general-motors, https://ngs.ics.uci.edu/usa-has-become-general-motors/#respond
+https://ngs.ics.uci.edu/next-generation-search-course, https://ngs.ics.uci.edu/next-generation-search-course/#comment-2576, https://ngs.ics.uci.edu/next-generation-search-course/#comments
+https://ngs.ics.uci.edu/diversity-and-india, https://ngs.ics.uci.edu/diversity-and-india/#respond
+https://ngs.ics.uci.edu/cricket-in-india, https://ngs.ics.uci.edu/cricket-in-india/#comment-3158, https://ngs.ics.uci.edu/cricket-in-india/#comments
+https://ngs.ics.uci.edu/planning-time-or-events, https://ngs.ics.uci.edu/planning-time-or-events/#respond
+https://ngs.ics.uci.edu/intriguing-observation-about-singapore, https://ngs.ics.uci.edu/intriguing-observation-about-singapore/#comments, https://ngs.ics.uci.edu/intriguing-observation-about-singapore/#comment-2566, https://ngs.ics.uci.edu/intriguing-observation-about-singapore/#comment-2558
+https://ngs.ics.uci.edu/siggraph-asia, https://ngs.ics.uci.edu/siggraph-asia/#comments
+https://ngs.ics.uci.edu/video-phones-finally, https://ngs.ics.uci.edu/video-phones-finally/#respond
+https://ngs.ics.uci.edu/china-and-india, https://ngs.ics.uci.edu/china-and-india/#comments, https://ngs.ics.uci.edu/china-and-india/#comment-2544
+https://ngs.ics.uci.edu/beijing-trip, https://ngs.ics.uci.edu/beijing-trip/#comment-2543, https://ngs.ics.uci.edu/beijing-trip/#comments
+https://ngs.ics.uci.edu/mkrishi, https://ngs.ics.uci.edu/mkrishi/#comments, https://ngs.ics.uci.edu/mkrishi/#comment-2535
+https://ngs.ics.uci.edu/go-to-mumbai, https://ngs.ics.uci.edu/go-to-mumbai/#respond
+https://ngs.ics.uci.edu/terrorism-in-india, https://ngs.ics.uci.edu/terrorism-in-india/#comment-2536, https://ngs.ics.uci.edu/terrorism-in-india/#comment-2916, https://ngs.ics.uci.edu/terrorism-in-india/#comments
+https://ngs.ics.uci.edu/lifelesson-1-get-bad-news-as-soon-as-possible, https://ngs.ics.uci.edu/lifelesson-1-get-bad-news-as-soon-as-possible/#respond
+https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could, https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could/#comment-5219, https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could/#comment-5572, https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could/#comment-5587, https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could/#comment-5556, https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could/#comments, https://ngs.ics.uci.edu/lifelesson-2-should-should-come-before-could/#comment-5923
+https://ngs.ics.uci.edu/thinking-within-the-box-putting-could-before-should, https://ngs.ics.uci.edu/thinking-within-the-box-putting-could-before-should/#respond
+https://ngs.ics.uci.edu/experiential-analysis, https://ngs.ics.uci.edu/experiential-analysis/#respond
+https://ngs.ics.uci.edu/next-instagram, https://ngs.ics.uci.edu/next-instagram/#respond
+https://ngs.ics.uci.edu/eventweb-and-saving-lives, https://ngs.ics.uci.edu/eventweb-and-saving-lives/#comment-978, https://ngs.ics.uci.edu/eventweb-and-saving-lives/#comments, https://ngs.ics.uci.edu/eventweb-and-saving-lives/#comment-985
+https://ngs.ics.uci.edu/virginia-tech-massacre, https://ngs.ics.uci.edu/virginia-tech-massacre/#comments, https://ngs.ics.uci.edu/virginia-tech-massacre/#comment-976, https://ngs.ics.uci.edu/virginia-tech-massacre/#comment-1044, https://ngs.ics.uci.edu/virginia-tech-massacre/#comment-973
+https://ngs.ics.uci.edu/searh-progress-in-ne-extraction, https://ngs.ics.uci.edu/searh-progress-in-ne-extraction/#comment-2899, https://ngs.ics.uci.edu/searh-progress-in-ne-extraction/#comments
+https://ngs.ics.uci.edu/whats-here-on-google-maps, https://ngs.ics.uci.edu/whats-here-on-google-maps/#comment-2877, https://ngs.ics.uci.edu/whats-here-on-google-maps/#comments
+https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comments, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-5071, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-3357, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-5220, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-4118, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-3413, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-2901, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-3400, https://ngs.ics.uci.edu/geotagging-is-moving-closer-to-center/#comment-2874
+https://ngs.ics.uci.edu/ubiquitous-connectivity, https://ngs.ics.uci.edu/ubiquitous-connectivity/#respond
+https://ngs.ics.uci.edu/evaluating-multimedia-algorithms, https://ngs.ics.uci.edu/evaluating-multimedia-algorithms/#comments, https://ngs.ics.uci.edu/evaluating-multimedia-algorithms/#comment-2888
+https://ngs.ics.uci.edu/experiential-communication-in-singapore, https://ngs.ics.uci.edu/experiential-communication-in-singapore/#comment-3129, https://ngs.ics.uci.edu/experiential-communication-in-singapore/#comments
+https://ngs.ics.uci.edu/events-and-metaevents, https://ngs.ics.uci.edu/events-and-metaevents/#comments, https://ngs.ics.uci.edu/events-and-metaevents/#comment-2922, https://ngs.ics.uci.edu/events-and-metaevents/#comment-2921, https://ngs.ics.uci.edu/events-and-metaevents/#comment-2935
+https://ngs.ics.uci.edu/living-in-the-past-dangerous-for-present-and-future, https://ngs.ics.uci.edu/living-in-the-past-dangerous-for-present-and-future/#respond
+https://ngs.ics.uci.edu/sue-generis-a-class-of-its-own, https://ngs.ics.uci.edu/sue-generis-a-class-of-its-own/#comments, https://ngs.ics.uci.edu/sue-generis-a-class-of-its-own/#comment-2927
+https://ngs.ics.uci.edu/multimedia-information-retrieval-at-nus-1, https://ngs.ics.uci.edu/multimedia-information-retrieval-at-nus-1/#comment-2928, https://ngs.ics.uci.edu/multimedia-information-retrieval-at-nus-1/#comments
+https://ngs.ics.uci.edu/multimedia-information-retrieval-at-nus-2, https://ngs.ics.uci.edu/multimedia-information-retrieval-at-nus-2/#respond
+https://ngs.ics.uci.edu/eventweb-getting-traction, https://ngs.ics.uci.edu/eventweb-getting-traction/#comments, https://ngs.ics.uci.edu/eventweb-getting-traction/#comment-2963
+https://ngs.ics.uci.edu/where-is-computer-science-in-it, https://ngs.ics.uci.edu/where-is-computer-science-in-it/#comments, https://ngs.ics.uci.edu/where-is-computer-science-in-it/#comment-3003, https://ngs.ics.uci.edu/where-is-computer-science-in-it/#comment-3051, https://ngs.ics.uci.edu/where-is-computer-science-in-it/#comment-3096, https://ngs.ics.uci.edu/where-is-computer-science-in-it/#comment-2972
+https://ngs.ics.uci.edu/becoming-impatient, https://ngs.ics.uci.edu/becoming-impatient/#comment-2942, https://ngs.ics.uci.edu/becoming-impatient/#comment-2945, https://ngs.ics.uci.edu/becoming-impatient/#comment-2941, https://ngs.ics.uci.edu/becoming-impatient/#comment-3103, https://ngs.ics.uci.edu/becoming-impatient/#comments
+https://ngs.ics.uci.edu/visual-time-machine, https://ngs.ics.uci.edu/visual-time-machine/#comments
+https://ngs.ics.uci.edu/situation-awareness-and-control, https://ngs.ics.uci.edu/situation-awareness-and-control/#comments, https://ngs.ics.uci.edu/situation-awareness-and-control/#comment-2978
+https://ngs.ics.uci.edu/photo-management-remains-an-open-problem, https://ngs.ics.uci.edu/photo-management-remains-an-open-problem/#comment-2974, https://ngs.ics.uci.edu/photo-management-remains-an-open-problem/#comments
+https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia1, https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia1/#comment-2984, https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia1/#comments, https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia1/#comment-2985, https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia1/#comment-2991
+https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia-2, https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia-2/#comments, https://ngs.ics.uci.edu/trip-to-angkor-in-cambodia-2/#comment-3027
+https://ngs.ics.uci.edu/sentiment-analysis, https://ngs.ics.uci.edu/sentiment-analysis/#comment-3039, https://ngs.ics.uci.edu/sentiment-analysis/#comments, https://ngs.ics.uci.edu/sentiment-analysis/#comment-3460
+https://ngs.ics.uci.edu/ict-for-development-is-dominated-by-social-network-thinking, https://ngs.ics.uci.edu/ict-for-development-is-dominated-by-social-network-thinking/#comment-3011, https://ngs.ics.uci.edu/ict-for-development-is-dominated-by-social-network-thinking/#comments
+https://ngs.ics.uci.edu/begaluru-trip, https://ngs.ics.uci.edu/begaluru-trip/#comment-3009, https://ngs.ics.uci.edu/begaluru-trip/#comments
+https://ngs.ics.uci.edu/knowledge-and-innovation-sharing-networks-kisn, https://ngs.ics.uci.edu/knowledge-and-innovation-sharing-networks-kisn/#comment-3025, https://ngs.ics.uci.edu/knowledge-and-innovation-sharing-networks-kisn/#comments, https://ngs.ics.uci.edu/knowledge-and-innovation-sharing-networks-kisn/#comment-3046
+https://ngs.ics.uci.edu/finding-info-on-a-person/#comments, https://ngs.ics.uci.edu/finding-info-on-a-person
+https://ngs.ics.uci.edu/presentation-on-observation-systems, https://ngs.ics.uci.edu/presentation-on-observation-systems/#comment-260, https://ngs.ics.uci.edu/presentation-on-observation-systems/#comments
+https://ngs.ics.uci.edu/video-search-story-in-wired, https://ngs.ics.uci.edu/video-search-story-in-wired/#comment-265, https://ngs.ics.uci.edu/video-search-story-in-wired/#comments
+https://ngs.ics.uci.edu/pictureal-producing-home-videos, https://ngs.ics.uci.edu/pictureal-producing-home-videos/#comment-2235, https://ngs.ics.uci.edu/pictureal-producing-home-videos/#comment-2195, https://ngs.ics.uci.edu/pictureal-producing-home-videos/#comments
+https://ngs.ics.uci.edu/experiential-education, https://ngs.ics.uci.edu/experiential-education/#respond
+https://ngs.ics.uci.edu/google-hires, https://ngs.ics.uci.edu/google-hires/#respond
+https://ngs.ics.uci.edu/funny-story-about-googles-plans, https://ngs.ics.uci.edu/funny-story-about-googles-plans/#respond
+https://ngs.ics.uci.edu/more-on-camera, https://ngs.ics.uci.edu/more-on-camera/#respond
+https://ngs.ics.uci.edu/surveillance-systems-obsys/#comments, https://ngs.ics.uci.edu/surveillance-systems-obsys
+https://ngs.ics.uci.edu/visual-info-retrieval, https://ngs.ics.uci.edu/visual-info-retrieval/#comment-216, https://ngs.ics.uci.edu/visual-info-retrieval/#comment-215, https://ngs.ics.uci.edu/visual-info-retrieval/#comment-217, https://ngs.ics.uci.edu/visual-info-retrieval/#comments
+https://ngs.ics.uci.edu/yrl-berkeley, https://ngs.ics.uci.edu/yrl-berkeley/#respond
+https://ngs.ics.uci.edu/photo-search, https://ngs.ics.uci.edu/photo-search/#respond
+https://ngs.ics.uci.edu/the-worst-part-of-a-vacation, https://ngs.ics.uci.edu/the-worst-part-of-a-vacation/#respond
+https://ngs.ics.uci.edu/future-google-and-news-interesting-viewpoint, https://ngs.ics.uci.edu/future-google-and-news-interesting-viewpoint/#comments, https://ngs.ics.uci.edu/future-google-and-news-interesting-viewpoint/#comment-2716, https://ngs.ics.uci.edu/future-google-and-news-interesting-viewpoint/#comment-501, https://ngs.ics.uci.edu/future-google-and-news-interesting-viewpoint/#comment-262
+https://ngs.ics.uci.edu/sensor-net-for-traffic/#respond, https://ngs.ics.uci.edu/sensor-net-for-traffic
+https://ngs.ics.uci.edu/photo-database/#respond, https://ngs.ics.uci.edu/photo-database
+https://ngs.ics.uci.edu/a9-and-local, https://ngs.ics.uci.edu/a9-and-local/#respond
+https://ngs.ics.uci.edu/search-center-at-berkeley, https://ngs.ics.uci.edu/search-center-at-berkeley/#respond
+https://ngs.ics.uci.edu/future-of-web-is-here-now, https://ngs.ics.uci.edu/future-of-web-is-here-now/#comment-235, https://ngs.ics.uci.edu/future-of-web-is-here-now/#comment-242, https://ngs.ics.uci.edu/future-of-web-is-here-now/#comments, https://ngs.ics.uci.edu/future-of-web-is-here-now/#comment-234
+https://ngs.ics.uci.edu/observation-systems/#respond, https://ngs.ics.uci.edu/observation-systems
+https://ngs.ics.uci.edu/talk-practical-apps-of-multimedia-search/#comments, https://ngs.ics.uci.edu/talk-practical-apps-of-multimedia-search
+https://ngs.ics.uci.edu/observation-systems-functionality/#comments, https://ngs.ics.uci.edu/observation-systems-functionality
+https://ngs.ics.uci.edu/contenxt-search/#comments, https://ngs.ics.uci.edu/contenxt-search
+https://ngs.ics.uci.edu/social-search-3, https://ngs.ics.uci.edu/social-search-3/#respond
+https://ngs.ics.uci.edu/steering-wheel-and-search-as-a-conversation/#comments, https://ngs.ics.uci.edu/steering-wheel-and-search-as-a-conversation
+https://ngs.ics.uci.edu/focused-microblogs-fmbs-going-beyond-twitter, https://ngs.ics.uci.edu/focused-microblogs-fmbs-going-beyond-twitter/#respond
+https://ngs.ics.uci.edu/creating-health-persona, https://ngs.ics.uci.edu/creating-health-persona/#respond
+http://ngs.ics.uci.edu/creating-health-persona/sensors-to-persona/#comment-5570, http://ngs.ics.uci.edu/creating-health-persona/sensors-to-persona, http://ngs.ics.uci.edu/creating-health-persona/sensors-to-persona/#comments, http://ngs.ics.uci.edu/creating-health-persona/sensors-to-persona/#comment-5571
+https://ngs.ics.uci.edu/creating-persona-using-data-streams/#respond, https://ngs.ics.uci.edu/creating-persona-using-data-streams
+https://ngs.ics.uci.edu/contextual-circles, https://ngs.ics.uci.edu/contextual-circles/#comment-4883, https://ngs.ics.uci.edu/contextual-circles/#comment-4558, https://ngs.ics.uci.edu/contextual-circles/#comment-4862, https://ngs.ics.uci.edu/contextual-circles/#comment-4884, https://ngs.ics.uci.edu/contextual-circles/#comments
+https://ngs.ics.uci.edu/quantifying-semantic-gap, https://ngs.ics.uci.edu/quantifying-semantic-gap/#respond
+https://ngs.ics.uci.edu/events-are-transparent, https://ngs.ics.uci.edu/events-are-transparent/#respond
+https://ngs.ics.uci.edu/honored-surprised-and-started-thinking, https://ngs.ics.uci.edu/honored-surprised-and-started-thinking/#comment-4471, https://ngs.ics.uci.edu/honored-surprised-and-started-thinking/#comments
+https://ngs.ics.uci.edu/managing-event-information-a-book, https://ngs.ics.uci.edu/managing-event-information-a-book/#respond
+https://ngs.ics.uci.edu/developing-actionable-personal-intelligence-for-everyone, https://ngs.ics.uci.edu/developing-actionable-personal-intelligence-for-everyone/#respond
+https://ngs.ics.uci.edu/lifelog-made-easy, https://ngs.ics.uci.edu/lifelog-made-easy/#comment-4036, https://ngs.ics.uci.edu/lifelog-made-easy/#comments
+https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia, https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia/#comment-4039, https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia/#comment-4032, https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia/#comment-4034, https://ngs.ics.uci.edu/current-research-challenges-in-computer-vision-and-multimedia/#comments
+https://ngs.ics.uci.edu/the-power-of-pull, https://ngs.ics.uci.edu/the-power-of-pull/#comment-4033, https://ngs.ics.uci.edu/the-power-of-pull/#comments, https://ngs.ics.uci.edu/the-power-of-pull/#comment-3810
+https://ngs.ics.uci.edu/social-pixels, https://ngs.ics.uci.edu/social-pixels/#comments
+https://ngs.ics.uci.edu/content-without-context-is-meaningless, https://ngs.ics.uci.edu/content-without-context-is-meaningless/#comment-3792, https://ngs.ics.uci.edu/content-without-context-is-meaningless/#comments
+https://ngs.ics.uci.edu/milkshake-drunk-researcher-and-problem-solving, https://ngs.ics.uci.edu/milkshake-drunk-researcher-and-problem-solving/#comments, https://ngs.ics.uci.edu/milkshake-drunk-researcher-and-problem-solving/#comment-3776, https://ngs.ics.uci.edu/milkshake-drunk-researcher-and-problem-solving/#comment-3788
+https://ngs.ics.uci.edu/machine-learning-hammer, https://ngs.ics.uci.edu/machine-learning-hammer/#comment-3770, https://ngs.ics.uci.edu/machine-learning-hammer/#comments
+https://ngs.ics.uci.edu/likes-loyalties-and-choices, https://ngs.ics.uci.edu/likes-loyalties-and-choices/#comments, https://ngs.ics.uci.edu/likes-loyalties-and-choices/#comment-3739, https://ngs.ics.uci.edu/likes-loyalties-and-choices/#comment-3727, https://ngs.ics.uci.edu/likes-loyalties-and-choices/#comment-3731, https://ngs.ics.uci.edu/likes-loyalties-and-choices/#comment-3743
+https://ngs.ics.uci.edu/nl-3-beyond-the-current-www, https://ngs.ics.uci.edu/nl-3-beyond-the-current-www/#comments, https://ngs.ics.uci.edu/nl-3-beyond-the-current-www/#comment-3755
+https://ngs.ics.uci.edu/nowledger-2, https://ngs.ics.uci.edu/nowledger-2/#comments, https://ngs.ics.uci.edu/nowledger-2/#comment-3744
+https://ngs.ics.uci.edu/nowledger, https://ngs.ics.uci.edu/nowledger/#respond
+https://ngs.ics.uci.edu/beyond-total-capture-to-some-utilization, https://ngs.ics.uci.edu/beyond-total-capture-to-some-utilization/#comments, https://ngs.ics.uci.edu/beyond-total-capture-to-some-utilization/#comment-3697, https://ngs.ics.uci.edu/beyond-total-capture-to-some-utilization/#comment-3674
+https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute, https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute/#comment-3616, https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute/#comment-3696, https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute/#comments, https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute/#comment-3620, https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute/#comment-3645, https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute/#comment-3621, https://ngs.ics.uci.edu/ck-prahalad-one-more-tribute/#comment-3617
+https://ngs.ics.uci.edu/self-analytics-data-driven-life, https://ngs.ics.uci.edu/self-analytics-data-driven-life/#comments, https://ngs.ics.uci.edu/self-analytics-data-driven-life/#comment-3613, https://ngs.ics.uci.edu/self-analytics-data-driven-life/#comment-3772, https://ngs.ics.uci.edu/self-analytics-data-driven-life/#comment-3635, https://ngs.ics.uci.edu/self-analytics-data-driven-life/#comment-3633, https://ngs.ics.uci.edu/self-analytics-data-driven-life/#comment-3643
+https://ngs.ics.uci.edu/emerging-trends-from-www2010, https://ngs.ics.uci.edu/emerging-trends-from-www2010/#comments, https://ngs.ics.uci.edu/emerging-trends-from-www2010/#comment-4013, https://ngs.ics.uci.edu/emerging-trends-from-www2010/#comment-3680
+https://ngs.ics.uci.edu/what-the-web-cant-do, https://ngs.ics.uci.edu/what-the-web-cant-do/#comments, https://ngs.ics.uci.edu/what-the-web-cant-do/#comment-3672, https://ngs.ics.uci.edu/what-the-web-cant-do/#comment-5005
+https://ngs.ics.uci.edu/nsf-iii-workshop-good-workshop-but-will-it-change-anything, https://ngs.ics.uci.edu/nsf-iii-workshop-good-workshop-but-will-it-change-anything/#respond
+https://ngs.ics.uci.edu/uncontrollable-memories-of-c-k-prahalad, https://ngs.ics.uci.edu/uncontrollable-memories-of-c-k-prahalad/#respond
+https://ngs.ics.uci.edu/c-k-prahalad, https://ngs.ics.uci.edu/c-k-prahalad/#comments, https://ngs.ics.uci.edu/c-k-prahalad/#comment-3582, https://ngs.ics.uci.edu/c-k-prahalad/#comment-3787, https://ngs.ics.uci.edu/c-k-prahalad/#comment-3585, https://ngs.ics.uci.edu/c-k-prahalad/#comment-3592, https://ngs.ics.uci.edu/c-k-prahalad/#comment-3576, https://ngs.ics.uci.edu/c-k-prahalad/#comment-3579, https://ngs.ics.uci.edu/c-k-prahalad/#comment-3590
+https://ngs.ics.uci.edu/contenxt-not-content-or-context-in-computer-vision, https://ngs.ics.uci.edu/contenxt-not-content-or-context-in-computer-vision/#comment-3548, https://ngs.ics.uci.edu/contenxt-not-content-or-context-in-computer-vision/#comments
+https://ngs.ics.uci.edu/situation-awareness-emerging-approaches, https://ngs.ics.uci.edu/situation-awareness-emerging-approaches/#comment-3584, https://ngs.ics.uci.edu/situation-awareness-emerging-approaches/#comments, https://ngs.ics.uci.edu/situation-awareness-emerging-approaches/#comment-3544
+https://ngs.ics.uci.edu/context-in-computer-vision, https://ngs.ics.uci.edu/context-in-computer-vision/#respond
+https://ngs.ics.uci.edu/next-generation-search-in-2010, https://ngs.ics.uci.edu/next-generation-search-in-2010/#comment-3536, https://ngs.ics.uci.edu/next-generation-search-in-2010/#comments, https://ngs.ics.uci.edu/next-generation-search-in-2010/#comment-3504
+https://ngs.ics.uci.edu/young-engineering-students, https://ngs.ics.uci.edu/young-engineering-students/#comment-3475, https://ngs.ics.uci.edu/young-engineering-students/#comments, https://ngs.ics.uci.edu/young-engineering-students/#comment-3492
+https://ngs.ics.uci.edu/pragyan-2010-at-nit-trichy, https://ngs.ics.uci.edu/pragyan-2010-at-nit-trichy/#comment-3476, https://ngs.ics.uci.edu/pragyan-2010-at-nit-trichy/#comments
+https://ngs.ics.uci.edu/timeline-mashups, https://ngs.ics.uci.edu/timeline-mashups/#comment-3424, https://ngs.ics.uci.edu/timeline-mashups/#comments
+https://ngs.ics.uci.edu/us-institute-of-peace, https://ngs.ics.uci.edu/us-institute-of-peace/#comments, https://ngs.ics.uci.edu/us-institute-of-peace/#comment-3542, https://ngs.ics.uci.edu/us-institute-of-peace/#comment-3438
+https://ngs.ics.uci.edu/personal-analytics, https://ngs.ics.uci.edu/personal-analytics/#comment-4900, https://ngs.ics.uci.edu/personal-analytics/#comment-3401, https://ngs.ics.uci.edu/personal-analytics/#comments, https://ngs.ics.uci.edu/personal-analytics/#comment-3410
+https://ngs.ics.uci.edu/solution-consolidation-of-experiences-and-making-them-actionable, https://ngs.ics.uci.edu/solution-consolidation-of-experiences-and-making-them-actionable/#comments, https://ngs.ics.uci.edu/solution-consolidation-of-experiences-and-making-them-actionable/#comment-3510
+https://ngs.ics.uci.edu/need-consolidation-of-experiences-and-making-them-actionable, https://ngs.ics.uci.edu/need-consolidation-of-experiences-and-making-them-actionable/#comment-3380, https://ngs.ics.uci.edu/need-consolidation-of-experiences-and-making-them-actionable/#comments
+https://ngs.ics.uci.edu/events-descriptions-and-opinions, https://ngs.ics.uci.edu/events-descriptions-and-opinions/#respond
+https://ngs.ics.uci.edu/goggles-to-cyberspace, https://ngs.ics.uci.edu/goggles-to-cyberspace/#comment-3279, https://ngs.ics.uci.edu/goggles-to-cyberspace/#comment-3329, https://ngs.ics.uci.edu/goggles-to-cyberspace/#comments, https://ngs.ics.uci.edu/goggles-to-cyberspace/#comment-3636
+https://ngs.ics.uci.edu/geeks-like-complexity, https://ngs.ics.uci.edu/geeks-like-complexity/#comments, https://ngs.ics.uci.edu/geeks-like-complexity/#comment-3273
+https://ngs.ics.uci.edu/cameras-and-internet, https://ngs.ics.uci.edu/cameras-and-internet/#comment-3272, https://ngs.ics.uci.edu/cameras-and-internet/#comments
+https://ngs.ics.uci.edu/innovations-in-india, https://ngs.ics.uci.edu/innovations-in-india/#comment-3259, https://ngs.ics.uci.edu/innovations-in-india/#comment-3270, https://ngs.ics.uci.edu/innovations-in-india/#comments
+https://ngs.ics.uci.edu/current-technical-trends-in-internet, https://ngs.ics.uci.edu/current-technical-trends-in-internet/#comments, https://ngs.ics.uci.edu/current-technical-trends-in-internet/#comment-3242
+https://ngs.ics.uci.edu/event-analytics, https://ngs.ics.uci.edu/event-analytics/#comment-3246, https://ngs.ics.uci.edu/event-analytics/#comment-3275, https://ngs.ics.uci.edu/event-analytics/#comment-3654, https://ngs.ics.uci.edu/event-analytics/#comments
+https://ngs.ics.uci.edu/smart-phones-to-become-phones, https://ngs.ics.uci.edu/smart-phones-to-become-phones/#respond
+https://ngs.ics.uci.edu/augmented-reality-comes-of-age, https://ngs.ics.uci.edu/augmented-reality-comes-of-age/#comment-3419, https://ngs.ics.uci.edu/augmented-reality-comes-of-age/#comments, https://ngs.ics.uci.edu/augmented-reality-comes-of-age/#comment-3230, https://ngs.ics.uci.edu/augmented-reality-comes-of-age/#comment-3619, https://ngs.ics.uci.edu/augmented-reality-comes-of-age/#comment-3226
+https://ngs.ics.uci.edu/more-timelines, https://ngs.ics.uci.edu/more-timelines/#comments, https://ngs.ics.uci.edu/more-timelines/#comment-3210
+https://ngs.ics.uci.edu/text-book-on-multimedia, https://ngs.ics.uci.edu/text-book-on-multimedia/#comment-3189, https://ngs.ics.uci.edu/text-book-on-multimedia/#comments, https://ngs.ics.uci.edu/text-book-on-multimedia/#comment-3206
+https://ngs.ics.uci.edu/international-academic-research-perspectives, https://ngs.ics.uci.edu/international-academic-research-perspectives/#respond
+https://ngs.ics.uci.edu/hightech-in-japan-toilets, https://ngs.ics.uci.edu/hightech-in-japan-toilets/#comment-3172, https://ngs.ics.uci.edu/hightech-in-japan-toilets/#comment-3184, https://ngs.ics.uci.edu/hightech-in-japan-toilets/#comments
+https://ngs.ics.uci.edu/reflecting-on-your-life, https://ngs.ics.uci.edu/reflecting-on-your-life/#comment-4014, https://ngs.ics.uci.edu/reflecting-on-your-life/#comments, https://ngs.ics.uci.edu/reflecting-on-your-life/#comment-4011
+https://ngs.ics.uci.edu/meta-data-is-also-data, https://ngs.ics.uci.edu/meta-data-is-also-data/#comment-4035, https://ngs.ics.uci.edu/meta-data-is-also-data/#comments, https://ngs.ics.uci.edu/meta-data-is-also-data/#comment-4023, https://ngs.ics.uci.edu/meta-data-is-also-data/#comment-4037
+https://ngs.ics.uci.edu/middle-of-the-pyramid-mop-1, https://ngs.ics.uci.edu/middle-of-the-pyramid-mop-1/#respond
+https://ngs.ics.uci.edu/middle-of-the-pyramid-mop-2, https://ngs.ics.uci.edu/middle-of-the-pyramid-mop-2/#respond
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-2/#comments, https://ngs.ics.uci.edu/from-calendars-to-chronicles-2
+https://ngs.ics.uci.edu/objective-self, https://ngs.ics.uci.edu/objective-self/#respond
+https://ngs.ics.uci.edu/rip-my-four-legged-son, https://ngs.ics.uci.edu/rip-my-four-legged-son/#comment-5539, https://ngs.ics.uci.edu/rip-my-four-legged-son/#comment-5238, https://ngs.ics.uci.edu/rip-my-four-legged-son/#comment-5559, https://ngs.ics.uci.edu/rip-my-four-legged-son/#comments
+https://ngs.ics.uci.edu/social-systems-and-big-data, https://ngs.ics.uci.edu/social-systems-and-big-data/#respond
+https://ngs.ics.uci.edu/physical-social-cyber-computing-systems/#respond, https://ngs.ics.uci.edu/physical-social-cyber-computing-systems
+https://ngs.ics.uci.edu/calendars-to-chronicles-6, https://ngs.ics.uci.edu/calendars-to-chronicles-6/#respond
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-5, https://ngs.ics.uci.edu/from-calendars-to-chronicles-5/#respond
+https://ngs.ics.uci.edu/calendars-to-chronicles-4, https://ngs.ics.uci.edu/calendars-to-chronicles-4/#respond
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-3, https://ngs.ics.uci.edu/from-calendars-to-chronicles-3/#comment-5926, https://ngs.ics.uci.edu/from-calendars-to-chronicles-3/#comments, https://ngs.ics.uci.edu/from-calendars-to-chronicles-3/#comment-5924
+https://ngs.ics.uci.edu/from-calendars-to-chronicles-1/#comments, https://ngs.ics.uci.edu/from-calendars-to-chronicles-1
+https://ngs.ics.uci.edu/search-and-recommendation/#comments, https://ngs.ics.uci.edu/search-and-recommendation
+https://ngs.ics.uci.edu/building-on-the-disruption-in-learning-and-education, https://ngs.ics.uci.edu/building-on-the-disruption-in-learning-and-education/#respond
+https://ngs.ics.uci.edu/extreme-stories13/#comments, https://ngs.ics.uci.edu/extreme-stories13
+https://ngs.ics.uci.edu/emerging-art-of-storytelling/#respond, https://ngs.ics.uci.edu/emerging-art-of-storytelling
+https://ngs.ics.uci.edu/visr-organizing-and-sharing-visual-experiences-of-events/#respond, https://ngs.ics.uci.edu/visr-organizing-and-sharing-visual-experiences-of-events
+https://ngs.ics.uci.edu/automatic-summarization-of-personal-photo-collections-pinaki-sinhas-thesis/#respond, https://ngs.ics.uci.edu/automatic-summarization-of-personal-photo-collections-pinaki-sinhas-thesis
+https://ngs.ics.uci.edu/photos-then-and-now, https://ngs.ics.uci.edu/photos-then-and-now/#comment-4133, https://ngs.ics.uci.edu/photos-then-and-now/#comment-4113, https://ngs.ics.uci.edu/photos-then-and-now/#comments
+https://ngs.ics.uci.edu/phone-as-identity, https://ngs.ics.uci.edu/phone-as-identity/#respond
+https://ngs.ics.uci.edu/ancient-photo-gallery-in-modern-phones/#comments, https://ngs.ics.uci.edu/ancient-photo-gallery-in-modern-phones
+https://ngs.ics.uci.edu/extreme-stories-12, https://ngs.ics.uci.edu/extreme-stories-12/#comment-5109, https://ngs.ics.uci.edu/extreme-stories-12/#comment-5552, https://ngs.ics.uci.edu/extreme-stories-12/#comment-4942, https://ngs.ics.uci.edu/extreme-stories-12/#comment-4935, https://ngs.ics.uci.edu/extreme-stories-12/#comment-4974, https://ngs.ics.uci.edu/extreme-stories-12/#comment-4947, https://ngs.ics.uci.edu/extreme-stories-12/#comments
+https://ngs.ics.uci.edu/extreme-stories-11, https://ngs.ics.uci.edu/extreme-stories-11/#comment-4955, https://ngs.ics.uci.edu/extreme-stories-11/#comments
+https://ngs.ics.uci.edu/extreme-stories-5, https://ngs.ics.uci.edu/extreme-stories-5/#comment-4893, https://ngs.ics.uci.edu/extreme-stories-5/#comment-4943, https://ngs.ics.uci.edu/extreme-stories-5/#comment-4913, https://ngs.ics.uci.edu/extreme-stories-5/#comments
+https://ngs.ics.uci.edu/extreme-stories-4, https://ngs.ics.uci.edu/extreme-stories-4/#respond
+https://ngs.ics.uci.edu/extreme-stories-7/#comments, https://ngs.ics.uci.edu/extreme-stories-7
+https://ngs.ics.uci.edu/extreme-stories-8, https://ngs.ics.uci.edu/extreme-stories-8/#respond
+https://ngs.ics.uci.edu/extreme-stories-9/#comments, https://ngs.ics.uci.edu/extreme-stories-9
+https://ngs.ics.uci.edu/photos-are-more-than-fleeting-experiences/#comments, https://ngs.ics.uci.edu/photos-are-more-than-fleeting-experiences
+https://ngs.ics.uci.edu/social-networks-for-less-privileged/#comments, https://ngs.ics.uci.edu/social-networks-for-less-privileged
+https://ngs.ics.uci.edu/seraja-towards-a-new-incarnation, https://ngs.ics.uci.edu/seraja-towards-a-new-incarnation/#respond
+https://ngs.ics.uci.edu/853, https://ngs.ics.uci.edu/853/#respond
+https://ngs.ics.uci.edu/interesting-uses-of-mass-photography, https://ngs.ics.uci.edu/interesting-uses-of-mass-photography/#respond
+https://ngs.ics.uci.edu/if-it-merged-with-e-t, https://ngs.ics.uci.edu/if-it-merged-with-e-t/#respond
+https://ngs.ics.uci.edu/computer-for-developing-world-from-olpc/#respond, https://ngs.ics.uci.edu/computer-for-developing-world-from-olpc
+https://ngs.ics.uci.edu/cpmputers-for-emerging-markets-and-emerging-segments, https://ngs.ics.uci.edu/cpmputers-for-emerging-markets-and-emerging-segments/#respond
+https://ngs.ics.uci.edu/women-accepting-wife-beating, https://ngs.ics.uci.edu/women-accepting-wife-beating/#respond
+https://ngs.ics.uci.edu/mashup-of-youtube-and-googlemaps, https://ngs.ics.uci.edu/mashup-of-youtube-and-googlemaps/#comment-1255, https://ngs.ics.uci.edu/mashup-of-youtube-and-googlemaps/#comments
+https://ngs.ics.uci.edu/to-brazil-thinking-computer-vision-in-developing-countries, https://ngs.ics.uci.edu/to-brazil-thinking-computer-vision-in-developing-countries/#respond
+https://ngs.ics.uci.edu/can-entrepreneurship-be-taught/#comments, https://ngs.ics.uci.edu/can-entrepreneurship-be-taught
+https://ngs.ics.uci.edu/search-by-humming/#comments, https://ngs.ics.uci.edu/search-by-humming
+https://ngs.ics.uci.edu/creating-peopleweb, https://ngs.ics.uci.edu/creating-peopleweb/#comment-3160, https://ngs.ics.uci.edu/creating-peopleweb/#comment-3164, https://ngs.ics.uci.edu/creating-peopleweb/#comment-3153, https://ngs.ics.uci.edu/creating-peopleweb/#comments
+https://ngs.ics.uci.edu/multimedia-immersive-experience-in-hangzhou-a-show, https://ngs.ics.uci.edu/multimedia-immersive-experience-in-hangzhou-a-show/#comments, https://ngs.ics.uci.edu/multimedia-immersive-experience-in-hangzhou-a-show/#comment-3139
+https://ngs.ics.uci.edu/drunken-scientists-and-unsolvable-problems, https://ngs.ics.uci.edu/drunken-scientists-and-unsolvable-problems/#respond
+https://ngs.ics.uci.edu/workshops-at-mm09, https://ngs.ics.uci.edu/workshops-at-mm09/#comment-3154, https://ngs.ics.uci.edu/workshops-at-mm09/#comments
+https://ngs.ics.uci.edu/more-experiences-in-china, https://ngs.ics.uci.edu/more-experiences-in-china/#comments, https://ngs.ics.uci.edu/more-experiences-in-china/#comment-3127, https://ngs.ics.uci.edu/more-experiences-in-china/#comment-3125, https://ngs.ics.uci.edu/more-experiences-in-china/#comment-3123, https://ngs.ics.uci.edu/more-experiences-in-china/#comment-3131, https://ngs.ics.uci.edu/more-experiences-in-china/#comment-3130, https://ngs.ics.uci.edu/more-experiences-in-china/#comment-3126
+https://ngs.ics.uci.edu/acm-multimedia-2009, https://ngs.ics.uci.edu/acm-multimedia-2009/#comment-3116, https://ngs.ics.uci.edu/acm-multimedia-2009/#comments, https://ngs.ics.uci.edu/acm-multimedia-2009/#comment-3124
+https://ngs.ics.uci.edu/again-in-china, https://ngs.ics.uci.edu/again-in-china/#comment-3115, https://ngs.ics.uci.edu/again-in-china/#comments
+https://ngs.ics.uci.edu/china, https://ngs.ics.uci.edu/china/#comment-3090, https://ngs.ics.uci.edu/china/#comment-3092, https://ngs.ics.uci.edu/china/#comment-3111, https://ngs.ics.uci.edu/china/#comment-3110, https://ngs.ics.uci.edu/china/#comments
+https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3152, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3138, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3083, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3166, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3095, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3168, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3238, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comments, https://ngs.ics.uci.edu/mobile-money-or-power-of-mobile-phones-to-transform/#comment-3247
+https://ngs.ics.uci.edu/clicking-on-the-real-world, https://ngs.ics.uci.edu/clicking-on-the-real-world/#comment-3077, https://ngs.ics.uci.edu/clicking-on-the-real-world/#comments, https://ngs.ics.uci.edu/clicking-on-the-real-world/#comment-3076
+https://ngs.ics.uci.edu/computer-vision-applications, https://ngs.ics.uci.edu/computer-vision-applications/#comment-3094, https://ngs.ics.uci.edu/computer-vision-applications/#comment-3058, https://ngs.ics.uci.edu/computer-vision-applications/#comments, https://ngs.ics.uci.edu/computer-vision-applications/#comment-3093
+https://ngs.ics.uci.edu/intellectual-property-and-universities, https://ngs.ics.uci.edu/intellectual-property-and-universities/#comments, https://ngs.ics.uci.edu/intellectual-property-and-universities/#comment-3179, https://ngs.ics.uci.edu/intellectual-property-and-universities/#comment-3162
+https://wics.ics.uci.edu, http://wics.ics.uci.edu/?slide=wics-committee-2013-2014
+https://wics.ics.uci.edu/winter-2025-week-2-breaking-barriers-navigating-imposter-syndrome-with-northrop-grumman-x-wics/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-7-mentorship-retreat/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-6-wics-x-alumni-coffee-chats/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-5-shetech-navigating-software-careers/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-6-wics-x-dauci-stakeholder-showdown/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-10-wics-x-the-hub-aws-certification-workshop/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-9-wicsgiving/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-8-wics-x-first-american/?share=facebook, https://wics.ics.uci.edu/winter-2025-week-1-vision-board-beyond/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-9-wics-general-retreat/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-8-super-study-sesh-with-hero-cosmetics/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-3-girl-boss-and-girl-budget-with-wics/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-2-puzzle-relay-study-session-deloitte-talk/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-1-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-10-board-game-social/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-9-wics-mentorship-hide-and-go-seek/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-9-study-session-wicsdunnit-the-great-mentorship-mystery/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-9-wics-x-costar-how-to-be-a-confident-woman-in-tech/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-4-wics-x-vgdc-mad-pitch/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-3-wics-internquest/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-1-first-general-meeting-2/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-8-data-x-wics-speaker-session-women-i73-ai-ml/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-7-api-workshop-with-postman-pt-1/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-5-beyond-handshakes-how-to-network-with-general-atomics-x-wics/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-4-wics-games/?share=facebook, https://wics.ics.uci.edu/week-7-wics-x-corporate-game-night/?share=facebook, https://wics.ics.uci.edu/winter-2022-week-5-life-after-uci/?share=facebook, https://wics.ics.uci.edu/winter-2022-week-2-mock-technical-interview-prep/?share=facebook, https://wics.ics.uci.edu/winter-2022-week-3-mock-technical-interviews/?share=facebook, https://wics.ics.uci.edu/winter-2022-week-7-mentorship-madness/?share=facebook, https://wics.ics.uci.edu/winter-2022-week-8-virtual-kahoot-clash-collab/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-1-wics-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-2-wics-x-ctc-personal-portfolio-workshop/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-3-movie-night/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-5-inscripta-info-session/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-8-wicsino-night/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-9-wicsxfactor/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-9-wicsxpics/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-6-mentorship-mayhem/?share=facebook, https://wics.ics.uci.edu/week-6-midterm-mixer/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-4-mentorship-linkedin-workshop/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-4-projects-at-chipotle/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-1-wics-x-swe-x-oai-women-in-stem-trivia-night/?share=facebook, https://wics.ics.uci.edu/spring-2022-week-1-general-retreat/?share=facebook, https://wics.ics.uci.edu/winter-2022-week-10-wics-study-session/?share=facebook, https://wics.ics.uci.edu/studying-with-wics-2/?share=facebook, https://wics.ics.uci.edu/spring-potluck-with-ics-clubs/?share=facebook, https://wics.ics.uci.edu/witi-comes-to-uci/?share=facebook, https://wics.ics.uci.edu/android-app-finale/?share=facebook, https://wics.ics.uci.edu/food-and-fun-with-wics/?share=facebook, https://wics.ics.uci.edu/first-android-app-development-meeting/?share=facebook, https://wics.ics.uci.edu/movie-night-and-boardgames-with-wics/?share=facebook, https://wics.ics.uci.edu/wics-co-hosts-google-panel/?share=facebook, https://wics.ics.uci.edu/first-wics-meeting-of-winter-14/?share=facebook, https://wics.ics.uci.edu/web-development-projects-awards/?share=facebook, https://wics.ics.uci.edu/week-10-hour-of-code/?share=facebook, https://wics.ics.uci.edu/brownie-troops-computer-expert-badge/?share=facebook, https://wics.ics.uci.edu/studying-with-wics/?share=facebook, https://wics.ics.uci.edu/wics-littlebits-workshops/?share=facebook, https://wics.ics.uci.edu/wics-mock-interviews/?share=facebook, https://wics.ics.uci.edu/wics-first-general-spring-quarter-meeting/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-2-meet-the-board-social-qa/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-3-wics-games-2/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-5-facebook-coding-event/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-9-friendsgiving-potluck/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-1-first-general-meeting-2/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-2-wics-x-acm-technical-interview-prep-workshop/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-2-mentorship-social/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-3-mock-technical-interviews/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-4-redfin-event/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-6-ace-your-technical-interview-workshop-with-amazon/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-8-negotiation-panel/?share=facebook, https://wics.ics.uci.edu/things-i-wish-i-knew-as-a-computer-science-or-related-major/?share=facebook, https://wics.ics.uci.edu/when-you-didnt-land-the-internship-how-to-make-the-most-of-your-summer/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-5-crowdstrike-open-house/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-5-vmwares-networking-night/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-8-movie-night/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-6-mentorship-reveal/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-4-honey-information-session/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-3-zillow-interview-workshop/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-2-mentorship-mixer-2/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-1-first-general-meeting-2/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-8-wics-game-night/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-7-slalom-tour/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-4-battle-of-the-mentorships/?share=facebook, https://wics.ics.uci.edu/athenahacks-2019/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-3-ghc-info-session/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-7-resume-workshop/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-8-paciolan-job-shadowing/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-6-intuit-tour/?share=facebook, https://wics.ics.uci.edu/letter-of-recommendation-workshop/?share=facebook, https://wics.ics.uci.edu/wics-hosts-a-toy-hacking-workshop/?share=facebook, https://wics.ics.uci.edu/beginning-of-the-quarter-general-meeting/?share=facebook, https://wics.ics.uci.edu/google-career-panel/?share=facebook, https://wics.ics.uci.edu/masimo-presents-the-hidden-job-market/?share=facebook, https://wics.ics.uci.edu/wics-mentorship-program/?share=facebook, https://wics.ics.uci.edu/wics-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/wics-swe-hosts-women-in-consulting-with-capgemini/?share=facebook, https://wics.ics.uci.edu/wics-attends-cwic-socal/?share=facebook, https://wics.ics.uci.edu/wics-launches-a-flappy-bird-python-project/?share=facebook, https://wics.ics.uci.edu/hackuci-spring-2014/?share=facebook, https://wics.ics.uci.edu/wics-final-python-project-meeting/?share=facebook, https://wics.ics.uci.edu/verizon-info-session/?share=facebook, https://wics.ics.uci.edu/girls-who-code/?share=facebook, https://wics.ics.uci.edu/first-general-meeting/?share=facebook, https://wics.ics.uci.edu/adobe-info-session/?share=facebook, https://wics.ics.uci.edu/wics-is-awarded-the-ncwit-student-seed-fund-2/?share=facebook, https://wics.ics.uci.edu/ics-career-panel/?share=facebook, https://wics.ics.uci.edu/grace-hopper-celebration-2014/?share=facebook, https://wics.ics.uci.edu/week-2-ios-beginner-workshop/?share=facebook, https://wics.ics.uci.edu/week-3-wicsvgdc-workshop/?share=facebook, https://wics.ics.uci.edu/week-5-facebook-women-panel/?share=facebook, https://wics.ics.uci.edu/spring-general-meeting/?share=facebook, https://wics.ics.uci.edu/recurse-center/?share=facebook, https://wics.ics.uci.edu/movie-night/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-week-1-mentorship-mixer/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-week-3-wics-games/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-week-3-pwc-info-session/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-week-4-mentorship-reveal/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-week-6-facebook-diversity-panel/?share=facebook, https://wics.ics.uci.edu/winter-quarter-2017-week-1-general-meeting/?share=facebook, https://wics.ics.uci.edu/winter-quarter-2017-week-6-study-session/?share=facebook, https://wics.ics.uci.edu/winter-quarter-2017-week-7-intuit-interactive-hackathon-prep/?share=facebook, https://wics.ics.uci.edu/winter-quarter-2017-week-8-wics-mentorship-baked-goods-potluck-and-movie-night/?share=facebook, https://wics.ics.uci.edu/spring-quarter-2017-week-1-general-meeting/?share=facebook, https://wics.ics.uci.edu/spring-quarter-2017-week-3-blizzard-tour/?share=facebook, https://wics.ics.uci.edu/aspireit-2017/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2017-week-0-wics-social/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2017-week-3-wics-games/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2017-week-5-wics-mentorship-reveal/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-4-twitter-qa-and-info-session/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2017-week-1-wics-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/spring-quarter-2017-week-3-riot-tour/?share=facebook, https://wics.ics.uci.edu/spring-quarter-2017-week-2-intro-to-command-line-workshop-w-hack/?share=facebook, https://wics.ics.uci.edu/winter-quarter-2017-week-5-twilio-info-session/?share=facebook, https://wics.ics.uci.edu/winter-quarter-2017-week-4-crime-and-mystery-game-night/?share=facebook, https://wics.ics.uci.edu/winter-quarter-2017-mock-technical-interviews-prep-workshop/?share=facebook, https://wics.ics.uci.edu/i-htm/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-wk-7-summer-internship-panel/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-prosky-interactive-info-session/?share=facebook, https://wics.ics.uci.edu/fall-quarter-week-4-study-session/?share=facebook, https://wics.ics.uci.edu/wics-attends-gracehopper-conference-2016/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-week-2-social-meet-and-greet-event/?share=facebook, https://wics.ics.uci.edu/fall-quarter-2016-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/wics-is-awarded-the-trailblazer-award-from-ncwit-and-google-org/?share=facebook, https://wics.ics.uci.edu/wics-resume-workshop/?share=facebook, https://wics.ics.uci.edu/board-game-night/?share=facebook, https://wics.ics.uci.edu/consulting-versus-industry-pariveda-solutions/?share=facebook, https://wics.ics.uci.edu/amazon-info-session/?share=facebook, https://wics.ics.uci.edu/spring-2021-week-7-wics-x-hack-at-uci-resume-review/?share=facebook, https://wics.ics.uci.edu/spring-2021-week-6-negotiation-panel/?share=facebook, https://wics.ics.uci.edu/spring-2021-week-2-mentorship-workshop-3/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-2-inscripta-info-session/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-8-from-inception-to-delivery-with-intel/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-6-hack-x-wics-resume-workshop-ft-a-recruiter-from-guess/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-5-ctc-x-wics-how-to-build-tech-for-social-good/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-4-lean-in-session/?share=facebook, https://wics.ics.uci.edu/fall-2020-week-8-wics-x-shpe-x-swe-diverse-women-in-tech-panel/?share=facebook, https://wics.ics.uci.edu/fall-2020-week-7-get-involved-with-undergraduate-research/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-7-intro-to-web-dev-portfolio-workshop/?share=facebook, https://wics.ics.uci.edu/fall-2020-week-5-wics-committee-applications-qa/?share=facebook, https://wics.ics.uci.edu/fall-2020-week-5-wics-x-ics-blizzards-battle-net-platform-virtual-info-session/?share=facebook, https://wics.ics.uci.edu/fall-2020-week-4-northrop-grumman-professional-development-webinar/?share=facebook, https://wics.ics.uci.edu/fall-2020-week-6-wics-mentorship-reveal/?share=facebook, https://wics.ics.uci.edu/fall-2020-week-10-wicsmas/?share=facebook, https://wics.ics.uci.edu/week-1-wics-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-2-acm-x-wics-mock-technical-interview-prep/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-7-wics-mentorship-workshop-2/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-9-self-care-session/?share=facebook, https://wics.ics.uci.edu/winter-2021-week-10-wicsdoro-study-night/?share=facebook, https://wics.ics.uci.edu/spring-2021-week-1-wics-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/spring-2021-week-2-chipotle-roundtable/?share=facebook, https://wics.ics.uci.edu/spring-2021-week-8-wics-arcade/?share=facebook, https://wics.ics.uci.edu/first-annual-wics-games/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-10-wicsgiving/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-8-wics-game-night/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-9-virtual-day-in-the-life-of-a-swe-pm-ui-ux-designer-panel/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-2-zillow-pitch-yourself-workshop/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-4-wics-games/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-3-amazon-ace-your-interview-workshop/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-4-wics-trivia-night/?share=facebook, https://wics.ics.uci.edu/gen-meeting-and-mentorship-14/?share=facebook, https://wics.ics.uci.edu/spring-2021-week-9-whisk-with-wics/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-1-wics-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-2-stripe-info-session/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-7-code-your-own-portfolio/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-6-mentorship-social-at-utc/?share=facebook, https://wics.ics.uci.edu/fall-2021-week-6-mentorship-reveal/?share=facebook, https://wics.ics.uci.edu/study-session/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-3-wics-x-designuci-figma-workshop/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-4-nsbe-x-shpe-x-wics-networking-dinner-night/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-6-mentorship-reveal/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-6-scratch-a-thon/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-7-intern-taining-conversations-with-wics/?share=facebook, https://wics.ics.uci.edu/fall-2023-week-10-winter-wicserland/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-5-wics-x-acm-mock-technical-interview-prep/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-6-wics-x-swe-valentines-social/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-6-study-session-valentines-workshop/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-7-mock-technical-interviews/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-8-wics-x-gdsc-introduction-to-recommendation-systems/?share=facebook, https://wics.ics.uci.edu/winter-2024-week-8-crepe-boothing/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-2-wics-x-wit-coffee-chats/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-2-netwics/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-5-committee-spotlight-community-outreach/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-5-ghc-info-session-study-session/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-8-academic-planning-workshop/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-9-casino-night/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-2-interview-prep-workshop/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-5-study-session/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-7-women-in-games-panel/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-7wics-round-1-social/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-8-slalom-info-session/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-4-battle-of-the-mentorships/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-3-vmware-info-session/?share=facebook, https://wics.ics.uci.edu/wics-winter-quarter-week-3-mock-technical-interview/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-10-wics-potluck/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-7-msc-software-information-session/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-6-acm-x-wics-mock-technical-interview/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-4-coffee-chat-with-deloitte/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-2-mentorship-mixer/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-3-wics-games/?share=facebook, https://wics.ics.uci.edu/wics-fall-quarter-week-3-amazon-workshop/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-6-wics-x-ctc-general-meeting/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-6-dreamworks-office-tour/?share=facebook, https://wics.ics.uci.edu/week-7-wics-x-hack-present-hacker-hangouts-brainstorming-big-ideas/?share=facebook, https://wics.ics.uci.edu/spring-2024-week-10-wics-banquet/?share=facebook, https://wics.ics.uci.edu/fall-2024-week-1-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/spring-2023-week-2-company-cookie-decorating-contest/?share=facebook, https://wics.ics.uci.edu/week-2-build-your-own-website-with-git/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-9-build-your-own-website-with-html-css/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-8-byow-figma-workshop/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-7-wics-x-general-atomics-women-in-tech-panel/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-7-rock-your-linkedin-profile-with-rivian/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-9-wics-study-session/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-8-mentorship-retreat/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-8-day-in-the-life-of-slalom/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-6-mentorship-social/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-10-wicsgiving-potluck/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-1-first-general-meeting/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-6-mentorship-reveal/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-5-costar-elevator-pitch-workshop/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-3-wics-games/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-4-intro-to-ui-ux-with-designuci/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-4-committee-applications-panel/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-6-acing-the-technical-interview-with-the-portal/?share=facebook, https://wics.ics.uci.edu/wics-spring-quarter-week-5-yoga-and-study-sessionice-cream/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-1-committee-retreat/?share=facebook, https://wics.ics.uci.edu/fall-2022-week-6-interview-prep-with-intuit/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-5-intro-to-cybersecurity-with-cyberuci/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-8-wics-x-taco-bell/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-3-mock-technical-interviews/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-4-conversations-with-crowdstrike/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-6-wics-x-costar-group/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-3-acm-x-wics-mti-technical-interview-prep-workshop/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-4-mentorship-field-day/?share=facebook, https://wics.ics.uci.edu/winter-2023-community-outreach-cypress-bootcamp/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-9-movie-night/?share=facebook, https://wics.ics.uci.edu/spring-2023-week-1-first-general-meeting-utc-social-event/?share=facebook, https://wics.ics.uci.edu/winter-2023-week-8-wics-crepe-booth/?share=facebook, https://wics.ics.uci.edu/winter-2025-week-4-wics-x-acm-mock-technical-interview-prep/?share=facebook
+https://wics.ics.uci.edu/android-app-finale, http://wics.ics.uci.edu/android-app-rewards
+http://wics.ics.uci.edu/first-project-meeting-by-wics/?share=facebook, http://wics.ics.uci.edu/annual-mentorship-program-2013/?share=facebook, http://wics.ics.uci.edu/western-digital-tour-luncheon-with-female-engineers/?share=facebook
+http://wics.ics.uci.edu/?page_id=52, https://wics.ics.uci.edu/our-mentorship-program
+http://wics.ics.uci.edu/1, http://wics.ics.uci.edu/3, http://wics.ics.uci.edu/2, http://wics.ics.uci.edu/4
+https://wics.ics.uci.edu/hello-world, https://wics.ics.uci.edu/hello-world/#respond
+http://cwicsocal18.ics.uci.edu/current-sponsors, http://cwicsocal18.ics.uci.edu/sponsors/current-sponsors
+http://cwicsocal18.ics.uci.edu/sponsor-information, http://cwicsocal18.ics.uci.edu/sponsors/sponsor-information
+
+🔄 NEAR DUPLICATES:
+
+🔹 BLACKLIST REASONS (counts):
+invalid link: 6946
+Status = 400: 367
+Content Too Short: 124
+Status = 602: 97
+Fragment Respond Anchor: 27
+Fragment Comment Anchor: 24
+Status = 404: 19
+Status = 608: 10
+Status = 601: 6
+Status = 403: 4
+Status = 500: 1
+Social Share URL: 1
+Calendar Trap: 1

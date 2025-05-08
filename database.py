@@ -1,6 +1,5 @@
 from collections import defaultdict, Counter
 from urllib.parse import urlparse
-from collections import defaultdict
 import time
 
 class DataBase:
@@ -15,20 +14,14 @@ class DataBase:
     visited_path = set()
     stop_words = set()
     start_time = 0
-    # Load stop words once at startup
     feature_buffer = []
-
-    # @staticmethod
-    # def start_timer():
-    #     DataBase.start_time = time.time()
-
-    # @staticmethod
-    # def get_current_elapsed():
-    #     return time.time() - DataBase.start_time if DataBase.start_time else 0
 
     #C 
     @staticmethod
-    def load_stop_words(filepath="/home/qirans3/121/a2/spacetime-crawler4py/stop_words.txt"):
+    def load_stop_words(filepath="stop_words.txt"):
+        """
+    Copied all stop words from the link the instructor provided to stop_words.txt. 
+    load_stop_words() reads the stop words from the file and stores them in a set for quick lookup."""
         try:
             with open(filepath, "r") as f:
                 DataBase.stop_words = set([line.strip() for line in f if line.strip()])
@@ -37,11 +30,19 @@ class DataBase:
 
     @staticmethod
     def update_max_words(url, word_count):
+        """
+        update_max_words() checks if the current word count is greater than the maximum word count recorded.
+        If it is, it updates the maximum word count and the corresponding URL.
+        """
         if word_count > DataBase.maxWords[1]:
             DataBase.maxWords = [url, word_count]
 
     @staticmethod
     def add_subdomain(url):
+        """
+        Add_subdomain() extracts the subdomain from the URL and updates the subdomain count in the database.
+        It uses urlparse to parse the URL and lower() to ensure the subdomain is in lowercase as the URL is case-insensitive.
+        """
         parsed = urlparse(url)
         subdomain = parsed.netloc.lower()
         DataBase.subdomain_count[subdomain] += 1
@@ -49,6 +50,18 @@ class DataBase:
     #A
     @staticmethod
     def count_words(text):
+        """
+            Counts the frequency of valid words in the url text 
+            add the word count in `DataBase.word_counter`.
+            Skip if:
+            - It's empty after cleaning
+            - It's a number (only digits)
+            - It's a single letter
+            A valid word should be alphanumeric
+    
+            This method is useful in other method count the
+            most frequent words.
+        """
         for word in text.lower().split():
             clean_word = ''.join(c for c in word if c.isalnum())
             # Skip if:
@@ -61,14 +74,24 @@ class DataBase:
             DataBase.word_counter[clean_word] += 1
 
     @staticmethod
-    def save_blacklist(filepath="/home/qirans3/121/a2/spacetime-crawler4py/blacklist.txt"):
+    def save_blacklist(filepath="blacklist.txt"):
+        """
+            Saves all blacklisted URLs and their reasons to a specified file.
+        
+            Args:
+                filepath (str): Path to the file where blacklist entries will be written.
+                                Each line contains a reason and the corresponding URL.
+        
+        """
         with open(filepath, "w") as f:
             for url, reason in DataBase.blacklistURL.items():
                 f.write(f"{reason}: {url}\n")
                 f.flush()
 
     @staticmethod
-    def load_blacklist(filepath="/home/qirans3/121/a2/spacetime-crawler4py/blacklist.txt"):
+    def load_blacklist(filepath="blacklist.txt"):
+         """Copied all stop words from the link the instructor provided to stop_words.txt. 
+    load_stop_words() reads the stop words from the file and stores them in a set for quick lookup."""
         try:
             with open(filepath, "r") as f:
                 for line in f:
@@ -81,20 +104,19 @@ class DataBase:
         except FileNotFoundError:
             pass
 
-    # @staticmethod
-    # def log_live_progress(filepath="live_stats.txt"):
-    #     elapsed = DataBase.get_current_elapsed()
-    #     pages = len(DataBase.scraped)
-    #     speed = pages / elapsed if elapsed > 0 else 0
-
-    #     with open(filepath, "a") as f:
-    #         f.write(f"[{time.strftime('%H:%M:%S')}] Pages: {pages}, Time: {elapsed:.2f}s, Speed: {speed:.2f} pages/sec\n")
-
-
-    #E 到时候加到parameter系数就好了
     @staticmethod
     def print_summary(seen_checksums,near_duplicates):
-        with open("/home/qirans3/121/a2/spacetime-crawler4py/crawl_stats.txt", "w") as f:
+         """
+        Writes crawl statistics to a summary file.
+    
+        Includes unique URL count, subdomain counts, top 50 words, longest page,
+        exact and near duplicates, and blacklist reason counts.
+    
+        Args:
+            seen_checksums (dict): Mapping of exact duplicate checksums to URL lists.
+            near_duplicates (dict): Mapping of near-duplicate fingerprints to URL lists.
+        """
+        with open("crawl_stats.txt", "w") as f:
             f.write(f"🔹 TOTAL UNIQUE PAGES FOUND: {len(DataBase.unique_urls)}\n\n")
 
             f.write("🔹 SUBDOMAIN COUNTS:\n")
@@ -134,14 +156,3 @@ class DataBase:
             for reason, count in sorted(reason_counter.items(), key=lambda x: x[1], reverse=True):
                 f.write(f"{reason}: {count}\n")
             f.flush()
-
-
-    # @staticmethod
-    # def reset():
-    #     DataBase.scraped.clear()
-    #     DataBase.unique_urls.clear()
-    #     DataBase.blacklistURL.clear()
-    #     DataBase.maxWords = ["", 0]
-    #     DataBase.subdomain_count = defaultdict(int)
-    #     DataBase.word_counter = Counter()
-    #     DataBase.visited_path = set()

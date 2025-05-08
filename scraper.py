@@ -12,6 +12,19 @@ from urllib.parse import urldefrag
 
 #A
 def scraper(url, resp):
+    """
+    Arguments:
+        url (str): The URL from the server.
+        resp (object): The page on that url from the server.
+    Returns:
+        list: A list of valid URLs.
+    Description:
+        Extract links from the given URL using the response object.
+        Check each extracted link:
+            - If the link is valid, append it to the valid_links list.
+            - If the link is invalid, add it to the blacklistURL dictionary in the DataBase.
+        Finally, return the list of valid links.
+    """
     print(f"[SCRAPER] Crawling: {url} - Status: {resp.status}")
     links = extract_next_links(url, resp)
     valid_links = []
@@ -104,9 +117,12 @@ def extract_next_links(url, resp):
 
 #C
 def is_valid(url):
-    # Decide whether to crawl this url or not. 
-    # If you decide to crawl it, return True; otherwise return False.
-    # There are already some conditions that return False.
+   """
+    1. Only allows pages on UCI’s School of Information & Computer Sciences subdomains or the ICS section of today.uci.edu. Every other host is immediately dropped.
+    2. Uses a giant regex to block URLs ending in “static” or binary file types (images, videos, archives, docs, code files, datasets, fonts, etc.). 
+    You skip anything that looks like a download rather than an HTML page.
+    3. Blocks DokuWiki action URLs like ?do=edit or ?do=show, which would just let you bounce around the same content in different modes.
+    """
     try:
         parsed = urlparse(url)
         if parsed.scheme not in set(["http", "https"]):
