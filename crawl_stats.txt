@@ -141,5 +141,5 @@ irvine: 4263
 ramesh: 4160
 
 🔹 LONGEST PAGE:
-URL: http://www.informatics.uci.edu/files/pdf/InformaticsBrochure-March2018
-Word Count: 6124875
+URL: https://ngs.ics.uci.edu/list-of-publications
+Word Count: 52230
